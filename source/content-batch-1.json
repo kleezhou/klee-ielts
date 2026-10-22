@@ -1,0 +1,2033 @@
+[
+  {
+    "id": 21,
+    "word": "diversity",
+    "meaning": "n.多样性，差异",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "diversity",
+    "sourceClues": "variety, difference",
+    "redTerms": [
+      "variety"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "detect",
+    "meaning": "v.查明，发现",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "detect",
+    "sourceClues": "find, look for, seek, search",
+    "redTerms": [
+      "seek"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "isolate",
+    "meaning": "v.使隔离，使孤立",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "isolate",
+    "sourceClues": "inaccessible",
+    "redTerms": [
+      "inaccessible"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "avoid",
+    "meaning": "v.避免",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "avoid",
+    "sourceClues": "escape, evitable",
+    "redTerms": [
+      "escape",
+      "evitable"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "budget",
+    "meaning": "n.预算",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "budget",
+    "sourceClues": "fund, financial",
+    "redTerms": [
+      "fund",
+      "financial"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "adapt to",
+    "meaning": "使适应",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "adapt to",
+    "sourceClues": "fit, suit",
+    "redTerms": []
+  },
+  {
+    "id": 27,
+    "word": "alternative",
+    "meaning": "adj. 供替代的，供选择的n.替代品",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "alternative",
+    "sourceClues": "substitute",
+    "redTerms": [
+      "substitute"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "compensate",
+    "meaning": ".n.补偿，赔偿",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "compensate",
+    "sourceClues": "make up, offset",
+    "redTerms": [
+      "make up",
+      "offset"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "component",
+    "meaning": "n.成分，要素",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "component",
+    "sourceClues": "proportion",
+    "redTerms": [
+      "proportion"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "military",
+    "meaning": "adj.军事的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "military",
+    "sourceClues": "weapon, army",
+    "redTerms": []
+  },
+  {
+    "id": 31,
+    "word": "criteria",
+    "meaning": "n.标准",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "criteria",
+    "sourceClues": "standard",
+    "redTerms": [
+      "standard"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "curriculum",
+    "meaning": "n.课程",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "curriculum",
+    "sourceClues": "syllabus, course of study",
+    "redTerms": [
+      "syllabus"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "feasible",
+    "meaning": "adj.可行的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "feasible",
+    "sourceClues": "realistic, viable",
+    "redTerms": [
+      "realistic",
+      "viable"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "constrain",
+    "meaning": "v.束缚，限制",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "constrain",
+    "sourceClues": "stop, control",
+    "redTerms": []
+  },
+  {
+    "id": 35,
+    "word": "deficiency",
+    "meaning": "n.缺陷，缺点",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "deficiency",
+    "sourceClues": "shortage, defect, weakness",
+    "redTerms": [
+      "defect"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "supplement",
+    "meaning": "v.补充",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "supplement",
+    "sourceClues": "provision",
+    "redTerms": [
+      "provision"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "distinguish",
+    "meaning": "v. 区别，辨别",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "distinguish",
+    "sourceClues": "separate, differentiate",
+    "redTerms": [
+      "differentiate"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "analyze",
+    "meaning": "v.分析，解释",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "analyze",
+    "sourceClues": "examine, diagnose",
+    "redTerms": [
+      "diagnose"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "emphasize",
+    "meaning": "v.强调，着重",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "emphasize",
+    "sourceClues": "focus on, stress",
+    "redTerms": [
+      "focus on",
+      "stress"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "enormous",
+    "meaning": "adj.庞大的，巨大的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "enormous",
+    "sourceClues": "massive, large",
+    "redTerms": [
+      "massive"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "imitate",
+    "meaning": "v.模仿",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "imitate",
+    "sourceClues": "mimic, copy",
+    "redTerms": [
+      "mimic"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "impair",
+    "meaning": "v.削弱，减少",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "impair",
+    "sourceClues": "damage, diminish, decrease",
+    "redTerms": [
+      "diminish"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "hinder",
+    "meaning": "v.阻碍",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "hinder",
+    "sourceClues": "impede, prevent, deter, obstacle",
+    "redTerms": [
+      "impede",
+      "prevent",
+      "deter",
+      "obstacle"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "legitimate",
+    "meaning": "adj.合法的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "legitimate",
+    "sourceClues": "legal",
+    "redTerms": [
+      "legal"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "limitation",
+    "meaning": "n.限制",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "limitation",
+    "sourceClues": "restriction",
+    "redTerms": [
+      "restriction"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "convention",
+    "meaning": "n.手法；习俗",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "convention",
+    "sourceClues": "method; tradition",
+    "redTerms": []
+  },
+  {
+    "id": 47,
+    "word": "demanding",
+    "meaning": "adj.苛求的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "demanding",
+    "sourceClues": "troublesome",
+    "redTerms": []
+  },
+  {
+    "id": 48,
+    "word": "determine",
+    "meaning": "v.决定",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "determine",
+    "sourceClues": "decide",
+    "redTerms": []
+  },
+  {
+    "id": 49,
+    "word": "accelerate",
+    "meaning": "v.加速，促进；强调",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "accelerate",
+    "sourceClues": "speed up",
+    "redTerms": []
+  },
+  {
+    "id": 50,
+    "word": "ancient",
+    "meaning": "adj.古代的;古老的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "ancient",
+    "sourceClues": "aged, old",
+    "redTerms": []
+  },
+  {
+    "id": 51,
+    "word": "beneficial",
+    "meaning": "adj.有益的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "beneficial",
+    "sourceClues": "helpful, advantageous, wholesome",
+    "redTerms": [
+      "wholesome"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "chronic",
+    "meaning": "adj. 慢性的，长期性的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "chronic",
+    "sourceClues": "lasting",
+    "redTerms": []
+  },
+  {
+    "id": 53,
+    "word": "conscious",
+    "meaning": "adj. 有意识的，神志清醒的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "conscious",
+    "sourceClues": "aware, knowing",
+    "redTerms": [
+      "aware"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "minimize",
+    "meaning": "v. 最小化，使……减少到最少",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "minimize",
+    "sourceClues": "reduce, lessen",
+    "redTerms": []
+  },
+  {
+    "id": 55,
+    "word": "immunity",
+    "meaning": "n.免疫力",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "immunity",
+    "sourceClues": "resistance",
+    "redTerms": [
+      "resistance"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "imperative",
+    "meaning": "adj. 必要的， 紧急的",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "Imperative",
+    "sourceClues": "compelling, necessary, urgent",
+    "redTerms": [
+      "necessary"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "secrete",
+    "meaning": "v.分泌",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "secrete",
+    "sourceClues": "discharge, exude",
+    "redTerms": [
+      "discharge",
+      "exude"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "exaggerate",
+    "meaning": "v.夸大，夸张",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "exaggerate",
+    "sourceClues": "overstate",
+    "redTerms": []
+  },
+  {
+    "id": 59,
+    "word": "transmit",
+    "meaning": "v.传达，传输",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "transmit",
+    "sourceClues": "pass, send ,transfer",
+    "redTerms": []
+  },
+  {
+    "id": 60,
+    "word": "extinct",
+    "meaning": "v.灭绝",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "extinct",
+    "sourceClues": "die out, lost",
+    "redTerms": []
+  },
+  {
+    "id": 61,
+    "word": "exclusive",
+    "meaning": "adj. 独有的；排外的；专一的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "exclusive",
+    "sourceClues": "only",
+    "redTerms": [
+      "only"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "guarantee",
+    "meaning": "v.保证，担保",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "guarantee",
+    "sourceClues": "assure",
+    "redTerms": [
+      "assure"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "inherit",
+    "meaning": "v.继承",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "inherit",
+    "sourceClues": "receive",
+    "redTerms": []
+  },
+  {
+    "id": 64,
+    "word": "witness",
+    "meaning": "n.见证，证据；目击者",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "witness",
+    "sourceClues": "view, see",
+    "redTerms": []
+  },
+  {
+    "id": 65,
+    "word": "magnetic",
+    "meaning": "adj.有磁性的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "magnetic",
+    "sourceClues": "attractive",
+    "redTerms": []
+  },
+  {
+    "id": 66,
+    "word": "loss",
+    "meaning": "n.减少；亏损；失败；遗失的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "loss",
+    "sourceClues": "waste, gone",
+    "redTerms": []
+  },
+  {
+    "id": 67,
+    "word": "option",
+    "meaning": "n.选择",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "option",
+    "sourceClues": "choice",
+    "redTerms": []
+  },
+  {
+    "id": 68,
+    "word": "prefer to",
+    "meaning": "更喜欢",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "prefer to",
+    "sourceClues": "rather",
+    "redTerms": [
+      "rather"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "priority",
+    "meaning": "n.优先权",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "priority",
+    "sourceClues": "preference, preferential",
+    "redTerms": [
+      "preference"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "primary",
+    "meaning": "adj.主要的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "primary",
+    "sourceClues": "principle, main",
+    "redTerms": [
+      "principle",
+      "main"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "principle",
+    "meaning": "n.原理",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "principle",
+    "sourceClues": "rule",
+    "redTerms": []
+  },
+  {
+    "id": 72,
+    "word": "potential",
+    "meaning": "n.潜能adj.潜在的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "potential",
+    "sourceClues": "possibility",
+    "redTerms": []
+  },
+  {
+    "id": 73,
+    "word": "quantity",
+    "meaning": ".n.量，数量",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "quantity",
+    "sourceClues": "number",
+    "redTerms": []
+  },
+  {
+    "id": 74,
+    "word": "settle",
+    "meaning": "v.解决；定居，稳定",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "settle",
+    "sourceClues": "fix, figure out",
+    "redTerms": []
+  },
+  {
+    "id": 75,
+    "word": "sophisticate",
+    "meaning": "v.使复杂",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "sophisticate",
+    "sourceClues": "complicate",
+    "redTerms": [
+      "complicate"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "specific",
+    "meaning": "adj. 明确的；特殊的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "specific",
+    "sourceClues": "detailed, particular",
+    "redTerms": [
+      "detailed",
+      "particular"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "survive",
+    "meaning": "v.存活，幸存",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "survive",
+    "sourceClues": "remain",
+    "redTerms": []
+  },
+  {
+    "id": 78,
+    "word": "swift",
+    "meaning": "adj. 迅速的，敏捷的，立刻的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "swift",
+    "sourceClues": "quick, rapid",
+    "redTerms": []
+  },
+  {
+    "id": 79,
+    "word": "unexpectedly",
+    "meaning": "adv. 出乎意料的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "unexpectedly",
+    "sourceClues": "surprising",
+    "redTerms": []
+  },
+  {
+    "id": 80,
+    "word": "surrounding",
+    "meaning": "n.环境",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "surrounding",
+    "sourceClues": "setting, environment",
+    "redTerms": [
+      "setting",
+      "environment"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "attempt",
+    "meaning": "n.试图，尝试",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "attempt",
+    "sourceClues": "try, test",
+    "redTerms": []
+  },
+  {
+    "id": 82,
+    "word": "expertise",
+    "meaning": "n.专门技术",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "expertise",
+    "sourceClues": "knowledge, skill",
+    "redTerms": []
+  },
+  {
+    "id": 83,
+    "word": "faculty",
+    "meaning": "n.能力，才能；全体教员",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "faculty",
+    "sourceClues": "ability",
+    "redTerms": []
+  },
+  {
+    "id": 84,
+    "word": "donate",
+    "meaning": "v.捐赠",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "donate",
+    "sourceClues": "contribute",
+    "redTerms": [
+      "contribute"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "dynamics",
+    "meaning": "n.动力学",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "dynamics",
+    "sourceClues": "energy, force, move",
+    "redTerms": []
+  },
+  {
+    "id": 86,
+    "word": "incentive",
+    "meaning": "n.刺激,鼓励;动机",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "incentive",
+    "sourceClues": "motive, stimulus",
+    "redTerms": [
+      "motive",
+      "stimulus"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "mortality",
+    "meaning": "n.死亡率",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "mortality",
+    "sourceClues": "death",
+    "redTerms": []
+  },
+  {
+    "id": 88,
+    "word": "peripheral",
+    "meaning": "adj. 外围的， 次要的",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "peripheral",
+    "sourceClues": "unimportant, minor",
+    "redTerms": []
+  },
+  {
+    "id": 89,
+    "word": "vicinity",
+    "meaning": "n.邻近，附近",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "vicinity",
+    "sourceClues": "neighbourhood, nearby",
+    "redTerms": []
+  },
+  {
+    "id": 90,
+    "word": "threaten",
+    "meaning": "v.威胁，危及",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "threaten",
+    "sourceClues": "endanger, jeopardize, risk, hazard",
+    "redTerms": [
+      "endanger",
+      "jeopardize",
+      "risk",
+      "hazard"
+    ]
+  },
+  {
+    "id": 91,
+    "word": "practice",
+    "meaning": "n.实行；练习",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "practice",
+    "sourceClues": "method, exercise",
+    "redTerms": []
+  },
+  {
+    "id": 92,
+    "word": "bacteria",
+    "meaning": "n.细菌",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "bacteria",
+    "sourceClues": "virus, germ, microbe",
+    "redTerms": [
+      "virus",
+      "germ",
+      "microbe"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "be subject to",
+    "meaning": "受 支配",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "be subject to",
+    "sourceClues": "face",
+    "redTerms": []
+  },
+  {
+    "id": 94,
+    "word": "be liable to",
+    "meaning": "易于……",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "be liable to",
+    "sourceClues": "potential",
+    "redTerms": []
+  },
+  {
+    "id": 95,
+    "word": "innate",
+    "meaning": "adj. 天生的；内在的，直觉的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "innate",
+    "sourceClues": "built-in, inborn",
+    "redTerms": []
+  },
+  {
+    "id": 96,
+    "word": "pattern",
+    "meaning": "n.模式",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "pattern",
+    "sourceClues": "formation",
+    "redTerms": [
+      "formation"
+    ]
+  },
+  {
+    "id": 97,
+    "word": "therapy",
+    "meaning": "n.治疗，理疗",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "therapy",
+    "sourceClues": "treatment",
+    "redTerms": []
+  },
+  {
+    "id": 98,
+    "word": "original",
+    "meaning": "adj.原始的,最初的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "original",
+    "sourceClues": "initial, fist",
+    "redTerms": [
+      "initial"
+    ]
+  },
+  {
+    "id": 99,
+    "word": "confidential",
+    "meaning": "adj.机密的,秘密的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "confidential",
+    "sourceClues": "undisclosed, secret, hidden",
+    "redTerms": []
+  },
+  {
+    "id": 100,
+    "word": "cognitive",
+    "meaning": "adj.认知的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "cognitive",
+    "sourceClues": "mental",
+    "redTerms": []
+  },
+  {
+    "id": 101,
+    "word": "comply with",
+    "meaning": "照做，遵守",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "comply with",
+    "sourceClues": "obey",
+    "redTerms": [
+      "obey"
+    ]
+  },
+  {
+    "id": 102,
+    "word": "consult",
+    "meaning": "v.查阅,商量,请教,咨询",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "consult",
+    "sourceClues": "ask for advice",
+    "redTerms": []
+  },
+  {
+    "id": 103,
+    "word": "superior",
+    "meaning": "adj.. 上级的; 优秀的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "superior",
+    "sourceClues": "higher, upper",
+    "redTerms": []
+  },
+  {
+    "id": 104,
+    "word": "co-operation",
+    "meaning": "n.合作，协作",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "co-operation",
+    "sourceClues": "support, work together",
+    "redTerms": []
+  },
+  {
+    "id": 105,
+    "word": "co-ordinate",
+    "meaning": "v.使……协调",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "co-ordinate",
+    "sourceClues": "organize, harmonize",
+    "redTerms": [
+      "organize",
+      "harmonize"
+    ]
+  },
+  {
+    "id": 106,
+    "word": "differ",
+    "meaning": "v.使……相异；使……不同",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "differ",
+    "sourceClues": "vary",
+    "redTerms": [
+      "vary"
+    ]
+  },
+  {
+    "id": 107,
+    "word": "cue",
+    "meaning": "n.线索",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "cue",
+    "sourceClues": "hint, clue",
+    "redTerms": [
+      "hint",
+      "clue"
+    ]
+  },
+  {
+    "id": 108,
+    "word": "signal",
+    "meaning": "n.信号",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "signal",
+    "sourceClues": "symbol, mark, sign",
+    "redTerms": [
+      "symbol"
+    ]
+  },
+  {
+    "id": 109,
+    "word": "abandon",
+    "meaning": "v.放弃，遗弃",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "abandon",
+    "sourceClues": "quit, give up, forsake, derelict",
+    "redTerms": []
+  },
+  {
+    "id": 110,
+    "word": "halt",
+    "meaning": "n.停止",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "halt",
+    "sourceClues": "stop, quit",
+    "redTerms": []
+  },
+  {
+    "id": 111,
+    "word": "fragile",
+    "meaning": "adj.脆弱的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "fragile",
+    "sourceClues": "vulnerable",
+    "redTerms": [
+      "vulnerable"
+    ]
+  },
+  {
+    "id": 112,
+    "word": "retain",
+    "meaning": "v.记住",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "retain",
+    "sourceClues": "maintain",
+    "redTerms": []
+  },
+  {
+    "id": 113,
+    "word": "vanish",
+    "meaning": "n.消失，绝迹",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "vanish",
+    "sourceClues": "disappear",
+    "redTerms": []
+  },
+  {
+    "id": 114,
+    "word": "delivery",
+    "meaning": "n.递送",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "delivery",
+    "sourceClues": "send",
+    "redTerms": []
+  },
+  {
+    "id": 115,
+    "word": "erode",
+    "meaning": "v.侵蚀",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "erode",
+    "sourceClues": "rust, damage",
+    "redTerms": []
+  },
+  {
+    "id": 116,
+    "word": "induce",
+    "meaning": "v. 引起， 引诱",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "induce",
+    "sourceClues": "cause, lead to",
+    "redTerms": []
+  },
+  {
+    "id": 117,
+    "word": "stable",
+    "meaning": "adj.稳定的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "stable",
+    "sourceClues": "constant, unchanged",
+    "redTerms": []
+  },
+  {
+    "id": 118,
+    "word": "integrate",
+    "meaning": "v.使……成整体",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "integrate",
+    "sourceClues": "combine, whole",
+    "redTerms": []
+  },
+  {
+    "id": 119,
+    "word": "equal",
+    "meaning": "adj. 平等 的 ; 相 等的；胜任的",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "equal",
+    "sourceClues": "fair, even",
+    "redTerms": [
+      "fair",
+      "even"
+    ]
+  },
+  {
+    "id": 120,
+    "word": "grant",
+    "meaning": "v.拨款；授予",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "main",
+    "sourceWord": "grant",
+    "sourceClues": "offer",
+    "redTerms": []
+  },
+  {
+    "id": 121,
+    "word": "accumulate",
+    "meaning": "v.积累，积聚",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "accumulate",
+    "sourceClues": "gather",
+    "redTerms": []
+  },
+  {
+    "id": 122,
+    "word": "addictive",
+    "meaning": "adj.上瘾的",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "addictive",
+    "sourceClues": "habit",
+    "redTerms": []
+  },
+  {
+    "id": 123,
+    "word": "adversity",
+    "meaning": "n.逆境，不幸",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "adversity",
+    "sourceClues": "trouble",
+    "redTerms": []
+  },
+  {
+    "id": 124,
+    "word": "aggression",
+    "meaning": "n.侵犯，侵害",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "aggression",
+    "sourceClues": "attack",
+    "redTerms": []
+  },
+  {
+    "id": 125,
+    "word": "agreeable",
+    "meaning": "adj.令人愉快的；合适的；和蔼可亲的",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "agreeable",
+    "sourceClues": "pleasant",
+    "redTerms": []
+  },
+  {
+    "id": 126,
+    "word": "aid",
+    "meaning": "n.援助，帮助",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "aid",
+    "sourceClues": "help",
+    "redTerms": []
+  },
+  {
+    "id": 127,
+    "word": "allergic",
+    "meaning": "adj.过敏的；对……极讨厌的",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "allergic",
+    "sourceClues": "irritate",
+    "redTerms": []
+  },
+  {
+    "id": 128,
+    "word": "altitude",
+    "meaning": "n.高度，海拔",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "altitude",
+    "sourceClues": "height",
+    "redTerms": []
+  },
+  {
+    "id": 129,
+    "word": "application",
+    "meaning": "n.应用",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "application",
+    "sourceClues": "utilization",
+    "redTerms": [
+      "utilization"
+    ]
+  },
+  {
+    "id": 130,
+    "word": "approve",
+    "meaning": "v.批准",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "approve",
+    "sourceClues": "agree",
+    "redTerms": []
+  },
+  {
+    "id": 131,
+    "word": "array",
+    "meaning": "n.排列，大批",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "array",
+    "sourceClues": "order",
+    "redTerms": []
+  },
+  {
+    "id": 132,
+    "word": "assign",
+    "meaning": "v.分配，指派",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "assign",
+    "sourceClues": "allocate",
+    "redTerms": [
+      "allocate"
+    ]
+  },
+  {
+    "id": 133,
+    "word": "association",
+    "meaning": "n.协会，联盟；联系",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "association",
+    "sourceClues": "union",
+    "redTerms": []
+  },
+  {
+    "id": 134,
+    "word": "attitude",
+    "meaning": "n.看法，态度",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "attitude",
+    "sourceClues": "opinion",
+    "redTerms": []
+  },
+  {
+    "id": 135,
+    "word": "authority",
+    "meaning": "n.当局，权威",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "authority",
+    "sourceClues": "government",
+    "redTerms": []
+  },
+  {
+    "id": 136,
+    "word": "be consistent with",
+    "meaning": "与……一致",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "be consistent with",
+    "sourceClues": "compatible",
+    "redTerms": [
+      "compatible"
+    ]
+  },
+  {
+    "id": 137,
+    "word": "bear",
+    "meaning": "v.承担；忍受",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "bear",
+    "sourceClues": "tolerate",
+    "redTerms": [
+      "tolerate"
+    ]
+  },
+  {
+    "id": 138,
+    "word": "blight",
+    "meaning": "v.损害；枯萎",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "blight",
+    "sourceClues": "destroy",
+    "redTerms": []
+  },
+  {
+    "id": 139,
+    "word": "boundary",
+    "meaning": "n.边界；底线",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "boundary",
+    "sourceClues": "barrier",
+    "redTerms": [
+      "barrier"
+    ]
+  },
+  {
+    "id": 140,
+    "word": "bungle",
+    "meaning": "v.搞糟，拙劣地工作",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "bungle",
+    "sourceClues": "mishandle",
+    "redTerms": []
+  },
+  {
+    "id": 141,
+    "word": "burden",
+    "meaning": "n.负担",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "burden",
+    "sourceClues": "load",
+    "redTerms": []
+  },
+  {
+    "id": 142,
+    "word": "calamity",
+    "meaning": "n.灾难",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "calamity",
+    "sourceClues": "disaster",
+    "redTerms": [
+      "disaster"
+    ]
+  },
+  {
+    "id": 143,
+    "word": "capacity",
+    "meaning": "n.容量",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "capacity",
+    "sourceClues": "volume",
+    "redTerms": [
+      "volume"
+    ]
+  },
+  {
+    "id": 144,
+    "word": "catastrophic",
+    "meaning": "adj.灾难的",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "catastrophic",
+    "sourceClues": "disastrous",
+    "redTerms": []
+  },
+  {
+    "id": 145,
+    "word": "cater",
+    "meaning": "v.迎合；满足需求",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "cater",
+    "sourceClues": "serve",
+    "redTerms": []
+  },
+  {
+    "id": 146,
+    "word": "certify",
+    "meaning": "v.证明,保证",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "certify",
+    "sourceClues": "verify",
+    "redTerms": []
+  },
+  {
+    "id": 147,
+    "word": "civic",
+    "meaning": "adj.实名的",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "civic",
+    "sourceClues": "municipal",
+    "redTerms": [
+      "municipal"
+    ]
+  },
+  {
+    "id": 148,
+    "word": "comment",
+    "meaning": "n.评论；意见 v.评论",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "comment",
+    "sourceClues": "remark",
+    "redTerms": []
+  },
+  {
+    "id": 149,
+    "word": "commitment",
+    "meaning": "n.承诺，许诺，义务；致力",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "commitment",
+    "sourceClues": "engagement",
+    "redTerms": [
+      "engagement"
+    ]
+  },
+  {
+    "id": 150,
+    "word": "communal",
+    "meaning": "adj.公共的，公社的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "communal",
+    "sourceClues": "public",
+    "redTerms": []
+  },
+  {
+    "id": 151,
+    "word": "commute",
+    "meaning": "v.通勤；用……交换",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "commute",
+    "sourceClues": "travel",
+    "redTerms": []
+  },
+  {
+    "id": 152,
+    "word": "compare",
+    "meaning": "v.与……相比较",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "compare",
+    "sourceClues": "contrast",
+    "redTerms": [
+      "contrast"
+    ]
+  },
+  {
+    "id": 153,
+    "word": "conceal",
+    "meaning": "v.隐藏；隐瞒",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "conceal",
+    "sourceClues": "hide",
+    "redTerms": []
+  },
+  {
+    "id": 154,
+    "word": "concentrate",
+    "meaning": "v.专心于；集中",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "concentrate",
+    "sourceClues": "focus",
+    "redTerms": []
+  },
+  {
+    "id": 155,
+    "word": "concur",
+    "meaning": "v. 同意",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "concur",
+    "sourceClues": "agree",
+    "redTerms": []
+  },
+  {
+    "id": 156,
+    "word": "confer",
+    "meaning": "v.授予，给予",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "confer",
+    "sourceClues": "grant",
+    "redTerms": []
+  },
+  {
+    "id": 157,
+    "word": "conflict",
+    "meaning": "n.冲突，矛盾",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "conflict",
+    "sourceClues": "unharmonious",
+    "redTerms": []
+  },
+  {
+    "id": 158,
+    "word": "confuse",
+    "meaning": "v.使混乱，使迷惑",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "confuse",
+    "sourceClues": "puzzle",
+    "redTerms": [
+      "puzzle"
+    ]
+  },
+  {
+    "id": 159,
+    "word": "conservative",
+    "meaning": "adj.保守的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "conservative",
+    "sourceClues": "traditional",
+    "redTerms": []
+  },
+  {
+    "id": 160,
+    "word": "considerable",
+    "meaning": "adj. 相当大的， 重要的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "considerable",
+    "sourceClues": "significant",
+    "redTerms": []
+  },
+  {
+    "id": 161,
+    "word": "contingent",
+    "meaning": "adj. 因情况而异的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "contingent",
+    "sourceClues": "uncertain",
+    "redTerms": []
+  },
+  {
+    "id": 162,
+    "word": "controversial",
+    "meaning": "adj.有争论的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "controversial",
+    "sourceClues": "disputable",
+    "redTerms": []
+  },
+  {
+    "id": 163,
+    "word": "correlation",
+    "meaning": "n.相关，关联",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "correlation",
+    "sourceClues": "link",
+    "redTerms": [
+      "link"
+    ]
+  },
+  {
+    "id": 164,
+    "word": "courtship",
+    "meaning": "n.求爱（时期）",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "courtship",
+    "sourceClues": "mate",
+    "redTerms": []
+  },
+  {
+    "id": 165,
+    "word": "crash",
+    "meaning": "n.碰撞",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "crash",
+    "sourceClues": "collapse",
+    "redTerms": [
+      "collapse"
+    ]
+  },
+  {
+    "id": 166,
+    "word": "credibility",
+    "meaning": "n.可信性",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "credibility",
+    "sourceClues": "reliance",
+    "redTerms": [
+      "reliance"
+    ]
+  },
+  {
+    "id": 167,
+    "word": "criminal",
+    "meaning": "n.罪犯，犯人",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "criminal",
+    "sourceClues": "conviction",
+    "redTerms": [
+      "conviction"
+    ]
+  },
+  {
+    "id": 168,
+    "word": "crisis",
+    "meaning": "n.危机",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "crisis",
+    "sourceClues": "risk",
+    "redTerms": []
+  },
+  {
+    "id": 169,
+    "word": "criticism",
+    "meaning": "n.评论",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "criticism",
+    "sourceClues": "condemn",
+    "redTerms": [
+      "condemn"
+    ]
+  },
+  {
+    "id": 170,
+    "word": "curb",
+    "meaning": "v. 限制，抑制",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "curb",
+    "sourceClues": "restrict",
+    "redTerms": []
+  },
+  {
+    "id": 171,
+    "word": "damp",
+    "meaning": "adj.潮湿的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "damp",
+    "sourceClues": "wet",
+    "redTerms": []
+  },
+  {
+    "id": 172,
+    "word": "dazzle",
+    "meaning": "v.使目眩；使……眼花",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "dazzle",
+    "sourceClues": "flash",
+    "redTerms": []
+  },
+  {
+    "id": 173,
+    "word": "deadline",
+    "meaning": "n.最后期限",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "deadline",
+    "sourceClues": "limit",
+    "redTerms": []
+  },
+  {
+    "id": 174,
+    "word": "delay",
+    "meaning": "n.延期，耽搁",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "delay",
+    "sourceClues": "postpone",
+    "redTerms": [
+      "postpone"
+    ]
+  },
+  {
+    "id": 175,
+    "word": "democratic",
+    "meaning": "adj. 民主的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "democratic",
+    "sourceClues": "republic",
+    "redTerms": []
+  },
+  {
+    "id": 176,
+    "word": "demographic",
+    "meaning": "adj. 人口统计学的；人口学",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "demographic",
+    "sourceClues": "population statistic",
+    "redTerms": []
+  },
+  {
+    "id": 177,
+    "word": "dental",
+    "meaning": "adj.牙科的，牙齿的",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "dental",
+    "sourceClues": "teeth",
+    "redTerms": []
+  },
+  {
+    "id": 178,
+    "word": "depression",
+    "meaning": "n.抑郁，沮丧",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "depression",
+    "sourceClues": "frustration",
+    "redTerms": [
+      "frustration"
+    ]
+  },
+  {
+    "id": 179,
+    "word": "designate",
+    "meaning": "n.指定；指派，标出",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "designate",
+    "sourceClues": "appoint",
+    "redTerms": []
+  },
+  {
+    "id": 180,
+    "word": "detain",
+    "meaning": "v.留住",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "detain",
+    "sourceClues": "hold",
+    "redTerms": []
+  },
+  {
+    "id": 181,
+    "word": "devastate",
+    "meaning": "v.毁坏，毁灭",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "devastate",
+    "sourceClues": "wreck",
+    "redTerms": [
+      "wreck"
+    ]
+  },
+  {
+    "id": 182,
+    "word": "disclose",
+    "meaning": "v.公开；揭露",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "disclose",
+    "sourceClues": "expose",
+    "redTerms": [
+      "expose"
+    ]
+  },
+  {
+    "id": 183,
+    "word": "disparate",
+    "meaning": "adj.不同的",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "disparate",
+    "sourceClues": "different",
+    "redTerms": []
+  },
+  {
+    "id": 184,
+    "word": "display",
+    "meaning": "n.显示",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "display",
+    "sourceClues": "show",
+    "redTerms": []
+  },
+  {
+    "id": 185,
+    "word": "disrupt",
+    "meaning": "v.破坏",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "disrupt",
+    "sourceClues": "destroy",
+    "redTerms": []
+  },
+  {
+    "id": 186,
+    "word": "distract",
+    "meaning": "v.转移，分心",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "distract",
+    "sourceClues": "divert",
+    "redTerms": [
+      "divert"
+    ]
+  },
+  {
+    "id": 187,
+    "word": "distribute",
+    "meaning": "v.分配，分发",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "distribute",
+    "sourceClues": "spread",
+    "redTerms": []
+  },
+  {
+    "id": 188,
+    "word": "documentation",
+    "meaning": "n.文件；文献",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "documentation",
+    "sourceClues": "record",
+    "redTerms": [
+      "record"
+    ]
+  },
+  {
+    "id": 189,
+    "word": "domain",
+    "meaning": "n.领域",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "domain",
+    "sourceClues": "field",
+    "redTerms": []
+  },
+  {
+    "id": 190,
+    "word": "dominant",
+    "meaning": "adj. 占优势的， 占支配地位的",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "dominant",
+    "sourceClues": "overbearing",
+    "redTerms": []
+  }
+]

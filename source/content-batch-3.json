@@ -1,0 +1,1554 @@
+[
+  {
+    "id": 359,
+    "word": "term",
+    "meaning": "n.术语",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "term",
+    "sourceClues": "word",
+    "redTerms": []
+  },
+  {
+    "id": 360,
+    "word": "throughout",
+    "meaning": "adv. 自始至终，到处；全部",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "throughout",
+    "sourceClues": "anywhere",
+    "redTerms": []
+  },
+  {
+    "id": 361,
+    "word": "toll",
+    "meaning": "n.通行费v.征收",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "toll",
+    "sourceClues": "charge",
+    "redTerms": []
+  },
+  {
+    "id": 362,
+    "word": "trace",
+    "meaning": "n.追溯；痕迹",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "trace",
+    "sourceClues": "track",
+    "redTerms": [
+      "track"
+    ]
+  },
+  {
+    "id": 363,
+    "word": "transcend",
+    "meaning": "v.胜过，超越",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "transcend",
+    "sourceClues": "excel",
+    "redTerms": [
+      "excel"
+    ]
+  },
+  {
+    "id": 364,
+    "word": "transit",
+    "meaning": "n.运输；经过v.运送",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "transit",
+    "sourceClues": "send",
+    "redTerms": []
+  },
+  {
+    "id": 365,
+    "word": "tremendous",
+    "meaning": "adj. 巨大的，惊人的",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "tremendous",
+    "sourceClues": "vast",
+    "redTerms": []
+  },
+  {
+    "id": 366,
+    "word": "trigger",
+    "meaning": "n.触发，引发，引起",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "trigger",
+    "sourceClues": "begin",
+    "redTerms": []
+  },
+  {
+    "id": 367,
+    "word": "tropical",
+    "meaning": "adj.热带的",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "tropical",
+    "sourceClues": "hot",
+    "redTerms": []
+  },
+  {
+    "id": 368,
+    "word": "unbiased",
+    "meaning": "adj. 公正的，无偏见的",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "unbiased",
+    "sourceClues": "fair",
+    "redTerms": []
+  },
+  {
+    "id": 369,
+    "word": "uniform",
+    "meaning": "adj.始终如一的",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "uniform",
+    "sourceClues": "consistent",
+    "redTerms": []
+  },
+  {
+    "id": 370,
+    "word": "valuable",
+    "meaning": "adj. 宝贵的，有价值的",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "valuable",
+    "sourceClues": "benefit",
+    "redTerms": []
+  },
+  {
+    "id": 371,
+    "word": "versatile",
+    "meaning": "adj.多功能",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "versatile",
+    "sourceClues": "all-around",
+    "redTerms": []
+  },
+  {
+    "id": 372,
+    "word": "view",
+    "meaning": "v.看",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "view",
+    "sourceClues": "overlook",
+    "redTerms": []
+  },
+  {
+    "id": 373,
+    "word": "violent",
+    "meaning": "adj.暴力的；猛烈的",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "violent",
+    "sourceClues": "fierce",
+    "redTerms": []
+  },
+  {
+    "id": 374,
+    "word": "visible",
+    "meaning": "adj. 明显的，看得见的",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "visible",
+    "sourceClues": "see",
+    "redTerms": []
+  },
+  {
+    "id": 375,
+    "word": "visual",
+    "meaning": "adj.是觉得",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "visual",
+    "sourceClues": "image",
+    "redTerms": []
+  },
+  {
+    "id": 376,
+    "word": "well-being",
+    "meaning": "n.健康，康乐",
+    "sourcePage": 15,
+    "category": 3,
+    "sourceKind": "main",
+    "sourceWord": "well-being",
+    "sourceClues": "health",
+    "redTerms": []
+  },
+  {
+    "id": 377,
+    "word": "similar",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 1
+  },
+  {
+    "id": 378,
+    "word": "perceive",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 2
+  },
+  {
+    "id": 379,
+    "word": "acknowledge",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 2
+  },
+  {
+    "id": 380,
+    "word": "realize",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 2
+  },
+  {
+    "id": 381,
+    "word": "appreciate",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 2
+  },
+  {
+    "id": 382,
+    "word": "admit",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 2
+  },
+  {
+    "id": 383,
+    "word": "identify",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 2
+  },
+  {
+    "id": 384,
+    "word": "comprehend",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 2
+  },
+  {
+    "id": 385,
+    "word": "change",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 3
+  },
+  {
+    "id": 386,
+    "word": "modify",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 3
+  },
+  {
+    "id": 387,
+    "word": "shift",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 3
+  },
+  {
+    "id": 388,
+    "word": "alter",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 3
+  },
+  {
+    "id": 389,
+    "word": "method",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 4
+  },
+  {
+    "id": 390,
+    "word": "rudimentary",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 5
+  },
+  {
+    "id": 391,
+    "word": "preliminary",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 5
+  },
+  {
+    "id": 392,
+    "word": "depend on",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 6
+  },
+  {
+    "id": 393,
+    "word": "calculate",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 8
+  },
+  {
+    "id": 394,
+    "word": "assess",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 8
+  },
+  {
+    "id": 395,
+    "word": "evaluate",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 8
+  },
+  {
+    "id": 396,
+    "word": "apply to",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 13
+  },
+  {
+    "id": 397,
+    "word": "based on",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 14
+  },
+  {
+    "id": 398,
+    "word": "neglect",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 15
+  },
+  {
+    "id": 399,
+    "word": "overlook",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 15
+  },
+  {
+    "id": 400,
+    "word": "underestimate",
+    "meaning": "",
+    "sourcePage": 2,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 15
+  },
+  {
+    "id": 401,
+    "word": "toxic",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 16
+  },
+  {
+    "id": 402,
+    "word": "stem from",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 20
+  },
+  {
+    "id": 403,
+    "word": "derive",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 1,
+    "sourceKind": "replacement",
+    "relatedTo": 20
+  },
+  {
+    "id": 404,
+    "word": "variety",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 21
+  },
+  {
+    "id": 405,
+    "word": "seek",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 22
+  },
+  {
+    "id": 406,
+    "word": "inaccessible",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 23
+  },
+  {
+    "id": 407,
+    "word": "escape",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 24
+  },
+  {
+    "id": 408,
+    "word": "evitable",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 24
+  },
+  {
+    "id": 409,
+    "word": "fund",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 25
+  },
+  {
+    "id": 410,
+    "word": "financial",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 25
+  },
+  {
+    "id": 411,
+    "word": "substitute",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 27
+  },
+  {
+    "id": 412,
+    "word": "make up",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 28
+  },
+  {
+    "id": 413,
+    "word": "offset",
+    "meaning": "",
+    "sourcePage": 3,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 28
+  },
+  {
+    "id": 414,
+    "word": "proportion",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 29
+  },
+  {
+    "id": 415,
+    "word": "standard",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 31
+  },
+  {
+    "id": 416,
+    "word": "syllabus",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 32
+  },
+  {
+    "id": 417,
+    "word": "realistic",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 33
+  },
+  {
+    "id": 418,
+    "word": "viable",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 33
+  },
+  {
+    "id": 419,
+    "word": "defect",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 35
+  },
+  {
+    "id": 420,
+    "word": "provision",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 36
+  },
+  {
+    "id": 421,
+    "word": "differentiate",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 37
+  },
+  {
+    "id": 422,
+    "word": "diagnose",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 38
+  },
+  {
+    "id": 423,
+    "word": "focus on",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 39
+  },
+  {
+    "id": 424,
+    "word": "stress",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 39
+  },
+  {
+    "id": 425,
+    "word": "massive",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 40
+  },
+  {
+    "id": 426,
+    "word": "mimic",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 41
+  },
+  {
+    "id": 427,
+    "word": "diminish",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 42
+  },
+  {
+    "id": 428,
+    "word": "impede",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 43
+  },
+  {
+    "id": 429,
+    "word": "prevent",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 43
+  },
+  {
+    "id": 430,
+    "word": "deter",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 43
+  },
+  {
+    "id": 431,
+    "word": "obstacle",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 43
+  },
+  {
+    "id": 432,
+    "word": "legal",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 44
+  },
+  {
+    "id": 433,
+    "word": "restriction",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 45
+  },
+  {
+    "id": 434,
+    "word": "wholesome",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 51
+  },
+  {
+    "id": 435,
+    "word": "aware",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 53
+  },
+  {
+    "id": 436,
+    "word": "resistance",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 55
+  },
+  {
+    "id": 437,
+    "word": "necessary",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 56
+  },
+  {
+    "id": 438,
+    "word": "discharge",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 57
+  },
+  {
+    "id": 439,
+    "word": "exude",
+    "meaning": "",
+    "sourcePage": 4,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 57
+  },
+  {
+    "id": 440,
+    "word": "only",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 61
+  },
+  {
+    "id": 441,
+    "word": "assure",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 62
+  },
+  {
+    "id": 442,
+    "word": "rather",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 68
+  },
+  {
+    "id": 443,
+    "word": "preference",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 69
+  },
+  {
+    "id": 444,
+    "word": "main",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 70
+  },
+  {
+    "id": 445,
+    "word": "complicate",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 75
+  },
+  {
+    "id": 446,
+    "word": "detailed",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 76
+  },
+  {
+    "id": 447,
+    "word": "particular",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 76
+  },
+  {
+    "id": 448,
+    "word": "setting",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 80
+  },
+  {
+    "id": 449,
+    "word": "environment",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 80
+  },
+  {
+    "id": 450,
+    "word": "contribute",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 84
+  },
+  {
+    "id": 451,
+    "word": "motive",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 86
+  },
+  {
+    "id": 452,
+    "word": "stimulus",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 86
+  },
+  {
+    "id": 453,
+    "word": "endanger",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 90
+  },
+  {
+    "id": 454,
+    "word": "jeopardize",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 90
+  },
+  {
+    "id": 455,
+    "word": "risk",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 90
+  },
+  {
+    "id": 456,
+    "word": "hazard",
+    "meaning": "",
+    "sourcePage": 5,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 90
+  },
+  {
+    "id": 457,
+    "word": "virus",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 92
+  },
+  {
+    "id": 458,
+    "word": "germ",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 92
+  },
+  {
+    "id": 459,
+    "word": "microbe",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 92
+  },
+  {
+    "id": 460,
+    "word": "formation",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 96
+  },
+  {
+    "id": 461,
+    "word": "initial",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 98
+  },
+  {
+    "id": 462,
+    "word": "obey",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 101
+  },
+  {
+    "id": 463,
+    "word": "organize",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 105
+  },
+  {
+    "id": 464,
+    "word": "harmonize",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 105
+  },
+  {
+    "id": 465,
+    "word": "vary",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 106
+  },
+  {
+    "id": 466,
+    "word": "hint",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 107
+  },
+  {
+    "id": 467,
+    "word": "clue",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 107
+  },
+  {
+    "id": 468,
+    "word": "symbol",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 108
+  },
+  {
+    "id": 469,
+    "word": "vulnerable",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 111
+  },
+  {
+    "id": 470,
+    "word": "fair",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 119
+  },
+  {
+    "id": 471,
+    "word": "even",
+    "meaning": "",
+    "sourcePage": 6,
+    "category": 2,
+    "sourceKind": "replacement",
+    "relatedTo": 119
+  },
+  {
+    "id": 472,
+    "word": "utilization",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 129
+  },
+  {
+    "id": 473,
+    "word": "allocate",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 132
+  },
+  {
+    "id": 474,
+    "word": "compatible",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 136
+  },
+  {
+    "id": 475,
+    "word": "tolerate",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 137
+  },
+  {
+    "id": 476,
+    "word": "barrier",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 139
+  },
+  {
+    "id": 477,
+    "word": "disaster",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 142
+  },
+  {
+    "id": 478,
+    "word": "volume",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 143
+  },
+  {
+    "id": 479,
+    "word": "municipal",
+    "meaning": "",
+    "sourcePage": 7,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 147
+  },
+  {
+    "id": 480,
+    "word": "engagement",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 149
+  },
+  {
+    "id": 481,
+    "word": "contrast",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 152
+  },
+  {
+    "id": 482,
+    "word": "puzzle",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 158
+  },
+  {
+    "id": 483,
+    "word": "link",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 163
+  },
+  {
+    "id": 484,
+    "word": "collapse",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 165
+  },
+  {
+    "id": 485,
+    "word": "reliance",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 166
+  },
+  {
+    "id": 486,
+    "word": "conviction",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 167
+  },
+  {
+    "id": 487,
+    "word": "condemn",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 169
+  },
+  {
+    "id": 488,
+    "word": "postpone",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 174
+  },
+  {
+    "id": 489,
+    "word": "frustration",
+    "meaning": "",
+    "sourcePage": 8,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 178
+  },
+  {
+    "id": 490,
+    "word": "wreck",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 181
+  },
+  {
+    "id": 491,
+    "word": "expose",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 182
+  },
+  {
+    "id": 492,
+    "word": "divert",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 186
+  },
+  {
+    "id": 493,
+    "word": "record",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 188
+  },
+  {
+    "id": 494,
+    "word": "illustrate",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 195
+  },
+  {
+    "id": 495,
+    "word": "moral",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 205
+  },
+  {
+    "id": 496,
+    "word": "proof",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 207
+  },
+  {
+    "id": 497,
+    "word": "fatigue",
+    "meaning": "",
+    "sourcePage": 9,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 209
+  },
+  {
+    "id": 498,
+    "word": "extreme",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 211
+  },
+  {
+    "id": 499,
+    "word": "quotation",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 215
+  },
+  {
+    "id": 500,
+    "word": "execute",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 223
+  },
+  {
+    "id": 501,
+    "word": "talented",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 225
+  },
+  {
+    "id": 502,
+    "word": "assumption",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 231
+  },
+  {
+    "id": 503,
+    "word": "influence",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 232
+  },
+  {
+    "id": 504,
+    "word": "conform",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 234
+  },
+  {
+    "id": 505,
+    "word": "spoil",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 238
+  },
+  {
+    "id": 506,
+    "word": "plague",
+    "meaning": "",
+    "sourcePage": 10,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 239
+  },
+  {
+    "id": 507,
+    "word": "opportunity",
+    "meaning": "",
+    "sourcePage": 11,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 257
+  },
+  {
+    "id": 508,
+    "word": "spouse",
+    "meaning": "",
+    "sourcePage": 11,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 266
+  },
+  {
+    "id": 509,
+    "word": "surveillance",
+    "meaning": "",
+    "sourcePage": 12,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 273
+  },
+  {
+    "id": 510,
+    "word": "theme",
+    "meaning": "",
+    "sourcePage": 12,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 274
+  },
+  {
+    "id": 511,
+    "word": "regulation",
+    "meaning": "",
+    "sourcePage": 12,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 278
+  },
+  {
+    "id": 512,
+    "word": "hostile",
+    "meaning": "",
+    "sourcePage": 12,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 286
+  },
+  {
+    "id": 513,
+    "word": "defeat",
+    "meaning": "",
+    "sourcePage": 12,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 292
+  },
+  {
+    "id": 514,
+    "word": "surpass",
+    "meaning": "",
+    "sourcePage": 12,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 293
+  },
+  {
+    "id": 515,
+    "word": "expect",
+    "meaning": "",
+    "sourcePage": 13,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 311
+  },
+  {
+    "id": 516,
+    "word": "scope",
+    "meaning": "",
+    "sourcePage": 13,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 321
+  },
+  {
+    "id": 517,
+    "word": "respond",
+    "meaning": "",
+    "sourcePage": 13,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 324
+  },
+  {
+    "id": 518,
+    "word": "entertainment",
+    "meaning": "",
+    "sourcePage": 13,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 325
+  },
+  {
+    "id": 519,
+    "word": "exclude",
+    "meaning": "",
+    "sourcePage": 13,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 329
+  },
+  {
+    "id": 520,
+    "word": "relative",
+    "meaning": "",
+    "sourcePage": 13,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 330
+  },
+  {
+    "id": 521,
+    "word": "shelter",
+    "meaning": "",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 339
+  },
+  {
+    "id": 522,
+    "word": "motivate",
+    "meaning": "",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 345
+  },
+  {
+    "id": 523,
+    "word": "delicate",
+    "meaning": "",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 349
+  },
+  {
+    "id": 524,
+    "word": "replace",
+    "meaning": "",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 352
+  },
+  {
+    "id": 525,
+    "word": "track",
+    "meaning": "",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 362
+  },
+  {
+    "id": 526,
+    "word": "excel",
+    "meaning": "",
+    "sourcePage": 14,
+    "category": 3,
+    "sourceKind": "replacement",
+    "relatedTo": 363
+  }
+]

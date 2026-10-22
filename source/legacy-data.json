@@ -1,0 +1,3339 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "word": "resemble",
+      "ipa": "/rɪˈzem.bəl/",
+      "meaning": "v. 像；与……相似",
+      "synonyms": [
+        "be similar to",
+        "look like"
+      ],
+      "example": "The two buildings resemble each other.",
+      "translation": "这两栋建筑彼此相似。",
+      "note": "resemble 后直接接宾语，不加 to。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "assemble",
+          "meaning": "组装；集合"
+        },
+        {
+          "word": "remember",
+          "meaning": "记住；记得"
+        },
+        {
+          "word": "represent",
+          "meaning": "代表；象征"
+        }
+      ],
+      "spellings": [
+        "resemble"
+      ]
+    },
+    {
+      "id": 2,
+      "word": "recognize",
+      "ipa": "/ˈrek.əɡ.naɪz/",
+      "meaning": "v. 认出；识别；承认",
+      "synonyms": [
+        "identify",
+        "acknowledge"
+      ],
+      "example": "Researchers recognize the importance of clean water.",
+      "translation": "研究人员认识到清洁水的重要性。",
+      "note": "既可指“认出”，也可指“承认、认识到”。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "organize",
+          "meaning": "组织；安排"
+        },
+        {
+          "word": "recommend",
+          "meaning": "推荐；建议"
+        },
+        {
+          "word": "reconstruct",
+          "meaning": "重建；重构"
+        }
+      ],
+      "spellings": [
+        "recognize",
+        "recognise"
+      ]
+    },
+    {
+      "id": 3,
+      "word": "adjust",
+      "ipa": "/əˈdʒʌst/",
+      "meaning": "v. 调整；使适合",
+      "synonyms": [
+        "modify",
+        "alter"
+      ],
+      "example": "Farmers adjust their methods as the climate changes.",
+      "translation": "随着气候变化，农民调整他们的方法。",
+      "note": "adjust something：调整某物；adjust to：适应。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "admit",
+          "meaning": "承认；准许进入"
+        },
+        {
+          "word": "adopt",
+          "meaning": "采用；收养"
+        },
+        {
+          "word": "justify",
+          "meaning": "证明……合理"
+        }
+      ],
+      "spellings": [
+        "adjust"
+      ]
+    },
+    {
+      "id": 4,
+      "word": "approach",
+      "ipa": "/əˈprəʊtʃ/",
+      "meaning": "n. 方法；途径",
+      "synonyms": [
+        "method",
+        "way"
+      ],
+      "example": "This approach reduces the amount of waste.",
+      "translation": "这种方法减少了废弃物的数量。",
+      "note": "表示“解决某事的方法”时，常用 an approach to。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "reproach",
+          "meaning": "责备；指责"
+        },
+        {
+          "word": "approve",
+          "meaning": "赞成；批准"
+        },
+        {
+          "word": "approximate",
+          "meaning": "大约的；近似的"
+        }
+      ],
+      "spellings": [
+        "approach"
+      ]
+    },
+    {
+      "id": 5,
+      "word": "fundamental",
+      "ipa": "/ˌfʌn.dəˈmen.təl/",
+      "meaning": "adj. 基本的；基础的",
+      "synonyms": [
+        "basic",
+        "rudimentary"
+      ],
+      "example": "Light is fundamental to the growth of plants.",
+      "translation": "光对植物的生长至关重要。",
+      "note": "fundamental to：对……至关重要。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "experimental",
+          "meaning": "实验的；试验性的"
+        },
+        {
+          "word": "ornamental",
+          "meaning": "装饰性的"
+        },
+        {
+          "word": "mental",
+          "meaning": "心理的；精神的"
+        }
+      ],
+      "spellings": [
+        "fundamental"
+      ]
+    },
+    {
+      "id": 6,
+      "word": "rely on",
+      "ipa": "/rɪˈlaɪ ɒn/",
+      "meaning": "短语 依靠；依赖",
+      "synonyms": [
+        "depend on"
+      ],
+      "example": "Many villages rely on rivers for drinking water.",
+      "translation": "许多村庄依靠河流获取饮用水。",
+      "note": "rely on something for something：依靠……获得……。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "reply to",
+          "meaning": "回复；答复"
+        },
+        {
+          "word": "apply for",
+          "meaning": "申请"
+        },
+        {
+          "word": "carry out",
+          "meaning": "执行；实施"
+        }
+      ],
+      "spellings": [
+        "rely on"
+      ]
+    },
+    {
+      "id": 7,
+      "word": "domestic",
+      "ipa": "/dəˈmes.tɪk/",
+      "meaning": "adj. 国内的；家庭的",
+      "synonyms": [
+        "local",
+        "national"
+      ],
+      "example": "Domestic demand for energy continues to rise.",
+      "translation": "国内的能源需求持续上升。",
+      "note": "这里指“国内的”；domestic work 则指家务劳动。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "democratic",
+          "meaning": "民主的"
+        },
+        {
+          "word": "dormant",
+          "meaning": "休眠的；暂时不活跃的"
+        },
+        {
+          "word": "dominant",
+          "meaning": "占主导地位的"
+        }
+      ],
+      "spellings": [
+        "domestic"
+      ]
+    },
+    {
+      "id": 8,
+      "word": "measure",
+      "ipa": "/ˈmeʒ.ər/",
+      "meaning": "v. 测量；衡量",
+      "synonyms": [
+        "assess",
+        "evaluate"
+      ],
+      "example": "Scientists measure changes in air temperature.",
+      "translation": "科学家测量气温的变化。",
+      "note": "measure 可指实际测量；assess 和 evaluate 更强调评估。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "treasure",
+          "meaning": "珍宝；财富"
+        },
+        {
+          "word": "pleasure",
+          "meaning": "愉快；乐趣"
+        },
+        {
+          "word": "pressure",
+          "meaning": "压力"
+        }
+      ],
+      "spellings": [
+        "measure"
+      ]
+    },
+    {
+      "id": 9,
+      "word": "trait",
+      "ipa": "/treɪt/",
+      "meaning": "n. 特征；特性",
+      "synonyms": [
+        "characteristic",
+        "feature"
+      ],
+      "example": "This trait helps the animal survive in cold weather.",
+      "translation": "这一特征帮助这种动物在寒冷天气中生存。",
+      "note": "常用于生物特征或人的性格特征。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "trial",
+          "meaning": "试验；审判"
+        },
+        {
+          "word": "trail",
+          "meaning": "小路；踪迹"
+        },
+        {
+          "word": "trace",
+          "meaning": "痕迹；微量"
+        }
+      ],
+      "spellings": [
+        "trait"
+      ]
+    },
+    {
+      "id": 10,
+      "word": "coin",
+      "ipa": "/kɔɪn/",
+      "meaning": "v. 创造（新词或表达）",
+      "synonyms": [
+        "invent",
+        "first used"
+      ],
+      "example": "A researcher coined the term to describe this process.",
+      "translation": "一位研究人员创造了这个术语来描述这一过程。",
+      "note": "本组学习动词义；coin 作名词时也表示“硬币”。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "coil",
+          "meaning": "盘绕；卷成圈"
+        },
+        {
+          "word": "join",
+          "meaning": "加入；连接"
+        },
+        {
+          "word": "count",
+          "meaning": "计数；数数"
+        }
+      ],
+      "spellings": [
+        "coin"
+      ]
+    },
+    {
+      "id": 11,
+      "word": "artificial",
+      "ipa": "/ˌɑː.tɪˈfɪʃ.əl/",
+      "meaning": "adj. 人工的；人造的",
+      "synonyms": [
+        "synthetic",
+        "man-made"
+      ],
+      "example": "Artificial light can affect the behaviour of birds.",
+      "translation": "人工光照会影响鸟类的行为。",
+      "note": "artificial light：人工光照；artificial intelligence：人工智能。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "official",
+          "meaning": "官方的；正式的"
+        },
+        {
+          "word": "beneficial",
+          "meaning": "有益的；有利的"
+        },
+        {
+          "word": "artistic",
+          "meaning": "艺术的；有艺术天赋的"
+        }
+      ],
+      "spellings": [
+        "artificial"
+      ]
+    },
+    {
+      "id": 12,
+      "word": "prompt",
+      "ipa": "/prɒmpt/",
+      "meaning": "v. 促使；激起",
+      "synonyms": [
+        "initiate"
+      ],
+      "example": "Higher costs may prompt companies to reduce waste.",
+      "translation": "更高的成本可能促使企业减少浪费。",
+      "note": "prompt somebody to do something：促使某人做某事。本卡学习动词义。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "promote",
+          "meaning": "晋升；推销"
+        },
+        {
+          "word": "permit",
+          "meaning": "允许；许可"
+        },
+        {
+          "word": "prevent",
+          "meaning": "阻止；预防"
+        }
+      ],
+      "spellings": [
+        "prompt"
+      ]
+    },
+    {
+      "id": 13,
+      "word": "exchange",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "meaning": "v. 交换；交流",
+      "synonyms": [
+        "share"
+      ],
+      "example": "Students exchange ideas about protecting the environment.",
+      "translation": "学生们交流有关保护环境的想法。",
+      "note": "exchange ideas：交流想法；exchange A for B：用 A 换 B。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "expand",
+          "meaning": "扩大；扩展"
+        },
+        {
+          "word": "extend",
+          "meaning": "延长；延伸"
+        },
+        {
+          "word": "exclude",
+          "meaning": "排除；不包括"
+        }
+      ],
+      "spellings": [
+        "exchange"
+      ]
+    },
+    {
+      "id": 14,
+      "word": "underlie",
+      "ipa": "/ˌʌn.dəˈlaɪ/",
+      "meaning": "v. 构成……的基础；是……的深层原因",
+      "synonyms": [
+        "be based on"
+      ],
+      "example": "Several factors underlie the decline in fish numbers.",
+      "translation": "鱼类数量下降背后有几个因素。",
+      "note": "A underlies B 对应 B is based on A，改写时注意主语变化。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "underline",
+          "meaning": "在……下画线"
+        },
+        {
+          "word": "undermine",
+          "meaning": "逐渐削弱；损害"
+        },
+        {
+          "word": "undergo",
+          "meaning": "经历；经受"
+        }
+      ],
+      "spellings": [
+        "underlie"
+      ]
+    },
+    {
+      "id": 15,
+      "word": "ignore",
+      "ipa": "/ɪɡˈnɔːr/",
+      "meaning": "v. 忽视；不理会",
+      "synonyms": [
+        "neglect",
+        "overlook"
+      ],
+      "example": "The study does not ignore the needs of local people.",
+      "translation": "这项研究没有忽视当地人的需求。",
+      "note": "ignore 常含有主动不理会之意；overlook 也可指无意遗漏。",
+      "sourcePage": 2,
+      "distractors": [
+        {
+          "word": "inform",
+          "meaning": "告知；通知"
+        },
+        {
+          "word": "inquire",
+          "meaning": "询问；打听"
+        },
+        {
+          "word": "involve",
+          "meaning": "涉及；使参与"
+        }
+      ],
+      "spellings": [
+        "ignore"
+      ]
+    },
+    {
+      "id": 16,
+      "word": "fertiliser",
+      "ipa": "/ˈfɜː.tɪ.laɪ.zər/",
+      "meaning": "n. 肥料",
+      "synonyms": [
+        "fertilizer"
+      ],
+      "example": "Farmers use fertiliser to improve the soil.",
+      "translation": "农民使用肥料来改良土壤。",
+      "note": "fertiliser 是英式拼写，fertilizer 是美式拼写。原表相关词 chemical、toxic 等不是同义词。",
+      "sourcePage": 3,
+      "distractors": [
+        {
+          "word": "fertility",
+          "meaning": "土壤肥力；生育能力"
+        },
+        {
+          "word": "fossil",
+          "meaning": "化石"
+        },
+        {
+          "word": "filter",
+          "meaning": "过滤器；滤光器"
+        }
+      ],
+      "spellings": [
+        "fertiliser",
+        "fertilizer"
+      ]
+    },
+    {
+      "id": 17,
+      "word": "that",
+      "ipa": "/ðæt/",
+      "meaning": "pron. 那；那个",
+      "synonyms": [
+        "this",
+        "it",
+        "those"
+      ],
+      "example": "The population of this city is larger than that of the nearby town.",
+      "translation": "这座城市的人口比附近小镇的人口多。",
+      "note": "这里 that 指代前面的 population。指代词需要回到句子里判断。",
+      "sourcePage": 3,
+      "distractors": [
+        {
+          "word": "than",
+          "meaning": "比（用于比较）"
+        },
+        {
+          "word": "then",
+          "meaning": "然后；当时"
+        },
+        {
+          "word": "thus",
+          "meaning": "因此；以这种方式"
+        }
+      ],
+      "spellings": [
+        "that"
+      ]
+    },
+    {
+      "id": 18,
+      "word": "and",
+      "ipa": "/ænd/",
+      "meaning": "conj. 和；而且",
+      "synonyms": [
+        "as well as",
+        "both … and …"
+      ],
+      "example": "The project saves energy and reduces pollution.",
+      "translation": "这个项目节约能源，而且减少污染。",
+      "note": "注意并列结构；原表列出的 or、neither … nor … 等与 and 逻辑不同。",
+      "sourcePage": 3,
+      "distractors": [
+        {
+          "word": "end",
+          "meaning": "结束；末尾"
+        },
+        {
+          "word": "add",
+          "meaning": "增加；添加"
+        },
+        {
+          "word": "either",
+          "meaning": "两者中的任何一个"
+        }
+      ],
+      "spellings": [
+        "and"
+      ]
+    },
+    {
+      "id": 19,
+      "word": "rather than",
+      "ipa": "/ˈrɑː.ðər ðæn/",
+      "meaning": "短语 而不是",
+      "synonyms": [
+        "instead of"
+      ],
+      "example": "People choose trains rather than cars for short journeys.",
+      "translation": "人们在短途出行时选择火车，而不是汽车。",
+      "note": "rather than 连接作比较或取舍的对象；however、although 等不能直接替换。",
+      "sourcePage": 3,
+      "distractors": [
+        {
+          "word": "other than",
+          "meaning": "除了……以外"
+        },
+        {
+          "word": "regardless of",
+          "meaning": "不管；不顾"
+        },
+        {
+          "word": "rather",
+          "meaning": "相当；颇"
+        }
+      ],
+      "spellings": [
+        "rather than"
+      ]
+    },
+    {
+      "id": 20,
+      "word": "thanks to",
+      "ipa": "/ˈθæŋks tuː/",
+      "meaning": "短语 由于；幸亏",
+      "synonyms": [
+        "because of",
+        "owing to",
+        "due to"
+      ],
+      "example": "Thanks to better transport, more children can attend school.",
+      "translation": "得益于更好的交通条件，更多儿童能够上学。",
+      "note": "通常表示积极原因。注意区分原因与结果，therefore 不能直接替换 thanks to。",
+      "sourcePage": 3,
+      "distractors": [
+        {
+          "word": "thankful for",
+          "meaning": "对……感激"
+        },
+        {
+          "word": "according to",
+          "meaning": "根据；按照"
+        },
+        {
+          "word": "leading to",
+          "meaning": "导致；通向"
+        }
+      ],
+      "spellings": [
+        "thanks to"
+      ]
+    }
+  ],
+  "glossary": {
+    "a": {
+      "meaning": "一；一个（不定冠词）",
+      "lemma": "a",
+      "senses": [
+        {
+          "pos": "art.",
+          "meaning": "一；一个（不定冠词）"
+        }
+      ]
+    },
+    "the": {
+      "meaning": "这／该（定冠词，指特定对象）",
+      "lemma": "the",
+      "senses": [
+        {
+          "pos": "art.",
+          "meaning": "这；该（定冠词，指特定对象）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "越……越……（the more …, the more …）"
+        }
+      ]
+    },
+    "two": {
+      "meaning": "二；两个",
+      "lemma": "two",
+      "senses": [
+        {
+          "pos": "num.",
+          "meaning": "二；两个"
+        },
+        {
+          "pos": "n.",
+          "meaning": "数字二；两点的牌或骰子"
+        }
+      ]
+    },
+    "each": {
+      "meaning": "每一；各个",
+      "lemma": "each",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "每一；各个（放在名词前）"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "每一个；各自"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "每个；各（说明单价或分配）"
+        }
+      ]
+    },
+    "other": {
+      "meaning": "其他的；另外的",
+      "lemma": "other",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "其他的；另外的"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "其他的人或事物（也用 others）"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "另外的；不同的"
+        }
+      ]
+    },
+    "researcher": {
+      "meaning": "研究人员",
+      "lemma": "researcher",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "研究人员"
+        }
+      ]
+    },
+    "importance": {
+      "meaning": "重要性",
+      "lemma": "importance",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "重要性；重大意义"
+        }
+      ]
+    },
+    "of": {
+      "meaning": "……的",
+      "lemma": "of",
+      "senses": [
+        {
+          "pos": "prep.",
+          "meaning": "……的；属于；关于"
+        }
+      ]
+    },
+    "clean": {
+      "meaning": "清洁的",
+      "lemma": "clean",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "干净的；清白的；无污染的"
+        },
+        {
+          "pos": "v.",
+          "meaning": "清洁；打扫"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "完全；彻底地"
+        },
+        {
+          "pos": "n.",
+          "meaning": "清洁；打扫（如 give it a clean）"
+        }
+      ]
+    },
+    "water": {
+      "meaning": "水",
+      "lemma": "water",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "水；水域"
+        },
+        {
+          "pos": "v.",
+          "meaning": "浇水；给……供水；流泪或流口水"
+        }
+      ]
+    },
+    "farmer": {
+      "meaning": "农民",
+      "lemma": "farmer",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "农民；农场主"
+        }
+      ]
+    },
+    "their": {
+      "meaning": "他们的；它们的",
+      "lemma": "their",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "他们的；她们的；它们的"
+        }
+      ]
+    },
+    "as": {
+      "meaning": "随着；当……时",
+      "lemma": "as",
+      "senses": [
+        {
+          "pos": "conj.",
+          "meaning": "当……时；随着；因为；正如"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "作为；以……的身份"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "像……一样；同样地（as … as）"
+        }
+      ]
+    },
+    "climate": {
+      "meaning": "气候",
+      "lemma": "climate",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "气候；氛围；形势"
+        }
+      ]
+    },
+    "this": {
+      "meaning": "这；这个",
+      "lemma": "this",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "这；这个（放在名词前）"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "这；这个人或事物"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "这样；这么（表示程度）"
+        }
+      ]
+    },
+    "amount": {
+      "meaning": "数量",
+      "lemma": "amount",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "数量；总额"
+        },
+        {
+          "pos": "v.",
+          "meaning": "总计；相当于；导致（常与 to 连用）"
+        }
+      ]
+    },
+    "waste": {
+      "meaning": "废弃物；浪费",
+      "lemma": "waste",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "废弃物；浪费；荒地"
+        },
+        {
+          "pos": "v.",
+          "meaning": "浪费；使消耗或衰弱"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "废弃的；荒芜的"
+        }
+      ]
+    },
+    "light": {
+      "meaning": "光；光照",
+      "lemma": "light",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "光；光线；灯"
+        },
+        {
+          "pos": "v.",
+          "meaning": "点燃；照亮；亮起来"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "轻的；明亮的；浅色的；少量的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "轻装地；轻地"
+        }
+      ]
+    },
+    "is": {
+      "meaning": "是（be 的第三人称单数现在式）",
+      "lemma": "be",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "是；成为；存在；处于某种状态"
+        },
+        {
+          "pos": "aux. v.",
+          "meaning": "与分词构成进行时态或被动语态等"
+        }
+      ],
+      "senseWord": "be"
+    },
+    "to": {
+      "meaning": "对；向；用于动词不定式前",
+      "lemma": "to",
+      "senses": [
+        {
+          "pos": "prep.",
+          "meaning": "向；到；对；直到"
+        },
+        {
+          "pos": "inf.",
+          "meaning": "动词不定式标记（to do）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "朝关闭的位置（如 pull the door to）"
+        }
+      ]
+    },
+    "growth": {
+      "meaning": "生长；增长",
+      "lemma": "growth",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "生长；增长"
+        }
+      ]
+    },
+    "many": {
+      "meaning": "许多",
+      "lemma": "many",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "许多的；大量的（放在可数名词前）"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "许多人或事物"
+        }
+      ]
+    },
+    "for": {
+      "meaning": "为了；供；对于",
+      "lemma": "for",
+      "senses": [
+        {
+          "pos": "prep.",
+          "meaning": "为了；对于；给；持续（一段时间）"
+        },
+        {
+          "pos": "conj.",
+          "meaning": "因为；由于（较正式）"
+        }
+      ]
+    },
+    "drinking": {
+      "meaning": "饮用的；喝（水）",
+      "lemma": "drink",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "饮酒；喝酒的习惯"
+        },
+        {
+          "pos": "v.",
+          "meaning": "喝；饮用（drink 的 -ing 形式）"
+        }
+      ]
+    },
+    "demand": {
+      "meaning": "需求",
+      "lemma": "demand",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "需求；要求"
+        },
+        {
+          "pos": "v.",
+          "meaning": "强烈要求；需要"
+        }
+      ]
+    },
+    "energy": {
+      "meaning": "能源；能量",
+      "lemma": "energy",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "能源；能量"
+        }
+      ]
+    },
+    "rise": {
+      "meaning": "上升；增加",
+      "lemma": "rise",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "上升；增加；起身"
+        },
+        {
+          "pos": "n.",
+          "meaning": "上升；增加；加薪；高地"
+        }
+      ]
+    },
+    "in": {
+      "meaning": "在……中；在……方面",
+      "lemma": "in",
+      "senses": [
+        {
+          "pos": "prep.",
+          "meaning": "在……里面；在……期间；用（语言等）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "在里面；进入；在家或办公室"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "流行的；当选的；在任的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "门路；有利关系（如 an in）"
+        }
+      ]
+    },
+    "air": {
+      "meaning": "空气",
+      "lemma": "air",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "空气；神态；曲调"
+        },
+        {
+          "pos": "v.",
+          "meaning": "通风；晾；公开表达；播出"
+        }
+      ]
+    },
+    "temperature": {
+      "meaning": "温度",
+      "lemma": "temperature",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "温度"
+        }
+      ]
+    },
+    "scientist": {
+      "meaning": "科学家",
+      "lemma": "scientist",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "科学家"
+        }
+      ]
+    },
+    "animal": {
+      "meaning": "动物",
+      "lemma": "animal",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "动物；兽；某种类型的人或事物"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "动物的；肉体的；本能的"
+        }
+      ]
+    },
+    "survive": {
+      "meaning": "生存",
+      "lemma": "survive",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "生存"
+        }
+      ]
+    },
+    "cold": {
+      "meaning": "寒冷的",
+      "lemma": "cold",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "冷的；冷淡的；无准备的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "寒冷；感冒"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "完全地；突然地（如 stop cold）"
+        }
+      ]
+    },
+    "weather": {
+      "meaning": "天气",
+      "lemma": "weather",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "天气"
+        },
+        {
+          "pos": "v.",
+          "meaning": "经受住；风化；使受风雨侵蚀"
+        }
+      ]
+    },
+    "term": {
+      "meaning": "术语；词语",
+      "lemma": "term",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "术语；学期；期限；条件（常用 terms）"
+        },
+        {
+          "pos": "v.",
+          "meaning": "称为；把……叫作"
+        }
+      ]
+    },
+    "describe": {
+      "meaning": "描述",
+      "lemma": "describe",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "描述"
+        }
+      ]
+    },
+    "process": {
+      "meaning": "过程",
+      "lemma": "process",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "过程；步骤；工序"
+        },
+        {
+          "pos": "v.",
+          "meaning": "处理；加工；列队行进"
+        }
+      ]
+    },
+    "can": {
+      "meaning": "能够；可能",
+      "lemma": "can",
+      "senses": [
+        {
+          "pos": "modal v.",
+          "meaning": "能；能够；可能；可以"
+        },
+        {
+          "pos": "n.",
+          "meaning": "罐；听；金属容器"
+        },
+        {
+          "pos": "v.",
+          "meaning": "把……装罐；解雇；取消（非正式）"
+        }
+      ]
+    },
+    "affect": {
+      "meaning": "影响",
+      "lemma": "affect",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "影响；使感动；假装"
+        },
+        {
+          "pos": "n.",
+          "meaning": "情感；情绪反应（心理学用语）"
+        }
+      ]
+    },
+    "behaviour": {
+      "meaning": "行为（英式拼写）",
+      "lemma": "behaviour",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "行为（英式拼写）"
+        }
+      ]
+    },
+    "bird": {
+      "meaning": "鸟",
+      "lemma": "bird",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "鸟"
+        }
+      ]
+    },
+    "higher": {
+      "meaning": "更高的（high 的比较级）",
+      "lemma": "high",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "更高的；较高级的（high 的比较级）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "更高地；在更高处（high 的比较级）"
+        }
+      ]
+    },
+    "cost": {
+      "meaning": "成本；费用",
+      "lemma": "cost",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "成本；费用；代价"
+        },
+        {
+          "pos": "v.",
+          "meaning": "花费；使付出代价；估算成本"
+        }
+      ]
+    },
+    "may": {
+      "meaning": "可能；也许",
+      "lemma": "may",
+      "senses": [
+        {
+          "pos": "modal v.",
+          "meaning": "可能；可以；但愿"
+        },
+        {
+          "pos": "n.",
+          "meaning": "五月（写作 May）；山楂花"
+        }
+      ]
+    },
+    "company": {
+      "meaning": "公司；企业",
+      "lemma": "company",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "公司；企业"
+        }
+      ]
+    },
+    "reduce": {
+      "meaning": "减少",
+      "lemma": "reduce",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "减少"
+        }
+      ]
+    },
+    "student": {
+      "meaning": "学生",
+      "lemma": "student",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "学生"
+        }
+      ]
+    },
+    "idea": {
+      "meaning": "想法；观点",
+      "lemma": "idea",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "想法；观点；概念；印象"
+        }
+      ]
+    },
+    "about": {
+      "meaning": "关于",
+      "lemma": "about",
+      "senses": [
+        {
+          "pos": "prep.",
+          "meaning": "关于；围绕；在……附近"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "大约；到处；在附近；转向"
+        }
+      ]
+    },
+    "environment": {
+      "meaning": "环境",
+      "lemma": "environment",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "环境"
+        }
+      ]
+    },
+    "several": {
+      "meaning": "几个；若干",
+      "lemma": "several",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "几个；若干（放在名词前）"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "几个；若干个"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "各自的；分别的（正式用法）"
+        }
+      ]
+    },
+    "factor": {
+      "meaning": "因素",
+      "lemma": "factor",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "因素；因子；系数"
+        },
+        {
+          "pos": "v.",
+          "meaning": "把……计入考虑；分解因式"
+        }
+      ]
+    },
+    "decline": {
+      "meaning": "下降；衰退",
+      "lemma": "decline",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "下降；衰退"
+        },
+        {
+          "pos": "v.",
+          "meaning": "下降；衰退；婉拒"
+        }
+      ]
+    },
+    "fish": {
+      "meaning": "鱼",
+      "lemma": "fish",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "鱼；鱼肉"
+        },
+        {
+          "pos": "v.",
+          "meaning": "捕鱼；钓鱼；搜寻"
+        }
+      ]
+    },
+    "number": {
+      "meaning": "数量；数字",
+      "lemma": "number",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "数字；号码；数量；一期或一首作品"
+        },
+        {
+          "pos": "v.",
+          "meaning": "编号；总计；把……算作"
+        }
+      ]
+    },
+    "study": {
+      "meaning": "研究",
+      "lemma": "study",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "研究；学习；书房"
+        },
+        {
+          "pos": "v.",
+          "meaning": "学习；研究；仔细观察"
+        }
+      ]
+    },
+    "does": {
+      "meaning": "助动词 do 的第三人称单数形式",
+      "lemma": "do",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "做；进行；完成；适合"
+        },
+        {
+          "pos": "aux. v.",
+          "meaning": "构成疑问、否定或强调"
+        },
+        {
+          "pos": "n.",
+          "meaning": "聚会；社交活动（非正式）"
+        }
+      ],
+      "senseWord": "do"
+    },
+    "not": {
+      "meaning": "不；没有",
+      "lemma": "not",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning": "不；没有"
+        }
+      ]
+    },
+    "need": {
+      "meaning": "需要；需求",
+      "lemma": "need",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "需要；需求；必需品"
+        },
+        {
+          "pos": "v.",
+          "meaning": "需要；有必要"
+        },
+        {
+          "pos": "modal v.",
+          "meaning": "需要；必须（多用于否定或疑问）"
+        }
+      ]
+    },
+    "local": {
+      "meaning": "当地的",
+      "lemma": "local",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "当地的；局部的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "当地人；本地酒馆；慢车"
+        }
+      ]
+    },
+    "people": {
+      "meaning": "人们",
+      "lemma": "people",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "人们；民族；人民"
+        },
+        {
+          "pos": "v.",
+          "meaning": "居住于；使充满人"
+        }
+      ]
+    },
+    "use": {
+      "meaning": "使用",
+      "lemma": "use",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "使用；利用；消耗"
+        },
+        {
+          "pos": "n.",
+          "meaning": "使用；用途；使用权"
+        }
+      ]
+    },
+    "improve": {
+      "meaning": "改善；改良",
+      "lemma": "improve",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "改善；改良"
+        }
+      ]
+    },
+    "soil": {
+      "meaning": "土壤",
+      "lemma": "soil",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "土壤；土地"
+        },
+        {
+          "pos": "v.",
+          "meaning": "弄脏；玷污"
+        }
+      ]
+    },
+    "population": {
+      "meaning": "人口；种群数量",
+      "lemma": "population",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "人口；种群数量"
+        }
+      ]
+    },
+    "city": {
+      "meaning": "城市",
+      "lemma": "city",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "城市"
+        }
+      ]
+    },
+    "larger": {
+      "meaning": "更大的；更多的（large 的比较级）",
+      "lemma": "large",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "更大的；更多的（large 的比较级）"
+        }
+      ]
+    },
+    "than": {
+      "meaning": "比；用于比较或取舍",
+      "lemma": "than",
+      "senses": [
+        {
+          "pos": "conj.",
+          "meaning": "比；而不是（连接比较或取舍）"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "比；而不是（后接名词或代词等）"
+        }
+      ]
+    },
+    "nearby": {
+      "meaning": "附近的",
+      "lemma": "nearby",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "附近的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "在附近；不远处"
+        }
+      ]
+    },
+    "town": {
+      "meaning": "城镇；小镇",
+      "lemma": "town",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "城镇；小镇"
+        }
+      ]
+    },
+    "project": {
+      "meaning": "项目",
+      "lemma": "project",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "项目；课题；工程"
+        },
+        {
+          "pos": "v.",
+          "meaning": "预计；投射；突出；展示形象"
+        }
+      ]
+    },
+    "pollution": {
+      "meaning": "污染",
+      "lemma": "pollution",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "污染"
+        }
+      ]
+    },
+    "choose": {
+      "meaning": "选择",
+      "lemma": "choose",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "选择"
+        }
+      ]
+    },
+    "train": {
+      "meaning": "火车",
+      "lemma": "train",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "火车；一系列；拖裾"
+        },
+        {
+          "pos": "v.",
+          "meaning": "训练；培养；瞄准；乘火车"
+        }
+      ]
+    },
+    "car": {
+      "meaning": "汽车",
+      "lemma": "car",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "汽车"
+        }
+      ]
+    },
+    "short": {
+      "meaning": "短的",
+      "lemma": "short",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "短的；矮的；不足的；简短的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "突然地；达不到；不足地"
+        },
+        {
+          "pos": "n.",
+          "meaning": "短片；短裤（shorts）；短路；空头交易"
+        },
+        {
+          "pos": "v.",
+          "meaning": "使短路；做空"
+        }
+      ]
+    },
+    "journey": {
+      "meaning": "旅程；出行",
+      "lemma": "journey",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "旅行；旅程；历程"
+        },
+        {
+          "pos": "v.",
+          "meaning": "旅行；长途跋涉"
+        }
+      ]
+    },
+    "better": {
+      "meaning": "更好的（good 的比较级）",
+      "lemma": "good",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "更好的；好转的（good / well 的比较级）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "更好地；更合适地（well 的比较级）"
+        },
+        {
+          "pos": "v.",
+          "meaning": "改善；胜过"
+        },
+        {
+          "pos": "n.",
+          "meaning": "更好的人或事物；改善"
+        }
+      ]
+    },
+    "transport": {
+      "meaning": "交通；运输",
+      "lemma": "transport",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "交通；运输；交通工具"
+        },
+        {
+          "pos": "v.",
+          "meaning": "运输；运送；使身临其境或激动"
+        }
+      ]
+    },
+    "more": {
+      "meaning": "更多的",
+      "lemma": "more",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "更多的；另外的"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "更多的人或事物"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "更；更加；再"
+        }
+      ]
+    },
+    "child": {
+      "meaning": "儿童；孩子",
+      "lemma": "child",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "孩子；儿童；子女"
+        }
+      ]
+    },
+    "attend": {
+      "meaning": "上（学）；出席",
+      "lemma": "attend",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "上（学）；出席"
+        }
+      ]
+    },
+    "school": {
+      "meaning": "学校",
+      "lemma": "school",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "学校；学派；鱼群"
+        },
+        {
+          "pos": "v.",
+          "meaning": "教育；训练；使成群游动"
+        }
+      ]
+    },
+    "on": {
+      "meaning": "在……上；依靠（与 rely、depend 连用）",
+      "lemma": "on",
+      "senses": [
+        {
+          "pos": "prep.",
+          "meaning": "在……上；关于；在（某一天）；依靠"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "继续；开启；穿戴着"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "正在进行的；通电的；有安排的"
+        }
+      ]
+    },
+    "rather": {
+      "meaning": "宁可；相当（rather than 表示“而不是”）",
+      "lemma": "rather",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning": "相当；宁可；更确切地说"
+        },
+        {
+          "pos": "interj.",
+          "meaning": "当然；的确（英式口语）"
+        }
+      ]
+    },
+    "thanks": {
+      "meaning": "感谢（thanks to 表示“由于；幸亏”）",
+      "lemma": "thanks",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "感谢；谢意（复数形式）"
+        },
+        {
+          "pos": "interj.",
+          "meaning": "谢谢"
+        },
+        {
+          "pos": "v.",
+          "meaning": "感谢（thank 的第三人称单数形式）"
+        }
+      ]
+    },
+    "rely": {
+      "meaning": "依赖；依靠（常与 on 连用）",
+      "lemma": "rely",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "依赖；依靠（常与 on 连用）"
+        }
+      ]
+    },
+    "be": {
+      "meaning": "是；成为",
+      "lemma": "be",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "是；成为；存在；处于某种状态"
+        },
+        {
+          "pos": "aux. v.",
+          "meaning": "与分词构成进行时态或被动语态等"
+        }
+      ]
+    },
+    "similar": {
+      "meaning": "相似的",
+      "lemma": "similar",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "相似的"
+        }
+      ]
+    },
+    "look": {
+      "meaning": "看起来",
+      "lemma": "look",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "看；看起来；寻找"
+        },
+        {
+          "pos": "n.",
+          "meaning": "看；神情；外观"
+        }
+      ]
+    },
+    "like": {
+      "meaning": "像；与……相似",
+      "lemma": "like",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "喜欢；想要"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "像；与……相似"
+        },
+        {
+          "pos": "conj.",
+          "meaning": "像……一样；好像（口语）"
+        },
+        {
+          "pos": "n.",
+          "meaning": "喜好；同类的人或事物；点赞"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "相似的；同类的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "大约；好像；就是说（口语）"
+        }
+      ]
+    },
+    "identify": {
+      "meaning": "识别；确认",
+      "lemma": "identify",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "识别；确认"
+        }
+      ]
+    },
+    "acknowledge": {
+      "meaning": "承认；认可",
+      "lemma": "acknowledge",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "承认；认可"
+        }
+      ]
+    },
+    "modify": {
+      "meaning": "修改；调整",
+      "lemma": "modify",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "修改；调整"
+        }
+      ]
+    },
+    "alter": {
+      "meaning": "改变；更改",
+      "lemma": "alter",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "改变；更改"
+        }
+      ]
+    },
+    "method": {
+      "meaning": "方法",
+      "lemma": "method",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "方法；方式；条理"
+        }
+      ]
+    },
+    "way": {
+      "meaning": "方式；途径",
+      "lemma": "way",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "方式；道路；方向；距离"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "远远地；非常（非正式）"
+        }
+      ]
+    },
+    "basic": {
+      "meaning": "基本的",
+      "lemma": "basic",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "基本的；基础的；碱性的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "基本要素；基础知识（常用 basics）"
+        }
+      ]
+    },
+    "rudimentary": {
+      "meaning": "基础的；初步的",
+      "lemma": "rudimentary",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "基础的；初步的"
+        }
+      ]
+    },
+    "depend": {
+      "meaning": "依赖（常与 on 连用）",
+      "lemma": "depend",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "依赖（常与 on 连用）"
+        }
+      ]
+    },
+    "national": {
+      "meaning": "国家的；全国的",
+      "lemma": "national",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "国家的；全国的；国有的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "某国国民；全国性赛事或报刊"
+        }
+      ]
+    },
+    "assess": {
+      "meaning": "评估；估算",
+      "lemma": "assess",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "评估；估算"
+        }
+      ]
+    },
+    "evaluate": {
+      "meaning": "评价；评估",
+      "lemma": "evaluate",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "评价；评估"
+        }
+      ]
+    },
+    "characteristic": {
+      "meaning": "特征；特点",
+      "lemma": "characteristic",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "特征；特点"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "典型的；独特的"
+        }
+      ]
+    },
+    "feature": {
+      "meaning": "特征；特色",
+      "lemma": "feature",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "特征；特色；专题；面部特征"
+        },
+        {
+          "pos": "v.",
+          "meaning": "以……为特色；重点展示；起重要作用"
+        }
+      ]
+    },
+    "invent": {
+      "meaning": "发明；创造",
+      "lemma": "invent",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "发明；创造"
+        }
+      ]
+    },
+    "first": {
+      "meaning": "最初；首次",
+      "lemma": "first",
+      "senses": [
+        {
+          "pos": "det./num.",
+          "meaning": "第一；最早的（序数用法）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "首先；最初；第一次"
+        },
+        {
+          "pos": "n.",
+          "meaning": "第一名；首个成就；一等学位"
+        }
+      ]
+    },
+    "used": {
+      "meaning": "使用了；被使用的（use 的变形）",
+      "lemma": "use",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "使用（use 的过去式或过去分词）"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "二手的；用过的；习惯于……的（be used to）"
+        }
+      ]
+    },
+    "synthetic": {
+      "meaning": "合成的；人造的",
+      "lemma": "synthetic",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "合成的；人造的；综合的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "合成材料；合成物（常用复数）"
+        }
+      ]
+    },
+    "man": {
+      "meaning": "人；男子（man-made 表示“人造的”）",
+      "lemma": "man",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "成年男子；人类；人员"
+        },
+        {
+          "pos": "v.",
+          "meaning": "为……配备人员；操作或守卫（岗位等）"
+        },
+        {
+          "pos": "interj.",
+          "meaning": "嘿；天哪（口语）"
+        }
+      ]
+    },
+    "made": {
+      "meaning": "制作的（make 的变形）",
+      "lemma": "make",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "制作；使得（make 的过去式或过去分词）"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "制成的；拼成的（常用于复合词）"
+        }
+      ]
+    },
+    "initiate": {
+      "meaning": "发起；开始",
+      "lemma": "initiate",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "发起；开始；使加入；传授初步知识"
+        },
+        {
+          "pos": "n.",
+          "meaning": "新加入者；初学者"
+        }
+      ]
+    },
+    "share": {
+      "meaning": "分享；交流",
+      "lemma": "share",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "分享；分担；共有"
+        },
+        {
+          "pos": "n.",
+          "meaning": "一份；份额；股份"
+        }
+      ]
+    },
+    "based": {
+      "meaning": "以……为基础的（base 的变形）",
+      "lemma": "base",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "以……为基础；设于（base 的过去式或过去分词）"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "以……为基础的；以……为基地的"
+        }
+      ]
+    },
+    "neglect": {
+      "meaning": "忽视；疏于照顾",
+      "lemma": "neglect",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "忽视；疏于照顾；忘记做"
+        },
+        {
+          "pos": "n.",
+          "meaning": "忽视；疏忽；疏于照料"
+        }
+      ]
+    },
+    "overlook": {
+      "meaning": "忽略；遗漏",
+      "lemma": "overlook",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "忽略；宽容；俯瞰"
+        },
+        {
+          "pos": "n.",
+          "meaning": "俯瞰处；观景处（美式用法）"
+        }
+      ]
+    },
+    "fertilizer": {
+      "meaning": "肥料（美式拼写）",
+      "lemma": "fertilizer",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "肥料（美式拼写）"
+        }
+      ]
+    },
+    "it": {
+      "meaning": "它",
+      "lemma": "it",
+      "senses": [
+        {
+          "pos": "pron.",
+          "meaning": "它；这；用于指代事物或作形式主语等"
+        }
+      ]
+    },
+    "those": {
+      "meaning": "那些",
+      "lemma": "those",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "那些（放在复数名词前）"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "那些人或事物（that 的复数）"
+        }
+      ]
+    },
+    "well": {
+      "meaning": "好地（as well as 表示“也；以及”）",
+      "lemma": "well",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning": "好地；充分地；很；远远地"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "健康的；情况良好的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "井；来源；深坑"
+        },
+        {
+          "pos": "v.",
+          "meaning": "涌出；流出"
+        },
+        {
+          "pos": "interj.",
+          "meaning": "嗯；那么；好吧（用于引出话语）"
+        }
+      ]
+    },
+    "both": {
+      "meaning": "两者都",
+      "lemma": "both",
+      "senses": [
+        {
+          "pos": "det.",
+          "meaning": "两者都（放在名词前）"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "两个人或事物都"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "既……又……（both … and …）"
+        }
+      ]
+    },
+    "instead": {
+      "meaning": "代替；反而（instead of 表示“而不是”）",
+      "lemma": "instead",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning": "代替；反而；作为替代"
+        }
+      ]
+    },
+    "because": {
+      "meaning": "因为（because of 后接名词或名词短语）",
+      "lemma": "because",
+      "senses": [
+        {
+          "pos": "conj.",
+          "meaning": "因为；由于"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "因为；由于（口语中直接接名词等）"
+        }
+      ]
+    },
+    "owing": {
+      "meaning": "由于（owing to 表示“由于”）",
+      "lemma": "owe",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "未付的；欠着的"
+        },
+        {
+          "pos": "v.",
+          "meaning": "欠；归因于（owe 的 -ing 形式）"
+        }
+      ]
+    },
+    "due": {
+      "meaning": "由于的（due to 表示“由于”）",
+      "lemma": "due",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "预期的；到期的；应有的；由于的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "应得之物；应付款或会费（常用 dues）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "正向；朝正……方向（如 due north）"
+        }
+      ]
+    },
+    "buildings": {
+      "meaning": "建筑物；楼房（复数）",
+      "lemma": "building",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "建筑物；建筑；建造"
+        },
+        {
+          "pos": "v.",
+          "meaning": "建造；建立（build 的 -ing 形式）"
+        }
+      ],
+      "senseWord": "building"
+    },
+    "researchers": {
+      "meaning": "研究人员（复数）",
+      "lemma": "researcher",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "研究人员"
+        }
+      ],
+      "senseWord": "researcher"
+    },
+    "farmers": {
+      "meaning": "农民（复数）",
+      "lemma": "farmer",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "农民；农场主"
+        }
+      ],
+      "senseWord": "farmer"
+    },
+    "methods": {
+      "meaning": "方法（复数）",
+      "lemma": "method",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "方法；方式；条理"
+        }
+      ],
+      "senseWord": "method"
+    },
+    "changes": {
+      "meaning": "变化；改变（作动词时为第三人称单数）",
+      "lemma": "change",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "变化；改变；零钱；替换物"
+        },
+        {
+          "pos": "v.",
+          "meaning": "改变；变化；更换；兑换"
+        }
+      ],
+      "senseWord": "change"
+    },
+    "reduces": {
+      "meaning": "减少（第三人称单数）",
+      "lemma": "reduce",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "减少"
+        }
+      ],
+      "senseWord": "reduce"
+    },
+    "plants": {
+      "meaning": "植物（复数）",
+      "lemma": "plant",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "植物；工厂；设备"
+        },
+        {
+          "pos": "v.",
+          "meaning": "种植；安放；布置；使形成想法"
+        }
+      ],
+      "senseWord": "plant"
+    },
+    "villages": {
+      "meaning": "村庄（复数）",
+      "lemma": "village",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "村庄；村民"
+        }
+      ],
+      "senseWord": "village"
+    },
+    "rivers": {
+      "meaning": "河流（复数）",
+      "lemma": "river",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "河；江；大量流动的东西"
+        }
+      ],
+      "senseWord": "river"
+    },
+    "continues": {
+      "meaning": "持续；继续（第三人称单数）",
+      "lemma": "continue",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "持续；继续"
+        }
+      ],
+      "senseWord": "continue"
+    },
+    "scientists": {
+      "meaning": "科学家（复数）",
+      "lemma": "scientist",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "科学家"
+        }
+      ],
+      "senseWord": "scientist"
+    },
+    "helps": {
+      "meaning": "帮助（第三人称单数）",
+      "lemma": "help",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "帮助；改善；有助于"
+        },
+        {
+          "pos": "n.",
+          "meaning": "帮助；帮手；有帮助的事物"
+        },
+        {
+          "pos": "interj.",
+          "meaning": "救命！"
+        }
+      ],
+      "senseWord": "help"
+    },
+    "coined": {
+      "meaning": "创造了（新词或表达；过去式）",
+      "lemma": "coin",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "创造（新词或表达）；铸币"
+        },
+        {
+          "pos": "n.",
+          "meaning": "硬币；金属货币"
+        }
+      ],
+      "senseWord": "coin"
+    },
+    "birds": {
+      "meaning": "鸟类（复数）",
+      "lemma": "bird",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "鸟"
+        }
+      ],
+      "senseWord": "bird"
+    },
+    "costs": {
+      "meaning": "成本；费用（复数）",
+      "lemma": "cost",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "成本；费用；代价"
+        },
+        {
+          "pos": "v.",
+          "meaning": "花费；使付出代价；估算成本"
+        }
+      ],
+      "senseWord": "cost"
+    },
+    "companies": {
+      "meaning": "公司；企业（复数）",
+      "lemma": "company",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "公司；企业"
+        }
+      ],
+      "senseWord": "company"
+    },
+    "students": {
+      "meaning": "学生（复数）",
+      "lemma": "student",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "学生"
+        }
+      ],
+      "senseWord": "student"
+    },
+    "ideas": {
+      "meaning": "想法；观点（复数）",
+      "lemma": "idea",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "想法；观点；概念；印象"
+        }
+      ],
+      "senseWord": "idea"
+    },
+    "protecting": {
+      "meaning": "保护（动名词）",
+      "lemma": "protect",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "保护"
+        }
+      ],
+      "senseWord": "protect"
+    },
+    "factors": {
+      "meaning": "因素（复数）",
+      "lemma": "factor",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "因素；因子；系数"
+        },
+        {
+          "pos": "v.",
+          "meaning": "把……计入考虑；分解因式"
+        }
+      ],
+      "senseWord": "factor"
+    },
+    "numbers": {
+      "meaning": "数量（复数）",
+      "lemma": "number",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "数字；号码；数量；一期或一首作品"
+        },
+        {
+          "pos": "v.",
+          "meaning": "编号；总计；把……算作"
+        }
+      ],
+      "senseWord": "number"
+    },
+    "needs": {
+      "meaning": "需求（复数）",
+      "lemma": "need",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "需要；需求；必需品"
+        },
+        {
+          "pos": "v.",
+          "meaning": "需要；有必要"
+        },
+        {
+          "pos": "modal v.",
+          "meaning": "需要；必须（多用于否定或疑问）"
+        }
+      ],
+      "senseWord": "need"
+    },
+    "saves": {
+      "meaning": "节约（第三人称单数）",
+      "lemma": "save",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "拯救；节省；保存；扑救"
+        },
+        {
+          "pos": "n.",
+          "meaning": "扑救；软件或游戏的存档"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "除……之外（正式用法）"
+        },
+        {
+          "pos": "conj.",
+          "meaning": "除了；只是（save that，正式用法）"
+        }
+      ],
+      "senseWord": "save"
+    },
+    "trains": {
+      "meaning": "火车（复数）",
+      "lemma": "train",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "火车；一系列；拖裾"
+        },
+        {
+          "pos": "v.",
+          "meaning": "训练；培养；瞄准；乘火车"
+        }
+      ],
+      "senseWord": "train"
+    },
+    "cars": {
+      "meaning": "汽车（复数）",
+      "lemma": "car",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "汽车"
+        }
+      ],
+      "senseWord": "car"
+    },
+    "journeys": {
+      "meaning": "旅程；出行（复数）",
+      "lemma": "journey",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "旅行；旅程；历程"
+        },
+        {
+          "pos": "v.",
+          "meaning": "旅行；长途跋涉"
+        }
+      ],
+      "senseWord": "journey"
+    },
+    "children": {
+      "meaning": "儿童；孩子（不规则复数）",
+      "lemma": "child",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "孩子；儿童；子女"
+        }
+      ],
+      "senseWord": "child"
+    },
+    "resemble": {
+      "meaning": "v. 像；与……相似",
+      "lemma": "resemble",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "像；与……相似"
+        }
+      ]
+    },
+    "recognize": {
+      "meaning": "v. 认出；识别；承认",
+      "lemma": "recognize",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "认出；识别；承认"
+        }
+      ]
+    },
+    "adjust": {
+      "meaning": "v. 调整；使适合",
+      "lemma": "adjust",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "调整；使适合"
+        }
+      ]
+    },
+    "approach": {
+      "meaning": "n. 方法；途径",
+      "lemma": "approach",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "方法；途径；接近"
+        },
+        {
+          "pos": "v.",
+          "meaning": "接近；着手处理；接洽"
+        }
+      ]
+    },
+    "fundamental": {
+      "meaning": "adj. 基本的；基础的",
+      "lemma": "fundamental",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "基本的；基础的；根本的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "基本原理或原则（常用 fundamentals）"
+        }
+      ]
+    },
+    "rely on": {
+      "meaning": "短语 依靠；依赖",
+      "lemma": "rely on",
+      "senses": [
+        {
+          "pos": "phr. v.",
+          "meaning": "依靠；依赖；信赖"
+        }
+      ]
+    },
+    "domestic": {
+      "meaning": "adj. 国内的；家庭的",
+      "lemma": "domestic",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "国内的；家庭的；家养的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "家政雇员；家庭纠纷（非正式）"
+        }
+      ]
+    },
+    "measure": {
+      "meaning": "v. 测量；衡量",
+      "lemma": "measure",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "测量；衡量；量度"
+        },
+        {
+          "pos": "n.",
+          "meaning": "措施；方法；尺度；一定的量"
+        }
+      ]
+    },
+    "trait": {
+      "meaning": "n. 特征；特性",
+      "lemma": "trait",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "特征；特性"
+        }
+      ]
+    },
+    "coin": {
+      "meaning": "v. 创造（新词或表达）",
+      "lemma": "coin",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "创造（新词或表达）；铸币"
+        },
+        {
+          "pos": "n.",
+          "meaning": "硬币；金属货币"
+        }
+      ]
+    },
+    "artificial": {
+      "meaning": "adj. 人工的；人造的",
+      "lemma": "artificial",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "人工的；人造的；不自然的"
+        }
+      ]
+    },
+    "prompt": {
+      "meaning": "v. 促使；激起",
+      "lemma": "prompt",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "促使；提示；给出指令"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "迅速的；及时的；准时的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "提示；提示词；提词"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "准时地；整（用于时间之后）"
+        }
+      ]
+    },
+    "exchange": {
+      "meaning": "v. 交换；交流",
+      "lemma": "exchange",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "交换；交流；兑换"
+        },
+        {
+          "pos": "n.",
+          "meaning": "交换；交流；交易所；兑换"
+        }
+      ]
+    },
+    "underlie": {
+      "meaning": "v. 构成……的基础；是……的深层原因",
+      "lemma": "underlie",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "构成……的基础；是……的深层原因"
+        }
+      ]
+    },
+    "ignore": {
+      "meaning": "v. 忽视；不理会",
+      "lemma": "ignore",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "忽视；不理会"
+        }
+      ]
+    },
+    "fertiliser": {
+      "meaning": "n. 肥料",
+      "lemma": "fertiliser",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "肥料"
+        }
+      ]
+    },
+    "that": {
+      "meaning": "pron. 那；那个",
+      "lemma": "that",
+      "senses": [
+        {
+          "pos": "pron.",
+          "meaning": "那；那个；引导关系从句的关系代词"
+        },
+        {
+          "pos": "det.",
+          "meaning": "那；那个（放在名词前）"
+        },
+        {
+          "pos": "conj.",
+          "meaning": "引导名词性从句或结果从句等，常不单独翻译"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "那么；那样（表示程度）"
+        }
+      ]
+    },
+    "and": {
+      "meaning": "conj. 和；而且",
+      "lemma": "and",
+      "senses": [
+        {
+          "pos": "conj.",
+          "meaning": "和；而且；然后；用于连接或表示结果"
+        }
+      ]
+    },
+    "rather than": {
+      "meaning": "短语 而不是",
+      "lemma": "rather than",
+      "senses": [
+        {
+          "pos": "conj. phr.",
+          "meaning": "而不是；而非（连接比较或取舍）"
+        },
+        {
+          "pos": "prep. phr.",
+          "meaning": "而不是；代替（后接名词等）"
+        }
+      ]
+    },
+    "thanks to": {
+      "meaning": "短语 由于；幸亏",
+      "lemma": "thanks to",
+      "senses": [
+        {
+          "pos": "prep. phr.",
+          "meaning": "由于；幸亏（通常引出原因）"
+        }
+      ]
+    },
+    "building": {
+      "meaning": "建筑物；楼房",
+      "lemma": "building",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "建筑物；建筑；建造"
+        },
+        {
+          "pos": "v.",
+          "meaning": "建造；建立（build 的 -ing 形式）"
+        }
+      ]
+    },
+    "change": {
+      "meaning": "变化；改变",
+      "lemma": "change",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "变化；改变；零钱；替换物"
+        },
+        {
+          "pos": "v.",
+          "meaning": "改变；变化；更换；兑换"
+        }
+      ]
+    },
+    "plant": {
+      "meaning": "植物",
+      "lemma": "plant",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "植物；工厂；设备"
+        },
+        {
+          "pos": "v.",
+          "meaning": "种植；安放；布置；使形成想法"
+        }
+      ]
+    },
+    "village": {
+      "meaning": "村庄",
+      "lemma": "village",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "村庄；村民"
+        }
+      ]
+    },
+    "river": {
+      "meaning": "河流",
+      "lemma": "river",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "河；江；大量流动的东西"
+        }
+      ]
+    },
+    "continue": {
+      "meaning": "持续；继续",
+      "lemma": "continue",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "持续；继续"
+        }
+      ]
+    },
+    "help": {
+      "meaning": "帮助",
+      "lemma": "help",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "帮助；改善；有助于"
+        },
+        {
+          "pos": "n.",
+          "meaning": "帮助；帮手；有帮助的事物"
+        },
+        {
+          "pos": "interj.",
+          "meaning": "救命！"
+        }
+      ]
+    },
+    "protect": {
+      "meaning": "保护",
+      "lemma": "protect",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "保护"
+        }
+      ]
+    },
+    "save": {
+      "meaning": "节约",
+      "lemma": "save",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "拯救；节省；保存；扑救"
+        },
+        {
+          "pos": "n.",
+          "meaning": "扑救；软件或游戏的存档"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "除……之外（正式用法）"
+        },
+        {
+          "pos": "conj.",
+          "meaning": "除了；只是（save that，正式用法）"
+        }
+      ]
+    },
+    "be similar to": {
+      "lemma": "be similar to",
+      "meaning": "与……相似",
+      "senses": [
+        {
+          "pos": "v. phr.",
+          "meaning": "与……相似"
+        }
+      ]
+    },
+    "look like": {
+      "lemma": "look like",
+      "meaning": "看起来像……",
+      "senses": [
+        {
+          "pos": "v. phr.",
+          "meaning": "看起来像……；似乎将要……"
+        }
+      ]
+    },
+    "depend on": {
+      "lemma": "depend on",
+      "meaning": "依靠；依赖",
+      "senses": [
+        {
+          "pos": "phr. v.",
+          "meaning": "依靠；依赖；取决于"
+        }
+      ]
+    },
+    "first used": {
+      "lemma": "first used",
+      "meaning": "首次使用（原表中的改写线索）",
+      "senses": [
+        {
+          "pos": "v. phr.",
+          "meaning": "首次使用（used 为 use 的过去式或过去分词）"
+        }
+      ]
+    },
+    "man-made": {
+      "lemma": "man-made",
+      "meaning": "人造的",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "人造的"
+        }
+      ]
+    },
+    "be based on": {
+      "lemma": "be based on",
+      "meaning": "以……为基础；注意与 underlie 改写时主语变化",
+      "senses": [
+        {
+          "pos": "v. phr.",
+          "meaning": "以……为基础；根据……"
+        }
+      ]
+    },
+    "as well as": {
+      "lemma": "as well as",
+      "meaning": "以及；也",
+      "senses": [
+        {
+          "pos": "conj. phr.",
+          "meaning": "以及；也；除……之外还"
+        },
+        {
+          "pos": "adv. phr.",
+          "meaning": "和……一样好（比较用法）"
+        }
+      ]
+    },
+    "both … and …": {
+      "lemma": "both … and …",
+      "meaning": "……和……都；既……又……",
+      "senses": [
+        {
+          "pos": "conj. phr.",
+          "meaning": "既……又……；……和……都"
+        }
+      ]
+    },
+    "instead of": {
+      "lemma": "instead of",
+      "meaning": "代替；而不是",
+      "senses": [
+        {
+          "pos": "prep. phr.",
+          "meaning": "代替；而不是"
+        }
+      ]
+    },
+    "because of": {
+      "lemma": "because of",
+      "meaning": "因为；由于",
+      "senses": [
+        {
+          "pos": "prep. phr.",
+          "meaning": "因为；由于"
+        }
+      ]
+    },
+    "owing to": {
+      "lemma": "owing to",
+      "meaning": "由于",
+      "senses": [
+        {
+          "pos": "prep. phr.",
+          "meaning": "由于；因为"
+        }
+      ]
+    },
+    "due to": {
+      "lemma": "due to",
+      "meaning": "由于",
+      "senses": [
+        {
+          "pos": "prep. phr.",
+          "meaning": "由于；因为"
+        }
+      ]
+    },
+    "build": {
+      "meaning": "建造；建立",
+      "lemma": "build",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "建造；建立；逐步增加"
+        },
+        {
+          "pos": "n.",
+          "meaning": "体型；构造；软件构建版本"
+        }
+      ]
+    },
+    "drink": {
+      "meaning": "喝；饮料",
+      "lemma": "drink",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "喝；饮用；饮酒"
+        },
+        {
+          "pos": "n.",
+          "meaning": "饮料；一杯饮品；酒"
+        }
+      ]
+    },
+    "do": {
+      "meaning": "做；助动词",
+      "lemma": "do",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "做；进行；完成；适合"
+        },
+        {
+          "pos": "aux. v.",
+          "meaning": "构成疑问、否定或强调"
+        },
+        {
+          "pos": "n.",
+          "meaning": "聚会；社交活动（非正式）"
+        }
+      ]
+    },
+    "make": {
+      "meaning": "制作；使得",
+      "lemma": "make",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "制作；使成为；获得；赶上"
+        },
+        {
+          "pos": "n.",
+          "meaning": "品牌；型号；构造"
+        }
+      ]
+    },
+    "base": {
+      "meaning": "基础；以……为基础",
+      "lemma": "base",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "基础；基地；底部"
+        },
+        {
+          "pos": "v.",
+          "meaning": "以……为基础；把……设于"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "卑鄙的；低劣的"
+        }
+      ]
+    },
+    "owe": {
+      "meaning": "欠；归因于",
+      "lemma": "owe",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "欠钱；应感谢；把……归因于"
+        }
+      ]
+    },
+    "high": {
+      "meaning": "高的；高水平的；强烈的",
+      "lemma": "high",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "高的；高水平的；强烈的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "在高处；高高地"
+        },
+        {
+          "pos": "n.",
+          "meaning": "高点；高峰；高压区；兴奋状态"
+        }
+      ]
+    },
+    "large": {
+      "meaning": "大的；大量的；广泛的",
+      "lemma": "large",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "大的；大量的；广泛的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "大大地；夸大地（如 talk large）"
+        }
+      ]
+    },
+    "good": {
+      "meaning": "好的；有益的；擅长的",
+      "lemma": "good",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "好的；有益的；擅长的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "好处；善；商品（goods）"
+        }
+      ]
+    }
+  }
+}

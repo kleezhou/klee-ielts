@@ -1,0 +1,17 @@
+{
+  "cards": 526,
+  "main": 376,
+  "coloredOccurrences": 151,
+  "deduplicatedOverlap": [
+    "principle"
+  ],
+  "categories": [
+    47,
+    168,
+    311
+  ],
+  "glossary": 3225,
+  "uncovered": [],
+  "missingIPA": [],
+  "badDistractors": []
+}

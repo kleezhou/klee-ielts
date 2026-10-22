@@ -1,0 +1,14 @@
+{
+  "name": "klee-ielts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal IELTS vocabulary cards with spaced recall, spelling and private cloud sync",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "node scripts/serve-local.cjs",
+    "build": "node scripts/build-cloud.cjs",
+    "test": "node scripts/check-all.cjs"
+  }
+}

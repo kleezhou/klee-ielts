@@ -1,0 +1,3652 @@
+[
+  {
+    "rank": 1,
+    "word": "resemble",
+    "meaning": "v.像，与……相似",
+    "clues": "like,look,like,be similar to",
+    "red": "similar",
+    "page": 2,
+    "redTerms": [
+      "similar"
+    ]
+  },
+  {
+    "rank": 2,
+    "word": "recognize",
+    "meaning": "v.认出，识别；承\n认",
+    "clues": "perceive,acknowledge,realize,appreciate,\nadmit ,identify, comprehend, understand\nknow",
+    "red": "perceive,acknowledge realize,appreciate\nadmit identify comprehend",
+    "page": 2,
+    "redTerms": [
+      "perceive",
+      "acknowledge",
+      "realize",
+      "appreciate",
+      "admit",
+      "identify",
+      "comprehend"
+    ]
+  },
+  {
+    "rank": 3,
+    "word": "adjust",
+    "meaning": "v.调整，使适合",
+    "clues": "change, modify, shift, alter",
+    "red": "change modify shift alter",
+    "page": 2,
+    "redTerms": [
+      "change",
+      "modify",
+      "shift",
+      "alter"
+    ]
+  },
+  {
+    "rank": 4,
+    "word": "approach",
+    "meaning": "n.方法",
+    "clues": "method, way",
+    "red": "method",
+    "page": 2,
+    "redTerms": [
+      "method"
+    ]
+  },
+  {
+    "rank": 5,
+    "word": "fundamental",
+    "meaning": "adj.基本的，基础\n的",
+    "clues": "rudimentary, preliminary, basic",
+    "red": "rudimentary preliminary",
+    "page": 2,
+    "redTerms": [
+      "rudimentary",
+      "preliminary"
+    ]
+  },
+  {
+    "rank": 6,
+    "word": "rely on",
+    "meaning": "依靠，依赖",
+    "clues": "depend on",
+    "red": "depend on",
+    "page": 2,
+    "redTerms": [
+      "depend on"
+    ]
+  },
+  {
+    "rank": 7,
+    "word": "domestic",
+    "meaning": "adj.家庭的；国内\n的",
+    "clues": "home, local, national",
+    "red": "",
+    "page": 2,
+    "redTerms": []
+  },
+  {
+    "rank": 8,
+    "word": "measure",
+    "meaning": "v.测量",
+    "clues": "calculate, assess, evaluate",
+    "red": "calculate assess evaluate",
+    "page": 2,
+    "redTerms": [
+      "calculate",
+      "assess",
+      "evaluate"
+    ]
+  },
+  {
+    "rank": 9,
+    "word": "trait",
+    "meaning": "n.特性，特征",
+    "clues": "characteristic, feature, property",
+    "red": "",
+    "page": 2,
+    "redTerms": []
+  },
+  {
+    "rank": 10,
+    "word": "coin",
+    "meaning": "v.创造",
+    "clues": "first used, invent",
+    "red": "",
+    "page": 2,
+    "redTerms": []
+  },
+  {
+    "rank": 11,
+    "word": "artificial",
+    "meaning": "adj.人造的，仿造\n的",
+    "clues": "synthetic, man-made",
+    "red": "",
+    "page": 2,
+    "redTerms": []
+  },
+  {
+    "rank": 12,
+    "word": "prompt",
+    "meaning": "v.促进，激起",
+    "clues": "initiate, immediately",
+    "red": "",
+    "page": 2,
+    "redTerms": []
+  },
+  {
+    "rank": 13,
+    "word": "exchange",
+    "meaning": "v.交换",
+    "clues": "share, apply A to B",
+    "red": "apply to",
+    "page": 2,
+    "redTerms": [
+      "apply to"
+    ]
+  },
+  {
+    "rank": 14,
+    "word": "underlie",
+    "meaning": "v.成为……基础",
+    "clues": "based on, ground, root",
+    "red": "based on",
+    "page": 2,
+    "redTerms": [
+      "based on"
+    ]
+  },
+  {
+    "rank": 15,
+    "word": "ignore",
+    "meaning": "v.忽视，不顾",
+    "clues": "neglect, overlook, underestimate",
+    "red": "neglect overlook underestimate",
+    "page": 2,
+    "redTerms": [
+      "neglect",
+      "overlook",
+      "underestimate"
+    ]
+  },
+  {
+    "rank": 16,
+    "word": "fertiliser",
+    "meaning": "n.化肥，肥料",
+    "clues": "chemical, toxic, unnatural",
+    "red": "toxic",
+    "page": 3,
+    "redTerms": [
+      "toxic"
+    ]
+  },
+  {
+    "rank": 17,
+    "word": "that*",
+    "meaning": "pron.那；那个",
+    "clues": "this, it, they, those, these, such\n*指代是雅思阅读的重要考点",
+    "red": "",
+    "page": 3,
+    "redTerms": []
+  },
+  {
+    "rank": 18,
+    "word": "and*",
+    "meaning": "conj.和，而且",
+    "clues": "or, as well as, both…and, not only…but\nalso…, other than, in addition, besides,\non the one hand…on the other hand…,\nneither…nor…\n*并列结构是雅思阅读的重要考点",
+    "red": "",
+    "page": 3,
+    "redTerms": []
+  },
+  {
+    "rank": 19,
+    "word": "rather than*",
+    "meaning": "而非，不是",
+    "clues": "but, yet, however, whereas, nonetheless,\nnevertheless, although, notwithstanding\nthough, instead\n*转折结构是雅思阅读的重要考点",
+    "red": "",
+    "page": 3,
+    "redTerms": []
+  },
+  {
+    "rank": 20,
+    "word": "thanks to*",
+    "meaning": "由于，幸亏",
+    "clues": "stem from ，derive，owing to ，due to,\naccording to, because of, on account of,\nas a result of, leading to, because, since,\nfor, in that, as, therefore, hence\n*因果关系是雅思阅读重要考点",
+    "red": "stem from derive",
+    "page": 3,
+    "redTerms": [
+      "stem from",
+      "derive"
+    ]
+  },
+  {
+    "rank": 21,
+    "word": "diversity",
+    "meaning": "n.多样性，差异",
+    "clues": "variety, difference",
+    "red": "variety",
+    "page": 3,
+    "redTerms": [
+      "variety"
+    ]
+  },
+  {
+    "rank": 22,
+    "word": "detect",
+    "meaning": "v.查明，发现",
+    "clues": "find, look for, seek, search",
+    "red": "seek",
+    "page": 3,
+    "redTerms": [
+      "seek"
+    ]
+  },
+  {
+    "rank": 23,
+    "word": "isolate",
+    "meaning": "v.使隔离，使孤立",
+    "clues": "inaccessible",
+    "red": "inaccessible",
+    "page": 3,
+    "redTerms": [
+      "inaccessible"
+    ]
+  },
+  {
+    "rank": 24,
+    "word": "avoid",
+    "meaning": "v.避免",
+    "clues": "escape, evitable",
+    "red": "escape evitable",
+    "page": 3,
+    "redTerms": [
+      "escape",
+      "evitable"
+    ]
+  },
+  {
+    "rank": 25,
+    "word": "budget",
+    "meaning": "n.预算",
+    "clues": "fund, financial",
+    "red": "fund financial",
+    "page": 3,
+    "redTerms": [
+      "fund",
+      "financial"
+    ]
+  },
+  {
+    "rank": 26,
+    "word": "adapt to",
+    "meaning": "使适应",
+    "clues": "fit, suit",
+    "red": "",
+    "page": 3,
+    "redTerms": []
+  },
+  {
+    "rank": 27,
+    "word": "alternative",
+    "meaning": "adj. 供替代的，供\n选择的\nn.替代品",
+    "clues": "substitute",
+    "red": "substitute",
+    "page": 3,
+    "redTerms": [
+      "substitute"
+    ]
+  },
+  {
+    "rank": 28,
+    "word": "compensate",
+    "meaning": ".\nn.补偿，赔偿",
+    "clues": "make up, offset",
+    "red": "make up offset",
+    "page": 3,
+    "redTerms": [
+      "make up",
+      "offset"
+    ]
+  },
+  {
+    "rank": 29,
+    "word": "component",
+    "meaning": "n.成分，要素",
+    "clues": "proportion",
+    "red": "proportion",
+    "page": 4,
+    "redTerms": [
+      "proportion"
+    ]
+  },
+  {
+    "rank": 30,
+    "word": "military",
+    "meaning": "adj.军事的",
+    "clues": "weapon, army",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 31,
+    "word": "criteria",
+    "meaning": "n.标准",
+    "clues": "standard",
+    "red": "standard",
+    "page": 4,
+    "redTerms": [
+      "standard"
+    ]
+  },
+  {
+    "rank": 32,
+    "word": "curriculum",
+    "meaning": "n.课程",
+    "clues": "syllabus, course of study",
+    "red": "syllabus,",
+    "page": 4,
+    "redTerms": [
+      "syllabus"
+    ]
+  },
+  {
+    "rank": 33,
+    "word": "feasible",
+    "meaning": "adj.可行的",
+    "clues": "realistic, viable",
+    "red": "realistic viable",
+    "page": 4,
+    "redTerms": [
+      "realistic",
+      "viable"
+    ]
+  },
+  {
+    "rank": 34,
+    "word": "constrain",
+    "meaning": "v.束缚，限制",
+    "clues": "stop, control",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 35,
+    "word": "deficiency",
+    "meaning": "n.缺陷，缺点",
+    "clues": "shortage, defect, weakness",
+    "red": "defect",
+    "page": 4,
+    "redTerms": [
+      "defect"
+    ]
+  },
+  {
+    "rank": 36,
+    "word": "supplement",
+    "meaning": "v.补充",
+    "clues": "provision",
+    "red": "provision",
+    "page": 4,
+    "redTerms": [
+      "provision"
+    ]
+  },
+  {
+    "rank": 37,
+    "word": "distinguish",
+    "meaning": "v. 区别，辨别",
+    "clues": "separate, differentiate",
+    "red": "differentiate",
+    "page": 4,
+    "redTerms": [
+      "differentiate"
+    ]
+  },
+  {
+    "rank": 38,
+    "word": "analyze",
+    "meaning": "v.分析，解释",
+    "clues": "examine, diagnose",
+    "red": "diagnose",
+    "page": 4,
+    "redTerms": [
+      "diagnose"
+    ]
+  },
+  {
+    "rank": 39,
+    "word": "emphasize",
+    "meaning": "v.强调，着重",
+    "clues": "focus on, stress",
+    "red": "focus on stress",
+    "page": 4,
+    "redTerms": [
+      "focus on",
+      "stress"
+    ]
+  },
+  {
+    "rank": 40,
+    "word": "enormous",
+    "meaning": "adj.庞大的\n，\n巨大的",
+    "clues": "massive, large",
+    "red": "massive",
+    "page": 4,
+    "redTerms": [
+      "massive"
+    ]
+  },
+  {
+    "rank": 41,
+    "word": "imitate",
+    "meaning": "v.模仿",
+    "clues": "mimic, copy",
+    "red": "mimic",
+    "page": 4,
+    "redTerms": [
+      "mimic"
+    ]
+  },
+  {
+    "rank": 42,
+    "word": "impair",
+    "meaning": "v.削弱，减少",
+    "clues": "damage, diminish, decrease",
+    "red": "diminish",
+    "page": 4,
+    "redTerms": [
+      "diminish"
+    ]
+  },
+  {
+    "rank": 43,
+    "word": "hinder",
+    "meaning": "v.阻碍",
+    "clues": "impede, prevent, deter, obstacle",
+    "red": "impede prevent deter obstacle",
+    "page": 4,
+    "redTerms": [
+      "impede",
+      "prevent",
+      "deter",
+      "obstacle"
+    ]
+  },
+  {
+    "rank": 44,
+    "word": "legitimate",
+    "meaning": "adj.合法的",
+    "clues": "legal",
+    "red": "legal",
+    "page": 4,
+    "redTerms": [
+      "legal"
+    ]
+  },
+  {
+    "rank": 45,
+    "word": "limitation",
+    "meaning": "n.限制",
+    "clues": "restriction",
+    "red": "restriction",
+    "page": 4,
+    "redTerms": [
+      "restriction"
+    ]
+  },
+  {
+    "rank": 46,
+    "word": "convention",
+    "meaning": "n.手法；习俗",
+    "clues": "method; tradition",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 47,
+    "word": "demanding",
+    "meaning": "adj.苛求的",
+    "clues": "troublesome",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 48,
+    "word": "determine",
+    "meaning": "v.决定",
+    "clues": "decide",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 49,
+    "word": "accelerate",
+    "meaning": "v.加速，促进；强调",
+    "clues": "speed up",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 50,
+    "word": "ancient",
+    "meaning": "adj.古代的;古老的",
+    "clues": "aged, old",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 51,
+    "word": "beneficial",
+    "meaning": "adj.有益的",
+    "clues": "helpful, advantageous, wholesome",
+    "red": "wholesome",
+    "page": 4,
+    "redTerms": [
+      "wholesome"
+    ]
+  },
+  {
+    "rank": 52,
+    "word": "chronic",
+    "meaning": "adj. 慢性的，长期\n性的",
+    "clues": "lasting",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 53,
+    "word": "conscious",
+    "meaning": "adj. 有意识的，神\n志清醒的",
+    "clues": "aware, knowing",
+    "red": "aware",
+    "page": 4,
+    "redTerms": [
+      "aware"
+    ]
+  },
+  {
+    "rank": 54,
+    "word": "minimize",
+    "meaning": "v. 最小化，使……\n减少到最少",
+    "clues": "reduce, lessen",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 55,
+    "word": "immunity",
+    "meaning": "n.免疫力",
+    "clues": "resistance",
+    "red": "resistance",
+    "page": 4,
+    "redTerms": [
+      "resistance"
+    ]
+  },
+  {
+    "rank": 56,
+    "word": "Imperative",
+    "meaning": "adj. 必要的， 紧急\n的",
+    "clues": "compelling, necessary, urgent",
+    "red": "necessary",
+    "page": 4,
+    "redTerms": [
+      "necessary"
+    ]
+  },
+  {
+    "rank": 57,
+    "word": "secrete",
+    "meaning": "v.分泌",
+    "clues": "discharge, exude",
+    "red": "discharge exude",
+    "page": 4,
+    "redTerms": [
+      "discharge",
+      "exude"
+    ]
+  },
+  {
+    "rank": 58,
+    "word": "exaggerate",
+    "meaning": "v.夸大，夸张",
+    "clues": "overstate",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 59,
+    "word": "transmit",
+    "meaning": "v.传达，传输",
+    "clues": "pass, send ,transfer",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 60,
+    "word": "extinct",
+    "meaning": "v.灭绝",
+    "clues": "die out, lost",
+    "red": "",
+    "page": 4,
+    "redTerms": []
+  },
+  {
+    "rank": 61,
+    "word": "exclusive",
+    "meaning": "adj. 独有的；排外\n的；专一的",
+    "clues": "only",
+    "red": "only",
+    "page": 5,
+    "redTerms": [
+      "only"
+    ]
+  },
+  {
+    "rank": 62,
+    "word": "guarantee",
+    "meaning": "v.保证，担保",
+    "clues": "assure",
+    "red": "assure",
+    "page": 5,
+    "redTerms": [
+      "assure"
+    ]
+  },
+  {
+    "rank": 63,
+    "word": "inherit",
+    "meaning": "v.继承",
+    "clues": "receive",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 64,
+    "word": "witness",
+    "meaning": "n.见证，证据；目\n击者",
+    "clues": "view, see",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 65,
+    "word": "magnetic",
+    "meaning": "adj.有磁性的",
+    "clues": "attractive",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 66,
+    "word": "loss",
+    "meaning": "n.减少；亏损；失\n败；遗失的",
+    "clues": "waste, gone",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 67,
+    "word": "option",
+    "meaning": "n.选择",
+    "clues": "choice",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 68,
+    "word": "prefer to",
+    "meaning": "更喜欢",
+    "clues": "rather",
+    "red": "rather",
+    "page": 5,
+    "redTerms": [
+      "rather"
+    ]
+  },
+  {
+    "rank": 69,
+    "word": "priority",
+    "meaning": "n.优先权",
+    "clues": "preference, preferential",
+    "red": "preference",
+    "page": 5,
+    "redTerms": [
+      "preference"
+    ]
+  },
+  {
+    "rank": 70,
+    "word": "primary",
+    "meaning": "adj.主要的",
+    "clues": "principle, main",
+    "red": "principle main",
+    "page": 5,
+    "redTerms": [
+      "principle",
+      "main"
+    ]
+  },
+  {
+    "rank": 71,
+    "word": "principle",
+    "meaning": "n.原理",
+    "clues": "rule",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 72,
+    "word": "potential",
+    "meaning": "n.潜能\nadj.潜在的",
+    "clues": "possibility",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 73,
+    "word": "quantity",
+    "meaning": ".\nn.量，数量",
+    "clues": "number",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 74,
+    "word": "settle",
+    "meaning": "v.解决；定居，稳定",
+    "clues": "fix, figure out",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 75,
+    "word": "sophisticate",
+    "meaning": "v.使复杂",
+    "clues": "complicate",
+    "red": "complicate",
+    "page": 5,
+    "redTerms": [
+      "complicate"
+    ]
+  },
+  {
+    "rank": 76,
+    "word": "specific",
+    "meaning": "adj. 明确的；特殊的",
+    "clues": "detailed, particular",
+    "red": "detailed particular",
+    "page": 5,
+    "redTerms": [
+      "detailed",
+      "particular"
+    ]
+  },
+  {
+    "rank": 77,
+    "word": "survive",
+    "meaning": "v.存活，幸存",
+    "clues": "remain",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 78,
+    "word": "swift",
+    "meaning": "adj. 迅速的，敏捷\n的，立刻的",
+    "clues": "quick, rapid",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 79,
+    "word": "unexpectedly",
+    "meaning": "adv. 出乎意料的",
+    "clues": "surprising",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 80,
+    "word": "surrounding",
+    "meaning": "n.环境",
+    "clues": "setting, environment",
+    "red": "setting environment",
+    "page": 5,
+    "redTerms": [
+      "setting",
+      "environment"
+    ]
+  },
+  {
+    "rank": 81,
+    "word": "attempt",
+    "meaning": "n.试图，尝试",
+    "clues": "try, test",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 82,
+    "word": "expertise",
+    "meaning": "n.专门技术",
+    "clues": "knowledge, skill",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 83,
+    "word": "faculty",
+    "meaning": "n.能力，才能；全\n体教员",
+    "clues": "ability",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 84,
+    "word": "donate",
+    "meaning": "v.捐赠",
+    "clues": "contribute",
+    "red": "contribute",
+    "page": 5,
+    "redTerms": [
+      "contribute"
+    ]
+  },
+  {
+    "rank": 85,
+    "word": "dynamics",
+    "meaning": "n.动力学",
+    "clues": "energy, force, move",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 86,
+    "word": "incentive",
+    "meaning": "n.刺激,鼓励;动机",
+    "clues": "motive, stimulus",
+    "red": "motive stimulus",
+    "page": 5,
+    "redTerms": [
+      "motive",
+      "stimulus"
+    ]
+  },
+  {
+    "rank": 87,
+    "word": "mortality",
+    "meaning": "n.死亡率",
+    "clues": "death",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 88,
+    "word": "peripheral",
+    "meaning": "adj. 外围的， 次要\n的",
+    "clues": "unimportant, minor",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 89,
+    "word": "vicinity",
+    "meaning": "n.邻近，附近",
+    "clues": "neighbourhood, nearby",
+    "red": "",
+    "page": 5,
+    "redTerms": []
+  },
+  {
+    "rank": 90,
+    "word": "threaten",
+    "meaning": "v.威胁，危及",
+    "clues": "endanger, jeopardize, risk, hazard",
+    "red": "endanger jeopardize risk hazard",
+    "page": 5,
+    "redTerms": [
+      "endanger",
+      "jeopardize",
+      "risk",
+      "hazard"
+    ]
+  },
+  {
+    "rank": 91,
+    "word": "practice",
+    "meaning": "n.实行；练习",
+    "clues": "method, exercise",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 92,
+    "word": "bacteria",
+    "meaning": "n.细菌",
+    "clues": "virus, germ, microbe",
+    "red": "virus germ microbe",
+    "page": 6,
+    "redTerms": [
+      "virus",
+      "germ",
+      "microbe"
+    ]
+  },
+  {
+    "rank": 93,
+    "word": "be subject to",
+    "meaning": "受 支配",
+    "clues": "face",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 94,
+    "word": "be liable to",
+    "meaning": "易于……",
+    "clues": "potential",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 95,
+    "word": "innate",
+    "meaning": "adj. 天生的；内在\n的，直觉的",
+    "clues": "built-in, inborn",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 96,
+    "word": "pattern",
+    "meaning": "n.模式",
+    "clues": "formation",
+    "red": "formation",
+    "page": 6,
+    "redTerms": [
+      "formation"
+    ]
+  },
+  {
+    "rank": 97,
+    "word": "therapy",
+    "meaning": "n.治疗，理疗",
+    "clues": "treatment",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 98,
+    "word": "original",
+    "meaning": "adj.原始的,最初的",
+    "clues": "initial, fist",
+    "red": "initial",
+    "page": 6,
+    "redTerms": [
+      "initial"
+    ]
+  },
+  {
+    "rank": 99,
+    "word": "confidential",
+    "meaning": "adj.机密的,秘密的",
+    "clues": "undisclosed, secret, hidden",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 100,
+    "word": "cognitive",
+    "meaning": "adj.认知的",
+    "clues": "mental",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 101,
+    "word": "comply with",
+    "meaning": "照做，遵守",
+    "clues": "obey",
+    "red": "obey",
+    "page": 6,
+    "redTerms": [
+      "obey"
+    ]
+  },
+  {
+    "rank": 102,
+    "word": "consult",
+    "meaning": "v.查阅,商量,请教,\n咨询",
+    "clues": "ask for advice",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 103,
+    "word": "superior",
+    "meaning": "adj.. 上级的; 优秀\n的",
+    "clues": "higher, upper",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 104,
+    "word": "co-operation",
+    "meaning": "n.合作，协作",
+    "clues": "support, work together",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 105,
+    "word": "co-ordinate",
+    "meaning": "v.使……协调",
+    "clues": "organize, harmonize",
+    "red": "organize harmonize",
+    "page": 6,
+    "redTerms": [
+      "organize",
+      "harmonize"
+    ]
+  },
+  {
+    "rank": 106,
+    "word": "differ",
+    "meaning": "v.使……相异；\n使……不同",
+    "clues": "vary",
+    "red": "vary",
+    "page": 6,
+    "redTerms": [
+      "vary"
+    ]
+  },
+  {
+    "rank": 107,
+    "word": "cue",
+    "meaning": "n.线索",
+    "clues": "hint, clue",
+    "red": "hint clue",
+    "page": 6,
+    "redTerms": [
+      "hint",
+      "clue"
+    ]
+  },
+  {
+    "rank": 108,
+    "word": "signal",
+    "meaning": "n.信号",
+    "clues": "symbol, mark, sign",
+    "red": "symbol",
+    "page": 6,
+    "redTerms": [
+      "symbol"
+    ]
+  },
+  {
+    "rank": 109,
+    "word": "abandon",
+    "meaning": "v.放弃，遗弃",
+    "clues": "quit, give up, forsake, derelict",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 110,
+    "word": "halt",
+    "meaning": "n.停止",
+    "clues": "stop, quit",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 111,
+    "word": "fragile",
+    "meaning": "adj.脆弱的",
+    "clues": "vulnerable",
+    "red": "vulnerable",
+    "page": 6,
+    "redTerms": [
+      "vulnerable"
+    ]
+  },
+  {
+    "rank": 112,
+    "word": "retain",
+    "meaning": "v.记住",
+    "clues": "maintain",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 113,
+    "word": "vanish",
+    "meaning": "n.消失，绝迹",
+    "clues": "disappear",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 114,
+    "word": "delivery",
+    "meaning": "n.递送",
+    "clues": "send",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 115,
+    "word": "erode",
+    "meaning": "v.侵蚀",
+    "clues": "rust, damage",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 116,
+    "word": "induce",
+    "meaning": "v. 引起， 引诱",
+    "clues": "cause, lead to",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 117,
+    "word": "stable",
+    "meaning": "adj.稳定的",
+    "clues": "constant, unchanged",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 118,
+    "word": "integrate",
+    "meaning": "v.使……成整体",
+    "clues": "combine, whole",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": 119,
+    "word": "equal",
+    "meaning": "adj. 平 等 的 ; 相 等\n的；胜任的",
+    "clues": "fair, even",
+    "red": "fair even",
+    "page": 6,
+    "redTerms": [
+      "fair",
+      "even"
+    ]
+  },
+  {
+    "rank": 120,
+    "word": "grant",
+    "meaning": "v.拨款；授予",
+    "clues": "offer",
+    "red": "",
+    "page": 6,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "accumulate",
+    "meaning": "v.积累，积聚",
+    "clues": "gather",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "addictive",
+    "meaning": "adj.上瘾的",
+    "clues": "habit",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "adversity",
+    "meaning": "n.逆境，不幸",
+    "clues": "trouble",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "aggression",
+    "meaning": "n.侵犯，侵害",
+    "clues": "attack",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "agreeable",
+    "meaning": "adj.令人愉快的；合\n适的；和蔼可亲的",
+    "clues": "pleasant",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "aid",
+    "meaning": "n.援助，帮助",
+    "clues": "help",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "allergic",
+    "meaning": "adj.过敏的；对……\n极讨厌的",
+    "clues": "irritate",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "altitude",
+    "meaning": "n.高度，海拔",
+    "clues": "height",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "application",
+    "meaning": "n.应用",
+    "clues": "utilization",
+    "red": "utilization",
+    "page": 7,
+    "redTerms": [
+      "utilization"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "approve",
+    "meaning": "v.批准",
+    "clues": "agree",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "array",
+    "meaning": "n.排列，大批",
+    "clues": "order",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "assign",
+    "meaning": "v.分配，指派",
+    "clues": "allocate",
+    "red": "allocate",
+    "page": 7,
+    "redTerms": [
+      "allocate"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "association",
+    "meaning": "n.协会，联盟；联系",
+    "clues": "union",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "attitude",
+    "meaning": "n.看法，态度",
+    "clues": "opinion",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "authority",
+    "meaning": "n.当局，权威",
+    "clues": "government",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "be consistent with",
+    "meaning": "与……一致",
+    "clues": "compatible",
+    "red": "compatible",
+    "page": 7,
+    "redTerms": [
+      "compatible"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "bear",
+    "meaning": "v.承担；忍受",
+    "clues": "tolerate",
+    "red": "tolerate",
+    "page": 7,
+    "redTerms": [
+      "tolerate"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "blight",
+    "meaning": "v.损害；枯萎",
+    "clues": "destroy",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "boundary",
+    "meaning": "n.边界；底线",
+    "clues": "barrier",
+    "red": "barrier",
+    "page": 7,
+    "redTerms": [
+      "barrier"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "bungle",
+    "meaning": "v.搞糟，拙劣地工作",
+    "clues": "mishandle",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "burden",
+    "meaning": "n.负担",
+    "clues": "load",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "calamity",
+    "meaning": "n.灾难",
+    "clues": "disaster",
+    "red": "disaster",
+    "page": 7,
+    "redTerms": [
+      "disaster"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "capacity",
+    "meaning": "n.容量",
+    "clues": "volume",
+    "red": "volume",
+    "page": 7,
+    "redTerms": [
+      "volume"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "catastrophic",
+    "meaning": "adj.灾难的",
+    "clues": "disastrous",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "cater",
+    "meaning": "v.迎合；满足需求",
+    "clues": "serve",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "certify",
+    "meaning": "v.证明,保证",
+    "clues": "verify",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "civic",
+    "meaning": "adj.实名的",
+    "clues": "municipal",
+    "red": "municipal",
+    "page": 7,
+    "redTerms": [
+      "municipal"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "comment",
+    "meaning": "n.评论；意见 v.评论",
+    "clues": "remark",
+    "red": "",
+    "page": 7,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "commitment",
+    "meaning": "n.承诺，许诺，义\n务；致力",
+    "clues": "engagement",
+    "red": "engagement",
+    "page": 8,
+    "redTerms": [
+      "engagement"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "communal",
+    "meaning": "adj.公共的，公社的",
+    "clues": "public",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "commute",
+    "meaning": "v.通勤；用……交换",
+    "clues": "travel",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "compare",
+    "meaning": "v.与……相比较",
+    "clues": "contrast",
+    "red": "contrast",
+    "page": 8,
+    "redTerms": [
+      "contrast"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "conceal",
+    "meaning": "v.隐藏；隐瞒",
+    "clues": "hide",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "concentrate",
+    "meaning": "v.专心于；集中",
+    "clues": "focus",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "concur",
+    "meaning": "v. 同意",
+    "clues": "agree",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "confer",
+    "meaning": "v.授予，给予",
+    "clues": "grant",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "conflict",
+    "meaning": "n.冲突，矛盾",
+    "clues": "unharmonious",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "confuse",
+    "meaning": "v.使混乱，使迷惑",
+    "clues": "puzzle",
+    "red": "puzzle",
+    "page": 8,
+    "redTerms": [
+      "puzzle"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "conservative",
+    "meaning": "adj.保守的",
+    "clues": "traditional",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "considerable",
+    "meaning": "adj. 相当大的， 重要\n的",
+    "clues": "significant",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "contingent",
+    "meaning": "adj. 因情况而异的",
+    "clues": "uncertain",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "controversial",
+    "meaning": "adj.有争论的",
+    "clues": "disputable",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "correlation",
+    "meaning": "n.相关，关联",
+    "clues": "link",
+    "red": "link",
+    "page": 8,
+    "redTerms": [
+      "link"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "courtship",
+    "meaning": "n.求爱（时期）",
+    "clues": "mate",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "crash",
+    "meaning": "n.碰撞",
+    "clues": "collapse",
+    "red": "collapse",
+    "page": 8,
+    "redTerms": [
+      "collapse"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "credibility",
+    "meaning": "n.可信性",
+    "clues": "reliance",
+    "red": "reliance",
+    "page": 8,
+    "redTerms": [
+      "reliance"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "criminal",
+    "meaning": "n.罪犯，犯人",
+    "clues": "conviction",
+    "red": "conviction",
+    "page": 8,
+    "redTerms": [
+      "conviction"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "crisis",
+    "meaning": "n.危机",
+    "clues": "risk",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "criticism",
+    "meaning": "n.评论",
+    "clues": "condemn",
+    "red": "condemn",
+    "page": 8,
+    "redTerms": [
+      "condemn"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "curb",
+    "meaning": "v. 限制，抑制",
+    "clues": "restrict",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "damp",
+    "meaning": "adj.潮湿的",
+    "clues": "wet",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "dazzle",
+    "meaning": "v.使目眩；使……\n眼花",
+    "clues": "flash",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "deadline",
+    "meaning": "n.最后期限",
+    "clues": "limit",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "delay",
+    "meaning": "n.延期，耽搁",
+    "clues": "postpone",
+    "red": "postpone",
+    "page": 8,
+    "redTerms": [
+      "postpone"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "democratic",
+    "meaning": "adj. 民主的",
+    "clues": "republic",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "demographic",
+    "meaning": "adj. 人口统计学的；\n人口学",
+    "clues": "population statistic",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "dental",
+    "meaning": "adj.牙科的，牙齿的",
+    "clues": "teeth",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "depression",
+    "meaning": "n.抑郁，沮丧",
+    "clues": "frustration",
+    "red": "frustration",
+    "page": 8,
+    "redTerms": [
+      "frustration"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "designate",
+    "meaning": "n.指定；指派，标出",
+    "clues": "appoint",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "detain",
+    "meaning": "v.留住",
+    "clues": "hold",
+    "red": "",
+    "page": 8,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "devastate",
+    "meaning": "v.毁坏，毁灭",
+    "clues": "wreck",
+    "red": "wreck",
+    "page": 9,
+    "redTerms": [
+      "wreck"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "disclose",
+    "meaning": "v.公开；揭露",
+    "clues": "expose",
+    "red": "expose",
+    "page": 9,
+    "redTerms": [
+      "expose"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "disparate",
+    "meaning": "adj.不同的",
+    "clues": "different",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "display",
+    "meaning": "n.显示",
+    "clues": "show",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "disrupt",
+    "meaning": "v.破坏",
+    "clues": "destroy",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "distract",
+    "meaning": "v.转移，分心",
+    "clues": "divert",
+    "red": "divert",
+    "page": 9,
+    "redTerms": [
+      "divert"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "distribute",
+    "meaning": "v.分配，分发",
+    "clues": "spread",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "documentation",
+    "meaning": "n.文件；文献",
+    "clues": "record",
+    "red": "record",
+    "page": 9,
+    "redTerms": [
+      "record"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "domain",
+    "meaning": "n.领域",
+    "clues": "field",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "dominant",
+    "meaning": "adj. 占优势的， 占支\n配地位的",
+    "clues": "overbearing",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "dramatic",
+    "meaning": "adj. 戏剧化的；激动\n人心的，引人注意的",
+    "clues": "striking",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "drought",
+    "meaning": "n.干旱",
+    "clues": "dry",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "durable",
+    "meaning": "adj.持久的",
+    "clues": "lasting",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "eco-friendly",
+    "meaning": "adj.生态有好的，\n环保的",
+    "clues": "environmentally-friendly",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "elaborate",
+    "meaning": "v. 详细阐述，详细叙\n述",
+    "clues": "illustrate",
+    "red": "illustrate",
+    "page": 9,
+    "redTerms": [
+      "illustrate"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "elderly",
+    "meaning": "adj.高龄的",
+    "clues": "aged",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "eliminate",
+    "meaning": "v.消除，排除",
+    "clues": "dispose",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "elusive",
+    "meaning": "adj. 难懂的，难捉摸\n的；行踪隐秘的",
+    "clues": "hard",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "encyclopaedia",
+    "meaning": "n.百科全书",
+    "clues": "entire range of knowledge",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "entrepreneur",
+    "meaning": "n.企业家",
+    "clues": "boss",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "equator",
+    "meaning": "n.赤道",
+    "clues": "geography",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "erratically",
+    "meaning": "adv. 不定的，无视规\n律地",
+    "clues": "unpredictably",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "established",
+    "meaning": "adj. 确定的；已制定\n的，已建立的",
+    "clues": "built",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "estate",
+    "meaning": "n.房地产",
+    "clues": "property",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "ethical",
+    "meaning": "adj.道德的",
+    "clues": "moral",
+    "red": "moral",
+    "page": 9,
+    "redTerms": [
+      "moral"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "eventually",
+    "meaning": "adv.最后，终于",
+    "clues": "finally",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "evidence",
+    "meaning": "n.迹象；证据",
+    "clues": "proof",
+    "red": "proof",
+    "page": 9,
+    "redTerms": [
+      "proof"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "evolve",
+    "meaning": "v.进化，发展；逐渐形\n成",
+    "clues": "develop",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "exhausted",
+    "meaning": "adj.疲惫的，耗尽的",
+    "clues": "fatigue",
+    "red": "fatigue",
+    "page": 9,
+    "redTerms": [
+      "fatigue"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "experiment",
+    "meaning": "n.试验，试验",
+    "clues": "test",
+    "red": "",
+    "page": 9,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "exceptional",
+    "meaning": "adj. 异常的，特别出\n色的",
+    "clues": "extreme, utmost",
+    "red": "extreme",
+    "page": 10,
+    "redTerms": [
+      "extreme"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "explicit",
+    "meaning": "adj. 明确的",
+    "clues": "clear",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "exploit",
+    "meaning": "v.开发，利用",
+    "clues": "use",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "extend",
+    "meaning": "v.扩展，延伸，推广",
+    "clues": "expand",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "extract",
+    "meaning": "n.摘录\nv.提取",
+    "clues": "quotation",
+    "red": "quotation",
+    "page": 10,
+    "redTerms": [
+      "quotation"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "famine",
+    "meaning": "n.饥荒",
+    "clues": "hunger",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "finite",
+    "meaning": "adj.有限的",
+    "clues": "limited",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "fitness",
+    "meaning": "n.健康的",
+    "clues": "health",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "foe",
+    "meaning": "n.敌人，危害物",
+    "clues": "enemy",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "format",
+    "meaning": "n.格式",
+    "clues": "structure",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "fragment",
+    "meaning": "n.碎片",
+    "clues": "piece",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "freeze",
+    "meaning": "n.冰冻，冻结",
+    "clues": "chill",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "fulfill",
+    "meaning": "v.满足，实现",
+    "clues": "execute",
+    "red": "execute",
+    "page": 10,
+    "redTerms": [
+      "execute"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "gene",
+    "meaning": "n.基因",
+    "clues": "factor",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "gifted",
+    "meaning": "adj. 有天赋的，有才\n华的",
+    "clues": "talented",
+    "red": "talented",
+    "page": 10,
+    "redTerms": [
+      "talented"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "graphic",
+    "meaning": "adj.形象的；图解的",
+    "clues": "picture",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "habitat",
+    "meaning": "n.栖息地，住所",
+    "clues": "residence",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "harbor",
+    "meaning": "v.怀有\nn.海港",
+    "clues": "hold",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "hardship",
+    "meaning": "n. 困苦；苦难",
+    "clues": "difficult",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "harsh",
+    "meaning": "adj.艰难的；严酷的",
+    "clues": "rough",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "hypothesis",
+    "meaning": "n.假设",
+    "clues": "assumption",
+    "red": "assumption",
+    "page": 10,
+    "redTerms": [
+      "assumption"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "impact",
+    "meaning": "n.影响",
+    "clues": "influence",
+    "red": "influence",
+    "page": 10,
+    "redTerms": [
+      "influence"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "impressive",
+    "meaning": "adj. 感人的；给人深\n刻印象的",
+    "clues": "touching",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "in accordance with",
+    "meaning": "依照；与……一致",
+    "clues": "conform",
+    "red": "conform",
+    "page": 10,
+    "redTerms": [
+      "conform"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "inaccurate",
+    "meaning": "adj.错误的",
+    "clues": "incorrect",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "inactive",
+    "meaning": "adj. 不活跃的， 不活\n动的",
+    "clues": "passive",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "inappropriate",
+    "meaning": "adj.不适当的",
+    "clues": "hard",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "indulge",
+    "meaning": "v.沉溺（于）",
+    "clues": "spoil",
+    "red": "spoil",
+    "page": 10,
+    "redTerms": [
+      "spoil"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "infest",
+    "meaning": "v.侵害；寄生于",
+    "clues": "plague",
+    "red": "plague",
+    "page": 10,
+    "redTerms": [
+      "plague"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "installment",
+    "meaning": "n.安装；分期付款",
+    "clues": "payment on its completion",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "intelligence",
+    "meaning": "n.智力",
+    "clues": "mind",
+    "red": "",
+    "page": 10,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "intense",
+    "meaning": "adj.强烈的；紧张的；\n热情的",
+    "clues": "strong",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "interaction",
+    "meaning": "n.相互作用，交流互\n动",
+    "clues": "social activities",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "interference",
+    "meaning": "n.干涉",
+    "clues": "interdependence",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "interior",
+    "meaning": "n. 内部\nadj. 内部的",
+    "clues": "inner",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "interrupt",
+    "meaning": "v. 中. 断",
+    "clues": "stop",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "introverted",
+    "meaning": "adj. 内向的，含蓄的",
+    "clues": "shyness",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "involve",
+    "meaning": "v.包含，牵涉",
+    "clues": "associate",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "keen",
+    "meaning": "adj.热切的；强迫的，\n强烈的",
+    "clues": "strong",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "label",
+    "meaning": "v.打上标签",
+    "clues": "display",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "lack",
+    "meaning": "v.缺乏；不足",
+    "clues": "shortage",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "landscape",
+    "meaning": "n.风景",
+    "clues": "scene",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "likelihood",
+    "meaning": "n.可能性",
+    "clues": "chance",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "limb",
+    "meaning": "n. 四肢",
+    "clues": "arm or leg",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "linguistic",
+    "meaning": "adj.语言(学)的",
+    "clues": "language",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "log",
+    "meaning": "v.记录\nn.原木",
+    "clues": "record",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "look-in",
+    "meaning": "n.成功的机会",
+    "clues": "opportunity, chance",
+    "red": "opportunity",
+    "page": 11,
+    "redTerms": [
+      "opportunity"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "lopsided",
+    "meaning": "adj.不平衡的",
+    "clues": "uneven",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "mainly",
+    "meaning": "adv.主要的，大体的",
+    "clues": "primarily",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "malfunction",
+    "meaning": "v.发生故障;不起作用",
+    "clues": "breakdown",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "mammal",
+    "meaning": "n.哺乳动物",
+    "clues": "creature",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "mange to do",
+    "meaning": "设法完成某事",
+    "clues": "success",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "manifest",
+    "meaning": "v. 出现，表现",
+    "clues": "obvious",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "manufacture",
+    "meaning": "n.生产",
+    "clues": "produce",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "marine",
+    "meaning": "adj.海产的；航海的；\n海运的",
+    "clues": "sea",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "mate",
+    "meaning": "n.配偶",
+    "clues": "spouse",
+    "red": "spouse",
+    "page": 11,
+    "redTerms": [
+      "spouse"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "mechanism",
+    "meaning": "n.机制，原理",
+    "clues": "method",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "mental",
+    "meaning": "adj.精神的，心理的",
+    "clues": "intelligent",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "mercury",
+    "meaning": "n.汞，水银",
+    "clues": "liquid metal",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "meteorological",
+    "meaning": "adj.气象学的",
+    "clues": "weather",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "migrate",
+    "meaning": "v.转移,迁移",
+    "clues": "move",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "moisture",
+    "meaning": "n.水分，湿度",
+    "clues": "humidity",
+    "red": "",
+    "page": 11,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "monitor",
+    "meaning": "v.监控",
+    "clues": "surveillance",
+    "red": "surveillance",
+    "page": 12,
+    "redTerms": [
+      "surveillance"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "motif",
+    "meaning": "n.主题；图形",
+    "clues": "theme",
+    "red": "theme",
+    "page": 12,
+    "redTerms": [
+      "theme"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "mould",
+    "meaning": "v.模压，塑造；塑造成",
+    "clues": "form",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "native",
+    "meaning": "adj.本国的，土著的；\n天然的；天赋的",
+    "clues": "original",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "nocturnal",
+    "meaning": "adj.夜间的,夜间发生\n的",
+    "clues": "night",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "norm",
+    "meaning": "n.规范",
+    "clues": "regulation",
+    "red": "regulation",
+    "page": 12,
+    "redTerms": [
+      "regulation"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "notoriety",
+    "meaning": "n.名声",
+    "clues": "famous",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "objective",
+    "meaning": "n. 目标，目的\nadj.客观的",
+    "clues": "goal",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "obligation",
+    "meaning": "n.义. 务",
+    "clues": "responsibility",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "obscure",
+    "meaning": "v.掩盖，使模糊不清",
+    "clues": "hide",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "obtain",
+    "meaning": "v.获得",
+    "clues": "get",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "odd",
+    "meaning": "adj.古怪的",
+    "clues": "strange",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "odour",
+    "meaning": "n.气味",
+    "clues": "smell",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "offensive",
+    "meaning": "adj. 冒犯的，无礼的",
+    "clues": "hostile",
+    "red": "hostile",
+    "page": 12,
+    "redTerms": [
+      "hostile"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "official",
+    "meaning": "n.官员\nadj.官方的",
+    "clues": "authority",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "optimum",
+    "meaning": "n.最. 佳效果\nadj.最适宜的",
+    "clues": "best",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "ordinary",
+    "meaning": ".\nadj.普通的；平凡的；\n平常的",
+    "clues": "common",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "organ",
+    "meaning": "n.器官；机构",
+    "clues": "a part of a body",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "out of the question",
+    "meaning": "不可能",
+    "clues": "impossible",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "overcome",
+    "meaning": "v.克服",
+    "clues": "defeat",
+    "red": "defeat",
+    "page": 12,
+    "redTerms": [
+      "defeat"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "overtake",
+    "meaning": "v.赶上",
+    "clues": "surpass",
+    "red": "surpass",
+    "page": 12,
+    "redTerms": [
+      "surpass"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "paralyse",
+    "meaning": "v.使……麻痹；使……\n瘫痪",
+    "clues": "cannot move",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "paramount",
+    "meaning": "adj. 最重要的， 主要\n的",
+    "clues": "principal",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "participate",
+    "meaning": "v.参加",
+    "clues": "join",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "patient",
+    "meaning": "adj. 有耐性的， 能容\n忍的\nn.病人；患者",
+    "clues": "repetitive",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "peak",
+    "meaning": ".\nn.最高峰，顶点\nv.使……达到顶峰",
+    "clues": "top",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "permit",
+    "meaning": "n.许可证，执照\nv.许可",
+    "clues": "allow",
+    "red": "",
+    "page": 12,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "persuade",
+    "meaning": "v.说服，劝说",
+    "clues": "influence",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "pessimistic",
+    "meaning": "adj.悲观的",
+    "clues": "negative",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "phase",
+    "meaning": "n.阶段",
+    "clues": "process",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "physical",
+    "meaning": "adj. 身体上的； 物质\n的",
+    "clues": "body",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "plagiarise",
+    "meaning": "v.抄袭",
+    "clues": "copy",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "plenty of",
+    "meaning": "大量的",
+    "clues": "many",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "plot",
+    "meaning": "v.密谋",
+    "clues": "plan",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "pose",
+    "meaning": "v.提出，造成，形成",
+    "clues": "cause",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "portable",
+    "meaning": "adj.可携带的",
+    "clues": "conveyable",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "poverty",
+    "meaning": "n.贫穷",
+    "clues": "poor",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "praise",
+    "meaning": "n.赞扬",
+    "clues": "commend",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "predict",
+    "meaning": "v.预测，预知",
+    "clues": "expect",
+    "red": "expect",
+    "page": 13,
+    "redTerms": [
+      "expect"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "pressing",
+    "meaning": "adj.迫切的",
+    "clues": "urgent",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "private",
+    "meaning": "adj.私人的；私有的；\n私下的",
+    "clues": "personal",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "prohibit",
+    "meaning": "v.禁止的",
+    "clues": "not allowed",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "prolong",
+    "meaning": "v.拉长，延长",
+    "clues": "extend",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "promote",
+    "meaning": "v.促进，推销",
+    "clues": "improve",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "prosper",
+    "meaning": "v.使成功，使繁荣",
+    "clues": "success",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "purify",
+    "meaning": "v.净化",
+    "clues": "clean",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "qualify",
+    "meaning": "v.取得资格",
+    "clues": "fulfill",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "radical",
+    "meaning": "adj.彻底的，根本的",
+    "clues": "utmost",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "range",
+    "meaning": "n.范围；幅度",
+    "clues": "scope",
+    "red": "scope",
+    "page": 13,
+    "redTerms": [
+      "scope"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "rare",
+    "meaning": "adj.稀有的",
+    "clues": "unusual",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "rate",
+    "meaning": "n.等级\nv.评估",
+    "clues": "rank;measure",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "react",
+    "meaning": "v.反应",
+    "clues": "respond",
+    "red": "respond",
+    "page": 13,
+    "redTerms": [
+      "respond"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "recreation",
+    "meaning": "n.娱乐，消遣",
+    "clues": "entertainment",
+    "red": "entertainment",
+    "page": 13,
+    "redTerms": [
+      "entertainment"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "reduction",
+    "meaning": "n.下降，减少",
+    "clues": "decrease",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "refer to",
+    "meaning": "指(的是)，涉及，提及",
+    "clues": "talk about",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "rehearsal",
+    "meaning": "n.排演；预演；练习",
+    "clues": "preparation",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "reject",
+    "meaning": "v.拒绝，排斥，丢弃",
+    "clues": "exclude",
+    "red": "exclude",
+    "page": 13,
+    "redTerms": [
+      "exclude"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "relevant",
+    "meaning": "adj.相关的",
+    "clues": "relative",
+    "red": "relative",
+    "page": 13,
+    "redTerms": [
+      "relative"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "religious",
+    "meaning": "adj.宗教的；虔诚的",
+    "clues": "sacred",
+    "red": "",
+    "page": 13,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "reluctant",
+    "meaning": "adj.不情愿的",
+    "clues": "unwilling",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "reproduce",
+    "meaning": "v.繁殖",
+    "clues": "breed",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "responsible",
+    "meaning": "adj.负责的，可靠的；\n有责任的",
+    "clues": "liable",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "revision",
+    "meaning": "n.修正",
+    "clues": "editing",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "revive",
+    "meaning": "v.使复苏，恢复",
+    "clues": "renaissance",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "ruin",
+    "meaning": "v.毁灭",
+    "clues": "destroy",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "scenic",
+    "meaning": "adj.风景优美的",
+    "clues": "beautiful",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "shade",
+    "meaning": "n.遮阳；阴影",
+    "clues": "shelter",
+    "red": "shelter",
+    "page": 14,
+    "redTerms": [
+      "shelter"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "skepticism",
+    "meaning": "n.怀疑",
+    "clues": "doubt",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "soar",
+    "meaning": "v.激增",
+    "clues": "increase",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "solely",
+    "meaning": "adv.唯一地",
+    "clues": "alone",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "solicitor",
+    "meaning": "n.律师",
+    "clues": "lawyer",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "steer",
+    "meaning": "v.控制，引导",
+    "clues": "manage",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "stimulate",
+    "meaning": "v.刺激，激励",
+    "clues": "motivate",
+    "red": "motivate",
+    "page": 14,
+    "redTerms": [
+      "motivate"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "stride",
+    "meaning": "n.进展",
+    "clues": "progress",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "succumb",
+    "meaning": "vi.屈服",
+    "clues": "yield",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "subdivide",
+    "meaning": "v.把……细分",
+    "clues": "break down",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "subtle",
+    "meaning": "adj.微妙的",
+    "clues": "delicate",
+    "red": "delicate",
+    "page": 14,
+    "redTerms": [
+      "delicate"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "substance",
+    "meaning": "n.物质；实质",
+    "clues": "matter",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "sufficiency",
+    "meaning": "n.足量，充足",
+    "clues": "enough",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "supersede",
+    "meaning": "v.取代，代替",
+    "clues": "replace",
+    "red": "replace",
+    "page": 14,
+    "redTerms": [
+      "replace"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "suppress",
+    "meaning": "v.抑制，隐瞒",
+    "clues": "hold",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "supremacy",
+    "meaning": "n.至高无上，很高的\n地位",
+    "clues": "priority",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "suspicious",
+    "meaning": "adj.可疑的",
+    "clues": "odd",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "sustainable",
+    "meaning": "adj.可持续的",
+    "clues": "long-term",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "symptom",
+    "meaning": "n.症状，征兆",
+    "clues": "sign",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "tension",
+    "meaning": "n.紧张，不安",
+    "clues": "upset",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "term",
+    "meaning": "n.术语",
+    "clues": "word",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "throughout",
+    "meaning": "adv. 自始至终，到处；\n全部",
+    "clues": "anywhere",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "toll",
+    "meaning": "n.通行费\nv.征收",
+    "clues": "charge",
+    "red": "",
+    "page": 14,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "trace",
+    "meaning": "n.追溯；痕迹",
+    "clues": "track",
+    "red": "track",
+    "page": 14,
+    "redTerms": [
+      "track"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "transcend",
+    "meaning": "v.胜过，超越",
+    "clues": "excel",
+    "red": "excel",
+    "page": 14,
+    "redTerms": [
+      "excel"
+    ]
+  },
+  {
+    "rank": null,
+    "word": "transit",
+    "meaning": "n.运输；经过\nv.运送",
+    "clues": "send",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "tremendous",
+    "meaning": "adj. 巨大的，惊人的",
+    "clues": "vast",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "trigger",
+    "meaning": "n.触发，引发，引起",
+    "clues": "begin",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "tropical",
+    "meaning": "adj.热带的",
+    "clues": "hot",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "unbiased",
+    "meaning": "adj. 公正的，无偏见\n的",
+    "clues": "fair",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "uniform",
+    "meaning": "adj.始终如一的",
+    "clues": "consistent",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "valuable",
+    "meaning": "adj. 宝贵的，有价值\n的",
+    "clues": "benefit",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "versatile",
+    "meaning": "adj.多功能",
+    "clues": "all-around",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "view",
+    "meaning": "v.看",
+    "clues": "overlook",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "violent",
+    "meaning": "adj.暴力的；猛烈的",
+    "clues": "fierce",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "visible",
+    "meaning": "adj. 明显的，看得见\n的",
+    "clues": "see",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "visual",
+    "meaning": "adj.是觉得",
+    "clues": "image",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  },
+  {
+    "rank": null,
+    "word": "well-being",
+    "meaning": "n.健康，康乐",
+    "clues": "health",
+    "red": "",
+    "page": 15,
+    "redTerms": []
+  }
+]

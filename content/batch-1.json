@@ -1,0 +1,2212 @@
+[
+  {
+    "id": 21,
+    "word": "diversity",
+    "meaning": "n. 多样性；差异",
+    "example": "The garden's diversity attracts birds throughout the year.",
+    "translation": "这座花园的多样性一年四季都吸引着鸟儿。",
+    "note": "常搭配 cultural diversity（文化多样性）。",
+    "distractorWords": [
+      "diversion",
+      "university",
+      "adversity"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "detect",
+    "meaning": "v. 发现；查出",
+    "example": "This test can detect small amounts of sugar.",
+    "translation": "这项检测能查出少量的糖。",
+    "note": "detect 强调发现不易察觉的事物。",
+    "distractorWords": [
+      "defect",
+      "detain",
+      "protect"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "isolate",
+    "meaning": "v. 隔离；使孤立",
+    "example": "The river can isolate the village during heavy rain.",
+    "translation": "大雨期间，这条河可能使村庄与外界隔绝。",
+    "note": "isolate A from B：将 A 与 B 隔离。",
+    "distractorWords": [
+      "violate",
+      "illustrate",
+      "oscillate"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "avoid",
+    "meaning": "v. 避免；避开",
+    "example": "We left early to avoid the evening traffic.",
+    "translation": "我们早早出发，以避开晚间的交通高峰。",
+    "note": "avoid 后接名词或动名词，不接 to do。",
+    "distractorWords": [
+      "afford",
+      "award",
+      "await"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "budget",
+    "meaning": "n. 预算",
+    "example": "Our travel budget includes meals and train tickets.",
+    "translation": "我们的旅行预算包括餐费和火车票钱。",
+    "note": "on a tight budget：预算紧张。",
+    "distractorWords": [
+      "badge",
+      "widget",
+      "bucket"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "adapt to",
+    "meaning": "v. phr. 适应",
+    "example": "Plants must adapt to changes in the local climate.",
+    "translation": "植物必须适应当地气候的变化。",
+    "note": "to 是介词，后接名词或动名词。",
+    "distractorWords": [
+      "adopt",
+      "add to",
+      "attach to"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "alternative",
+    "meaning": "adj. 可替代的；n. 替代选择",
+    "example": "We need an alternative route across the river.",
+    "translation": "我们需要另一条过河路线。",
+    "note": "an alternative to：……的替代选择。",
+    "distractorWords": [
+      "alteration",
+      "alternation",
+      "altercation"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "compensate",
+    "meaning": "v. 补偿；赔偿",
+    "example": "The airline will compensate passengers for the long delay.",
+    "translation": "航空公司将因长时间延误而赔偿乘客。",
+    "note": "compensate someone for something；原表将动词误标为名词。",
+    "distractorWords": [
+      "concentrate",
+      "contemplate",
+      "compete"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "component",
+    "meaning": "n. 组成部分；部件",
+    "example": "The battery is a key component of this device.",
+    "translation": "电池是这个装置的关键部件。",
+    "note": "a component of：……的组成部分。",
+    "distractorWords": [
+      "opponent",
+      "competent",
+      "compound"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "military",
+    "meaning": "adj. 军事的；军用的",
+    "example": "The old military base is now a public park.",
+    "translation": "这座旧军事基地如今是一座公园。",
+    "note": "military service：兵役。",
+    "distractorWords": [
+      "monetary",
+      "milestone",
+      "million"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "criteria",
+    "meaning": "n. 标准（复数）",
+    "example": "The school uses clear criteria to select new teachers.",
+    "translation": "学校用明确的标准来选拔新教师。",
+    "note": "criteria 是 criterion 的复数，搭配复数谓语。",
+    "distractorWords": [
+      "critic",
+      "critical",
+      "creature"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "curriculum",
+    "meaning": "n. 全部课程；课程体系",
+    "example": "The new curriculum includes art and basic science.",
+    "translation": "新的课程体系包括美术和基础科学。",
+    "note": "curriculum 指整体课程安排；复数为 curricula 或 curriculums。",
+    "distractorWords": [
+      "circular",
+      "calculator",
+      "ceremony"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "feasible",
+    "meaning": "adj. 可行的；行得通的",
+    "example": "A weekly bus service seems feasible for this village.",
+    "translation": "每周一班的公交服务对这个村庄而言似乎可行。",
+    "note": "It is feasible to do：做……是可行的。",
+    "distractorWords": [
+      "visible",
+      "flexible",
+      "fragile"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "constrain",
+    "meaning": "v. 限制；约束",
+    "example": "Limited funds constrain our plans for a larger library.",
+    "translation": "有限的资金制约了我们扩建图书馆的计划。",
+    "note": "be constrained by：受到……限制。",
+    "distractorWords": [
+      "contain",
+      "strain",
+      "construct"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "deficiency",
+    "meaning": "n. 缺乏；不足",
+    "example": "A vitamin deficiency can make people feel very tired.",
+    "translation": "维生素缺乏会让人感到十分疲倦。",
+    "note": "a deficiency in/of：……的缺乏。",
+    "distractorWords": [
+      "efficiency",
+      "proficiency",
+      "dependency"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "supplement",
+    "meaning": "v. 补充；n. 补充物",
+    "example": "Farmers supplement the animals' diet with fresh vegetables.",
+    "translation": "农民用新鲜蔬菜补充动物的日常饲料。",
+    "note": "supplement A with B：用 B 补充 A。",
+    "distractorWords": [
+      "implement",
+      "compliment",
+      "supplant"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "distinguish",
+    "meaning": "v. 区分；辨别",
+    "example": "Young children sometimes struggle to distinguish fact from fiction.",
+    "translation": "年幼的孩子有时难以区分事实和虚构。",
+    "note": "distinguish A from B：区分 A 和 B。",
+    "distractorWords": [
+      "extinguish",
+      "distant",
+      "diminish"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "analyze",
+    "meaning": "v. 分析",
+    "example": "We will analyze the water samples after lunch.",
+    "translation": "午饭后，我们将分析这些水样。",
+    "note": "美式拼写 analyze；英式拼写 analyse。",
+    "distractorWords": [
+      "paralyze",
+      "catalyze",
+      "analogy"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "emphasize",
+    "meaning": "v. 强调",
+    "example": "The guide will emphasize safety before the walk.",
+    "translation": "步行活动开始前，向导会强调安全问题。",
+    "note": "emphasize 后直接接宾语，不加 on。",
+    "distractorWords": [
+      "empathize",
+      "sympathize",
+      "exercise"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "enormous",
+    "meaning": "adj. 巨大的；庞大的",
+    "example": "An enormous tree shades the front of our house.",
+    "translation": "一棵大树为我们房子的前面遮阴。",
+    "note": "an enormous amount of：大量的。",
+    "distractorWords": [
+      "anonymous",
+      "numerous",
+      "ominous"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "imitate",
+    "meaning": "v. 模仿",
+    "example": "Young birds often imitate the sounds they hear.",
+    "translation": "幼鸟常常模仿它们听到的声音。",
+    "note": "imitate someone/something：模仿某人或某物。",
+    "distractorWords": [
+      "intimate",
+      "initiate",
+      "irritate"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "impair",
+    "meaning": "v. 损害；削弱",
+    "example": "Too little sleep can impair your ability to concentrate.",
+    "translation": "睡眠太少会削弱你集中注意力的能力。",
+    "note": "常搭配 impair vision/hearing（损害视力／听力）。",
+    "distractorWords": [
+      "repair",
+      "compare",
+      "impart"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "hinder",
+    "meaning": "v. 阻碍；妨碍",
+    "example": "Thick snow can hinder travel through the mountains.",
+    "translation": "厚厚的积雪会阻碍山区通行。",
+    "note": "hinder someone from doing：妨碍某人做某事。",
+    "distractorWords": [
+      "hunger",
+      "cinder",
+      "render"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "legitimate",
+    "meaning": "adj. 合法的；正当的",
+    "example": "Residents have a legitimate concern about drinking water.",
+    "translation": "居民对饮用水的担忧是正当的。",
+    "note": "既可表示合法，也可表示理由合理。",
+    "distractorWords": [
+      "legible",
+      "literate",
+      "intimate"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "limitation",
+    "meaning": "n. 限制；局限",
+    "example": "The main limitation of this camera is its weight.",
+    "translation": "这台相机的主要局限是重量。",
+    "note": "a limitation on：对……的限制。",
+    "distractorWords": [
+      "imitation",
+      "invitation",
+      "elimination"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "convention",
+    "meaning": "n. 惯例；习俗；大会",
+    "example": "By convention, guests remove their shoes at the door.",
+    "translation": "按照惯例，客人会在门口脱鞋。",
+    "note": "by convention：按照惯例；不是一般意义的“方法”。",
+    "distractorWords": [
+      "invention",
+      "conversion",
+      "conservation"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "demanding",
+    "meaning": "adj. 要求高的；费力的",
+    "example": "Looking after three young children is a demanding job.",
+    "translation": "照顾三个年幼的孩子是一项费力的工作。",
+    "note": "可修饰工作，也可形容要求很高的人。",
+    "distractorWords": [
+      "damaging",
+      "commanding",
+      "descending"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "determine",
+    "meaning": "v. 决定；确定",
+    "example": "Soil conditions determine which crops will grow here.",
+    "translation": "土壤条件决定了这里适合种植哪些作物。",
+    "note": "determine to do 表示下决心做。",
+    "distractorWords": [
+      "terminate",
+      "undermine",
+      "detergent"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "accelerate",
+    "meaning": "v. 加速；促进",
+    "example": "Warm weather can accelerate the growth of these plants.",
+    "translation": "温暖的天气能加快这些植物的生长。",
+    "note": "accelerate 不表示“强调”，原表该义不当。",
+    "distractorWords": [
+      "celebrate",
+      "accommodate",
+      "calculate"
+    ]
+  },
+  {
+    "id": 50,
+    "word": "ancient",
+    "meaning": "adj. 古代的；古老的",
+    "example": "Workers found ancient coins beneath the village road.",
+    "translation": "工人在村里的道路下发现了古代钱币。",
+    "note": "ancient history：古代史。",
+    "distractorWords": [
+      "patient",
+      "anxious",
+      "agent"
+    ]
+  },
+  {
+    "id": 51,
+    "word": "beneficial",
+    "meaning": "adj. 有益的；有利的",
+    "example": "Regular walks are beneficial to both body and mind.",
+    "translation": "经常散步对身心都有益。",
+    "note": "be beneficial to：对……有益。",
+    "distractorWords": [
+      "beneficiary",
+      "official",
+      "artificial"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "chronic",
+    "meaning": "adj. 慢性的；长期的",
+    "example": "The town faces a chronic shortage of clean water.",
+    "translation": "这个镇长期缺乏干净的水。",
+    "note": "chronic 可形容疾病，也可形容长期存在的问题。",
+    "distractorWords": [
+      "iconic",
+      "comic",
+      "ironic"
+    ]
+  },
+  {
+    "id": 53,
+    "word": "conscious",
+    "meaning": "adj. 意识到的；清醒的",
+    "example": "She remained conscious after the fall on the stairs.",
+    "translation": "她在楼梯上摔倒后仍保持清醒。",
+    "note": "be conscious of：意识到；conscience 是“良心”。",
+    "distractorWords": [
+      "conscience",
+      "cautious",
+      "conscientious"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "minimize",
+    "meaning": "v. 将……减到最少；使最小化",
+    "example": "Careful planning helps minimize waste in the kitchen.",
+    "translation": "周密的安排有助于尽量减少厨房浪费。",
+    "note": "minimize 不等于完全消除；英式也写 minimise。",
+    "distractorWords": [
+      "memorize",
+      "maximize",
+      "modernize"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "immunity",
+    "meaning": "n. 免疫力；豁免",
+    "example": "Some animals develop immunity after their first infection.",
+    "translation": "有些动物在首次感染后会产生免疫力。",
+    "note": "immunity to：对……的免疫力。",
+    "distractorWords": [
+      "community",
+      "humidity",
+      "unity"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "imperative",
+    "meaning": "adj. 必要的；迫切的",
+    "example": "It is imperative to keep this medicine cool.",
+    "translation": "这种药必须低温保存。",
+    "note": "It is imperative to do：做……是必要的。",
+    "distractorWords": [
+      "imperial",
+      "impressive",
+      "imaginative"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "secrete",
+    "meaning": "v. 分泌",
+    "example": "These glands secrete a fluid that protects the skin.",
+    "translation": "这些腺体分泌一种保护皮肤的液体。",
+    "note": "与 secret（秘密）区别；secrete 是动词。",
+    "distractorWords": [
+      "secret",
+      "secure",
+      "concrete"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "exaggerate",
+    "meaning": "v. 夸大；夸张",
+    "example": "Some advertisements exaggerate how quickly the cream works.",
+    "translation": "有些广告夸大了这种面霜起效的速度。",
+    "note": "exaggerate the importance of：夸大……的重要性。",
+    "distractorWords": [
+      "exasperate",
+      "excavate",
+      "aggregate"
+    ]
+  },
+  {
+    "id": 59,
+    "word": "transmit",
+    "meaning": "v. 传输；传播",
+    "example": "Mosquitoes can transmit disease from one person to another.",
+    "translation": "蚊子能把疾病从一个人传播给另一个人。",
+    "note": "transmit signals/data/disease：传输信号／数据／传播疾病。",
+    "distractorWords": [
+      "transit",
+      "transform",
+      "translate"
+    ]
+  },
+  {
+    "id": 60,
+    "word": "extinct",
+    "meaning": "adj. 灭绝的",
+    "example": "This bird became extinct over a hundred years ago.",
+    "translation": "这种鸟一百多年前就灭绝了。",
+    "note": "extinct 是形容词；become extinct 表示灭绝。",
+    "distractorWords": [
+      "distinct",
+      "instinct",
+      "extant"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "exclusive",
+    "meaning": "adj. 独有的；专用的；排外的",
+    "example": "The hotel offers guests exclusive use of the pool.",
+    "translation": "酒店允许住客专用这个泳池。",
+    "note": "exclusive to：……独有的。",
+    "distractorWords": [
+      "inclusive",
+      "elusive",
+      "explosive"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "guarantee",
+    "meaning": "v. 保证；n. 保证；保修",
+    "example": "Better equipment does not guarantee success in every race.",
+    "translation": "更好的装备并不能保证每场比赛都获胜。",
+    "note": "guarantee that 或 guarantee something；名词可指保修。",
+    "distractorWords": [
+      "quarantine",
+      "guardian",
+      "guerrilla"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "inherit",
+    "meaning": "v. 继承；遗传获得",
+    "example": "Children can inherit eye colour from either parent.",
+    "translation": "孩子的眼睛颜色可能遗传自父母中的任何一方。",
+    "note": "inherit something from someone：从某人那里继承。",
+    "distractorWords": [
+      "inhibit",
+      "inhabit",
+      "inherent"
+    ]
+  },
+  {
+    "id": 64,
+    "word": "witness",
+    "meaning": "n. 目击者；v. 目击；见证",
+    "example": "A witness described the car to the police.",
+    "translation": "一位目击者向警方描述了那辆车。",
+    "note": "a witness to：……的目击者；也可用作动词。",
+    "distractorWords": [
+      "fitness",
+      "whiteness",
+      "wetness"
+    ]
+  },
+  {
+    "id": 65,
+    "word": "magnetic",
+    "meaning": "adj. 有磁性的；有吸引力的",
+    "example": "A magnetic strip holds the door firmly shut.",
+    "translation": "一根磁条使门牢牢闭合。",
+    "note": "magnetic field：磁场。",
+    "distractorWords": [
+      "magnificent",
+      "magic",
+      "mechanic"
+    ]
+  },
+  {
+    "id": 66,
+    "word": "loss",
+    "meaning": "n. 丧失；损失；亏损",
+    "example": "The storm caused a serious loss of crops.",
+    "translation": "这场风暴造成了严重的农作物损失。",
+    "note": "loss 是名词；lose 是动词，lost 是其过去式。",
+    "distractorWords": [
+      "loose",
+      "gloss",
+      "lows"
+    ]
+  },
+  {
+    "id": 67,
+    "word": "option",
+    "meaning": "n. 选择；选项",
+    "example": "Taking the train is our cheapest option today.",
+    "translation": "今天坐火车是我们最省钱的选择。",
+    "note": "have the option of doing：可以选择做……。",
+    "distractorWords": [
+      "opinion",
+      "operation",
+      "opposition"
+    ]
+  },
+  {
+    "id": 68,
+    "word": "prefer to",
+    "meaning": "v. phr. 更喜欢（做某事）",
+    "example": "I prefer to read paper books before bed.",
+    "translation": "我更喜欢在睡前读纸质书。",
+    "note": "prefer to do；比较时可用 prefer A to B。",
+    "distractorWords": [
+      "refer to",
+      "prepare to",
+      "defer to"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "priority",
+    "meaning": "n. 优先事项；优先权",
+    "example": "Keeping the children safe is our first priority.",
+    "translation": "保障孩子们的安全是我们首要的事。",
+    "note": "give priority to：优先考虑。",
+    "distractorWords": [
+      "purity",
+      "property",
+      "propriety"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "primary",
+    "meaning": "adj. 主要的；最初的；小学的",
+    "example": "The primary cause of the delay was heavy rain.",
+    "translation": "延误的主要原因是大雨。",
+    "note": "primary school：小学；primary purpose：主要目的。",
+    "distractorWords": [
+      "privacy",
+      "primate",
+      "primer"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "principle",
+    "meaning": "n. 原则；原理",
+    "example": "This simple principle explains how the pump works.",
+    "translation": "这个简单的原理解释了水泵的工作方式。",
+    "note": "principle 是原则；principal 可指校长或“主要的”。",
+    "distractorWords": [
+      "principal",
+      "prince",
+      "participle"
+    ]
+  },
+  {
+    "id": 72,
+    "word": "potential",
+    "meaning": "n. 潜力；adj. 潜在的",
+    "example": "The empty building has potential as a small museum.",
+    "translation": "这栋空楼有改造成小型博物馆的潜力。",
+    "note": "have the potential to do：有潜力做……。",
+    "distractorWords": [
+      "pottery",
+      "patent",
+      "partial"
+    ]
+  },
+  {
+    "id": 73,
+    "word": "quantity",
+    "meaning": "n. 数量；量",
+    "example": "Only a small quantity of salt is needed.",
+    "translation": "只需要少量的盐。",
+    "note": "a quantity of 可接可数或不可数名词。",
+    "distractorWords": [
+      "quality",
+      "quaint",
+      "quarry"
+    ]
+  },
+  {
+    "id": 74,
+    "word": "settle",
+    "meaning": "v. 解决；定居；安定下来",
+    "example": "The two neighbours agreed to settle the dispute peacefully.",
+    "translation": "这两位邻居同意和平解决争端。",
+    "note": "settle down：安定下来；settle a dispute：解决争端。",
+    "distractorWords": [
+      "subtle",
+      "shuttle",
+      "startle"
+    ]
+  },
+  {
+    "id": 75,
+    "word": "sophisticate",
+    "meaning": "v. 使复杂；使精密",
+    "example": "Extra features can sophisticate an otherwise simple design.",
+    "translation": "额外的功能可能使原本简单的设计变复杂。",
+    "note": "此动词较少见；更常见的是形容词 sophisticated。",
+    "distractorWords": [
+      "suffocate",
+      "speculate",
+      "socialize"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "specific",
+    "meaning": "adj. 具体的；特定的",
+    "example": "Please give a specific example from your own experience.",
+    "translation": "请举一个你亲身经历的具体例子。",
+    "note": "be specific about：对……说明具体。",
+    "distractorWords": [
+      "scientific",
+      "Pacific",
+      "spectacle"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "survive",
+    "meaning": "v. 生存；幸存",
+    "example": "Few plants can survive without enough water and light.",
+    "translation": "没有足够的水和光，很少有植物能生存。",
+    "note": "survive 后可直接接灾难；survive an accident。",
+    "distractorWords": [
+      "survey",
+      "service",
+      "revive"
+    ]
+  },
+  {
+    "id": 78,
+    "word": "swift",
+    "meaning": "adj. 迅速的；敏捷的",
+    "example": "The rescue team made a swift response to the call.",
+    "translation": "救援队迅速回应了求救电话。",
+    "note": "a swift response：迅速的回应；不等于副词“立刻”。",
+    "distractorWords": [
+      "shift",
+      "sift",
+      "stiff"
+    ]
+  },
+  {
+    "id": 79,
+    "word": "unexpectedly",
+    "meaning": "adv. 出乎意料地",
+    "example": "The bus stopped unexpectedly just outside the village.",
+    "translation": "公交车在刚出村的地方意外停了下来。",
+    "note": "副词修饰动作；对应形容词是 unexpected。",
+    "distractorWords": [
+      "expectantly",
+      "respectfully",
+      "unfortunately"
+    ]
+  },
+  {
+    "id": 80,
+    "word": "surrounding",
+    "meaning": "adj. 周围的；附近的",
+    "example": "The surrounding hills protect the village from strong winds.",
+    "translation": "周围的山丘为村庄挡住了强风。",
+    "note": "surrounding 常修饰名词；“环境”通常用复数 surroundings。",
+    "distractorWords": [
+      "surrendering",
+      "surpassing",
+      "sounding"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "attempt",
+    "meaning": "n. 尝试；v. 试图",
+    "example": "Her first attempt to bake bread was successful.",
+    "translation": "她第一次尝试烤面包就成功了。",
+    "note": "an attempt to do：做……的尝试。",
+    "distractorWords": [
+      "attend",
+      "tempt",
+      "contempt"
+    ]
+  },
+  {
+    "id": 82,
+    "word": "expertise",
+    "meaning": "n. 专业知识；专门技能",
+    "example": "The project needs expertise in both farming and engineering.",
+    "translation": "这个项目需要农业和工程两个领域的专业知识。",
+    "note": "expertise in：在……方面的专业知识；通常不可数。",
+    "distractorWords": [
+      "exercise",
+      "enterprise",
+      "expedition"
+    ]
+  },
+  {
+    "id": 83,
+    "word": "faculty",
+    "meaning": "n. 能力；全体教员；院系",
+    "example": "The faculty discussed the new course on Monday.",
+    "translation": "全体教员周一讨论了这门新课程。",
+    "note": "指全体教员时为集合名词；也可指大学院系。",
+    "distractorWords": [
+      "facility",
+      "factual",
+      "faulty"
+    ]
+  },
+  {
+    "id": 84,
+    "word": "donate",
+    "meaning": "v. 捐赠",
+    "example": "Local shops donate fresh food to the community kitchen.",
+    "translation": "当地商店给社区食堂捐赠新鲜食品。",
+    "note": "donate something to：向……捐赠某物。",
+    "distractorWords": [
+      "denote",
+      "detonate",
+      "dominate"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "dynamics",
+    "meaning": "n. 动力学；相互作用",
+    "example": "The course explains the dynamics of moving fluids.",
+    "translation": "这门课讲解运动流体的动力学。",
+    "note": "指动力学学科时，dynamics 通常搭配单数谓语。",
+    "distractorWords": [
+      "dynamite",
+      "diamonds",
+      "dynasty"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "incentive",
+    "meaning": "n. 激励；动机；奖励",
+    "example": "A small prize gave students an incentive to read.",
+    "translation": "一个小奖品给了学生阅读的动力。",
+    "note": "an incentive to do：促使做……的动机。",
+    "distractorWords": [
+      "insensitive",
+      "inventive",
+      "intensive"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "mortality",
+    "meaning": "n. 死亡率；必死性",
+    "example": "Better care helped reduce infant mortality in the region.",
+    "translation": "更好的护理帮助降低了该地区的婴儿死亡率。",
+    "note": "infant mortality：婴儿死亡率。",
+    "distractorWords": [
+      "morality",
+      "majority",
+      "morbid"
+    ]
+  },
+  {
+    "id": 88,
+    "word": "peripheral",
+    "meaning": "adj. 外围的；次要的",
+    "example": "The report treats parking as a peripheral issue.",
+    "translation": "这份报告将停车视为次要问题。",
+    "note": "peripheral to：对……而言次要的；也可指周边的。",
+    "distractorWords": [
+      "perennial",
+      "perimeter",
+      "preferable"
+    ]
+  },
+  {
+    "id": 89,
+    "word": "vicinity",
+    "meaning": "n. 附近；邻近地区",
+    "example": "Several small shops stand in the vicinity of the station.",
+    "translation": "车站附近有几家小商店。",
+    "note": "in the vicinity of：在……附近。",
+    "distractorWords": [
+      "vanity",
+      "viscosity",
+      "virginity"
+    ]
+  },
+  {
+    "id": 90,
+    "word": "threaten",
+    "meaning": "v. 威胁；危及",
+    "example": "Rising sea levels threaten homes along this coast.",
+    "translation": "海平面上升威胁着这段海岸沿线的房屋。",
+    "note": "threaten to do：威胁要做……。",
+    "distractorWords": [
+      "thread",
+      "thirteen",
+      "treat"
+    ]
+  },
+  {
+    "id": 91,
+    "word": "practice",
+    "meaning": "n. 练习；实践；惯例",
+    "example": "Daily practice helped her play the piano with confidence.",
+    "translation": "每天练习让她能自信地弹钢琴。",
+    "note": "英式名词 practice、动词 practise；美式均可用 practice。",
+    "distractorWords": [
+      "tactic",
+      "prairie",
+      "plastic"
+    ]
+  },
+  {
+    "id": 92,
+    "word": "bacteria",
+    "meaning": "n. 细菌（复数）",
+    "example": "Some bacteria help us break down food in the gut.",
+    "translation": "有些细菌帮助我们在肠道内分解食物。",
+    "note": "bacteria 是 bacterium 的复数。",
+    "distractorWords": [
+      "battery",
+      "criteria",
+      "barrier"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "be subject to",
+    "meaning": "v. phr. 受……影响；须遵守",
+    "example": "All visitors will be subject to a security check.",
+    "translation": "所有访客都必须接受安检。",
+    "note": "be subject to 后接影响、限制或检查等名词。",
+    "distractorWords": [
+      "be objected to",
+      "be attached to",
+      "be adjusted to"
+    ]
+  },
+  {
+    "id": 94,
+    "word": "be liable to",
+    "meaning": "v. phr. 容易……；可能……",
+    "example": "Wet leaves may be liable to cause a fall.",
+    "translation": "湿树叶可能使人滑倒。",
+    "note": "be liable to do：容易／可能做……；liable for 表示应负责任。",
+    "distractorWords": [
+      "be able to",
+      "be loyal to",
+      "be linked to"
+    ]
+  },
+  {
+    "id": 95,
+    "word": "innate",
+    "meaning": "adj. 天生的；固有的",
+    "example": "Babies have an innate ability to learn from sounds.",
+    "translation": "婴儿天生就有从声音中学习的能力。",
+    "note": "innate ability：天生的能力；与后天习得相对。",
+    "distractorWords": [
+      "inert",
+      "inane",
+      "intimate"
+    ]
+  },
+  {
+    "id": 96,
+    "word": "pattern",
+    "meaning": "n. 模式；图案；规律",
+    "example": "A clear pattern appeared after several weeks of testing.",
+    "translation": "经过几周测试后，一个清晰的规律显现了出来。",
+    "note": "a pattern of behaviour：一种行为模式。",
+    "distractorWords": [
+      "patent",
+      "patter",
+      "partner"
+    ]
+  },
+  {
+    "id": 97,
+    "word": "therapy",
+    "meaning": "n. 治疗；疗法",
+    "example": "Regular therapy helped him regain movement in his hand.",
+    "translation": "定期治疗帮助他恢复了手部活动能力。",
+    "note": "physical therapy：物理治疗；常用作不可数名词。",
+    "distractorWords": [
+      "theory",
+      "thereby",
+      "thrifty"
+    ]
+  },
+  {
+    "id": 98,
+    "word": "original",
+    "meaning": "adj. 最初的；原作的；独创的",
+    "example": "The original plan included a bridge across the stream.",
+    "translation": "最初的计划包括一座跨越小溪的桥。",
+    "note": "the original version：最初版本；an original idea：独创的想法。",
+    "distractorWords": [
+      "ordinary",
+      "oriental",
+      "optional"
+    ]
+  },
+  {
+    "id": 99,
+    "word": "confidential",
+    "meaning": "adj. 机密的；保密的",
+    "example": "Please keep all patient records in a confidential file.",
+    "translation": "请把所有病人的记录存入保密档案。",
+    "note": "keep something confidential：对某事保密。",
+    "distractorWords": [
+      "confident",
+      "continental",
+      "confessional"
+    ]
+  },
+  {
+    "id": 100,
+    "word": "cognitive",
+    "meaning": "adj. 认知的",
+    "example": "Sleep plays a role in children's cognitive development.",
+    "translation": "睡眠对儿童的认知发展起着作用。",
+    "note": "cognitive development：认知发展。",
+    "distractorWords": [
+      "collective",
+      "competitive",
+      "cognate"
+    ]
+  },
+  {
+    "id": 101,
+    "word": "comply with",
+    "meaning": "v. phr. 遵守；服从",
+    "example": "Every driver must comply with the new parking rules.",
+    "translation": "每位司机都必须遵守新的停车规定。",
+    "note": "comply 必须搭配 with 才能接规则等宾语。",
+    "distractorWords": [
+      "complete with",
+      "compete with",
+      "compare with"
+    ]
+  },
+  {
+    "id": 102,
+    "word": "consult",
+    "meaning": "v. 咨询；请教；查阅",
+    "example": "Please consult the map before choosing a walking route.",
+    "translation": "请选择步行路线前先查阅地图。",
+    "note": "consult someone：请教某人；consult a book：查阅书籍。",
+    "distractorWords": [
+      "consul",
+      "console",
+      "insult"
+    ]
+  },
+  {
+    "id": 103,
+    "word": "superior",
+    "meaning": "adj. 更好的；上级的",
+    "example": "This fabric offers superior protection against cold winds.",
+    "translation": "这种布料提供了更好的防寒风保护。",
+    "note": "be superior to：优于……，不用 than。",
+    "distractorWords": [
+      "supervisor",
+      "superficial",
+      "supernatural"
+    ]
+  },
+  {
+    "id": 104,
+    "word": "co-operation",
+    "meaning": "n. 合作；协作",
+    "example": "The project depends on co-operation between schools and parents.",
+    "translation": "这个项目有赖于学校和家长之间的合作。",
+    "note": "也写 cooperation；co-operation with：与……合作。",
+    "distractorWords": [
+      "corporation",
+      "co-option",
+      "co-ordination"
+    ]
+  },
+  {
+    "id": 105,
+    "word": "co-ordinate",
+    "meaning": "v. 协调；使配合",
+    "example": "We need to co-ordinate deliveries with the local shops.",
+    "translation": "我们需要与当地商店协调送货安排。",
+    "note": "也写 coordinate；co-ordinate A with B。",
+    "distractorWords": [
+      "co-operate",
+      "coronate",
+      "coincide"
+    ]
+  },
+  {
+    "id": 106,
+    "word": "differ",
+    "meaning": "v. 不同；有分歧",
+    "example": "These two plants differ in the shape of their leaves.",
+    "translation": "这两种植物的叶片形状不同。",
+    "note": "differ from：与……不同；通常是不及物动词。",
+    "distractorWords": [
+      "defer",
+      "dither",
+      "offer"
+    ]
+  },
+  {
+    "id": 107,
+    "word": "cue",
+    "meaning": "n. 提示；信号；线索",
+    "example": "The teacher gave a visual cue before each turn.",
+    "translation": "每次轮到学生前，老师都会给出视觉提示。",
+    "note": "a cue to do：做……的提示。",
+    "distractorWords": [
+      "queue",
+      "cure",
+      "cube"
+    ]
+  },
+  {
+    "id": 108,
+    "word": "signal",
+    "meaning": "n. 信号；v. 发信号",
+    "example": "A red light is a signal to stop.",
+    "translation": "红灯是停车的信号。",
+    "note": "a signal to do：做……的信号。",
+    "distractorWords": [
+      "single",
+      "signature",
+      "singular"
+    ]
+  },
+  {
+    "id": 109,
+    "word": "abandon",
+    "meaning": "v. 放弃；遗弃",
+    "example": "The family had to abandon their home during the flood.",
+    "translation": "洪水期间，这家人不得不离开自己的家。",
+    "note": "abandon a plan：放弃计划；后接名词或动名词。",
+    "distractorWords": [
+      "abundant",
+      "absorb",
+      "bandage"
+    ]
+  },
+  {
+    "id": 110,
+    "word": "halt",
+    "meaning": "n. 停止；v. 停下；使停止",
+    "example": "The train came to a halt beside the platform.",
+    "translation": "火车在站台旁停了下来。",
+    "note": "come to a halt：停下来。",
+    "distractorWords": [
+      "hilt",
+      "malt",
+      "haunt"
+    ]
+  },
+  {
+    "id": 111,
+    "word": "fragile",
+    "meaning": "adj. 易碎的；脆弱的",
+    "example": "Please pack the fragile cups in a strong box.",
+    "translation": "请把这些易碎的杯子装进结实的箱子里。",
+    "note": "既可形容物品易碎，也可形容局势或健康脆弱。",
+    "distractorWords": [
+      "agile",
+      "fertile",
+      "frugal"
+    ]
+  },
+  {
+    "id": 112,
+    "word": "retain",
+    "meaning": "v. 保留；保持；记住",
+    "example": "A thick roof helps the house retain heat.",
+    "translation": "厚实的屋顶有助于房屋保温。",
+    "note": "retain information：记住信息；retain heat：保存热量。",
+    "distractorWords": [
+      "retrain",
+      "retail",
+      "restrain"
+    ]
+  },
+  {
+    "id": 113,
+    "word": "vanish",
+    "meaning": "v. 消失；不复存在",
+    "example": "Small pools often vanish quickly in the summer heat.",
+    "translation": "小水洼常常在夏季的高温下迅速消失。",
+    "note": "vanish 是动词；vanish from sight：从视线中消失。",
+    "distractorWords": [
+      "varnish",
+      "banish",
+      "finish"
+    ]
+  },
+  {
+    "id": 114,
+    "word": "delivery",
+    "meaning": "n. 递送；交付；分娩",
+    "example": "The shop offers free delivery for orders over fifty pounds.",
+    "translation": "这家商店为超过五十英镑的订单提供免费送货。",
+    "note": "free delivery：免费配送；delivery 也可指分娩。",
+    "distractorWords": [
+      "deliberate",
+      "discovery",
+      "deliverance"
+    ]
+  },
+  {
+    "id": 115,
+    "word": "erode",
+    "meaning": "v. 侵蚀；逐渐削弱",
+    "example": "Strong waves erode the soft rock along this coast.",
+    "translation": "强浪侵蚀着这段海岸沿线松软的岩石。",
+    "note": "既可指自然侵蚀，也可指逐渐削弱信心等。",
+    "distractorWords": [
+      "erupt",
+      "evade",
+      "encode"
+    ]
+  },
+  {
+    "id": 116,
+    "word": "induce",
+    "meaning": "v. 引起；诱使",
+    "example": "The medicine may induce sleep in some patients.",
+    "translation": "这种药可能会使一些病人入睡。",
+    "note": "induce someone to do：诱使某人做……。",
+    "distractorWords": [
+      "deduce",
+      "reduce",
+      "introduce"
+    ]
+  },
+  {
+    "id": 117,
+    "word": "stable",
+    "meaning": "adj. 稳定的；稳固的",
+    "example": "The bridge remained stable despite the strong winds.",
+    "translation": "尽管风很大，这座桥仍然稳固。",
+    "note": "stable conditions：稳定的条件；也可作名词“马厩”。",
+    "distractorWords": [
+      "staple",
+      "stale",
+      "table"
+    ]
+  },
+  {
+    "id": 118,
+    "word": "integrate",
+    "meaning": "v. 整合；融入",
+    "example": "The course helps students integrate theory with practical work.",
+    "translation": "这门课帮助学生把理论与实践结合起来。",
+    "note": "integrate A with B；integrate into：融入。",
+    "distractorWords": [
+      "interrogate",
+      "irritate",
+      "migrate"
+    ]
+  },
+  {
+    "id": 119,
+    "word": "equal",
+    "meaning": "adj. 相等的；平等的；胜任的",
+    "example": "All children deserve an equal chance to learn.",
+    "translation": "所有孩子都应享有平等的学习机会。",
+    "note": "be equal to 既可指相等，也可指胜任。",
+    "distractorWords": [
+      "equator",
+      "usual",
+      "eagle"
+    ]
+  },
+  {
+    "id": 120,
+    "word": "grant",
+    "meaning": "v. 授予；准许；n. 拨款",
+    "example": "The council may grant permission for a new school.",
+    "translation": "议会可能会批准建一所新学校。",
+    "note": "grant someone something：给予某人某物。",
+    "distractorWords": [
+      "grand",
+      "grunt",
+      "graft"
+    ]
+  },
+  {
+    "id": 121,
+    "word": "accumulate",
+    "meaning": "v. 积累；积聚",
+    "example": "Leaves accumulate in the garden during the autumn months.",
+    "translation": "秋天，落叶会堆积在花园里。",
+    "note": "可及物也可不及物；accumulate experience：积累经验。",
+    "distractorWords": [
+      "accommodate",
+      "calculate",
+      "articulate"
+    ]
+  },
+  {
+    "id": 122,
+    "word": "addictive",
+    "meaning": "adj. 使人上瘾的",
+    "example": "Some games are addictive because they offer constant rewards.",
+    "translation": "有些游戏通过不断提供奖励使人上瘾。",
+    "note": "addictive 形容事物使人上瘾；addicted 形容人上瘾。",
+    "distractorWords": [
+      "additive",
+      "attentive",
+      "adaptive"
+    ]
+  },
+  {
+    "id": 123,
+    "word": "adversity",
+    "meaning": "n. 逆境；不幸",
+    "example": "Strong friendships can help people cope with adversity.",
+    "translation": "牢固的友谊能帮助人们应对逆境。",
+    "note": "in the face of adversity：面对逆境。",
+    "distractorWords": [
+      "diversity",
+      "university",
+      "advertisement"
+    ]
+  },
+  {
+    "id": 124,
+    "word": "aggression",
+    "meaning": "n. 攻击；侵略；攻击性",
+    "example": "The dog showed no aggression towards the children.",
+    "translation": "这只狗对孩子们没有表现出攻击性。",
+    "note": "aggression towards：对……的攻击性。",
+    "distractorWords": [
+      "agreement",
+      "regression",
+      "progression"
+    ]
+  },
+  {
+    "id": 125,
+    "word": "agreeable",
+    "meaning": "adj. 令人愉快的；愿意接受的",
+    "example": "We spent an agreeable afternoon walking beside the lake.",
+    "translation": "我们在湖边散步，度过了一个愉快的下午。",
+    "note": "be agreeable to something：愿意接受某事。",
+    "distractorWords": [
+      "arguable",
+      "arable",
+      "available"
+    ]
+  },
+  {
+    "id": 126,
+    "word": "aid",
+    "meaning": "n. 援助；帮助；v. 帮助",
+    "example": "The village received food aid after the severe flood.",
+    "translation": "严重洪灾过后，村庄获得了粮食援助。",
+    "note": "first aid：急救；aid 可作名词或动词。",
+    "distractorWords": [
+      "arid",
+      "aim",
+      "laid"
+    ]
+  },
+  {
+    "id": 127,
+    "word": "allergic",
+    "meaning": "adj. 过敏的",
+    "example": "My brother is allergic to cats but loves dogs.",
+    "translation": "我弟弟对猫过敏，但他很喜欢狗。",
+    "note": "be allergic to：对……过敏。",
+    "distractorWords": [
+      "alleged",
+      "algebraic",
+      "energetic"
+    ]
+  },
+  {
+    "id": 128,
+    "word": "altitude",
+    "meaning": "n. 海拔；高度",
+    "example": "Water boils at a lower temperature at high altitude.",
+    "translation": "在高海拔地区，水在较低的温度下就会沸腾。",
+    "note": "at an altitude of：在……的海拔高度。",
+    "distractorWords": [
+      "attitude",
+      "aptitude",
+      "latitude"
+    ]
+  },
+  {
+    "id": 129,
+    "word": "application",
+    "meaning": "n. 应用；申请",
+    "example": "This study explores the application of solar power in farming.",
+    "translation": "这项研究探索太阳能在农业中的应用。",
+    "note": "application of：……的应用；application for：……的申请。",
+    "distractorWords": [
+      "appliance",
+      "applicant",
+      "appreciation"
+    ]
+  },
+  {
+    "id": 130,
+    "word": "approve",
+    "meaning": "v. 批准；赞成",
+    "example": "The council must approve the plan before work begins.",
+    "translation": "动工前，议会必须批准这项计划。",
+    "note": "approve a plan：批准计划；approve of：赞成。",
+    "distractorWords": [
+      "improve",
+      "prove",
+      "appropriate"
+    ]
+  },
+  {
+    "id": 131,
+    "word": "array",
+    "meaning": "n. 大批；一系列；排列",
+    "example": "The market sells a colourful array of fresh fruit.",
+    "translation": "市场出售各色各样的新鲜水果。",
+    "note": "an array of：一大批／一系列。",
+    "distractorWords": [
+      "away",
+      "assay",
+      "astray"
+    ]
+  },
+  {
+    "id": 132,
+    "word": "assign",
+    "meaning": "v. 分配；指派",
+    "example": "The teacher will assign each group a different task.",
+    "translation": "老师将给每组分配不同的任务。",
+    "note": "assign something to someone：将某事分配给某人。",
+    "distractorWords": [
+      "resign",
+      "align",
+      "assail"
+    ]
+  },
+  {
+    "id": 133,
+    "word": "association",
+    "meaning": "n. 协会；联系；关联",
+    "example": "The local fishing association meets here every month.",
+    "translation": "当地渔业协会每月在这里开会。",
+    "note": "association with：与……的联系。",
+    "distractorWords": [
+      "assassination",
+      "assumption",
+      "appreciation"
+    ]
+  },
+  {
+    "id": 134,
+    "word": "attitude",
+    "meaning": "n. 态度；看法",
+    "example": "Her attitude towards school changed after the trip.",
+    "translation": "旅行之后，她对学校的看法改变了。",
+    "note": "attitude to/towards：对……的态度。",
+    "distractorWords": [
+      "altitude",
+      "aptitude",
+      "attribute"
+    ]
+  },
+  {
+    "id": 135,
+    "word": "authority",
+    "meaning": "n. 当局；权力；权威",
+    "example": "The local authority plans to repair the footbridge.",
+    "translation": "地方当局计划修理这座人行桥。",
+    "note": "have the authority to do：有权做……。",
+    "distractorWords": [
+      "author",
+      "authenticity",
+      "autonomy"
+    ]
+  },
+  {
+    "id": 136,
+    "word": "be consistent with",
+    "meaning": "v. phr. 与……一致",
+    "example": "The results should be consistent with our earlier findings.",
+    "translation": "这些结果应当与我们先前的发现一致。",
+    "note": "consistent with 后接证据、结果或原则等。",
+    "distractorWords": [
+      "be content with",
+      "be concerned with",
+      "be connected with"
+    ]
+  },
+  {
+    "id": 137,
+    "word": "bear",
+    "meaning": "v. 承担；忍受；n. 熊",
+    "example": "Small businesses cannot bear the full cost of repairs.",
+    "translation": "小企业无法承担全部维修费用。",
+    "note": "动词过去式 bore；表示承受时过去分词 borne。",
+    "distractorWords": [
+      "bare",
+      "beer",
+      "beard"
+    ]
+  },
+  {
+    "id": 138,
+    "word": "blight",
+    "meaning": "v. 损害；使枯萎；n. 枯萎病",
+    "example": "Long periods of drought can blight an entire harvest.",
+    "translation": "长时间干旱可能毁掉整季收成。",
+    "note": "可指作物受损，也可比喻生活等被毁坏。",
+    "distractorWords": [
+      "bright",
+      "flight",
+      "slight"
+    ]
+  },
+  {
+    "id": 139,
+    "word": "boundary",
+    "meaning": "n. 边界；界限",
+    "example": "A low wall marks the boundary between the gardens.",
+    "translation": "一道矮墙标明了两座花园之间的边界。",
+    "note": "the boundary between A and B：两者之间的界限。",
+    "distractorWords": [
+      "boundless",
+      "bounty",
+      "foundry"
+    ]
+  },
+  {
+    "id": 140,
+    "word": "bungle",
+    "meaning": "v. 搞糟；笨拙地做",
+    "example": "Without clear instructions, beginners may bungle this simple task.",
+    "translation": "没有明确指示，初学者可能把这项简单任务搞砸。",
+    "note": "bungle a job：把工作搞糟。",
+    "distractorWords": [
+      "bundle",
+      "jungle",
+      "bungalow"
+    ]
+  },
+  {
+    "id": 141,
+    "word": "burden",
+    "meaning": "n. 负担；v. 使负担",
+    "example": "High rents place a heavy burden on young families.",
+    "translation": "高昂的租金给年轻家庭带来沉重负担。",
+    "note": "a burden on：给……的负担。",
+    "distractorWords": [
+      "burnt",
+      "barren",
+      "garden"
+    ]
+  },
+  {
+    "id": 142,
+    "word": "calamity",
+    "meaning": "n. 灾难；大祸",
+    "example": "The flood was a calamity for the farming community.",
+    "translation": "这场洪水给这个农业社区带来了灾难。",
+    "note": "a natural calamity：自然灾害。",
+    "distractorWords": [
+      "calm",
+      "calamine",
+      "calorie"
+    ]
+  },
+  {
+    "id": 143,
+    "word": "capacity",
+    "meaning": "n. 容量；能力",
+    "example": "The hall has a capacity of two hundred people.",
+    "translation": "这座大厅可容纳两百人。",
+    "note": "capacity for：……的能力；at full capacity：满负荷。",
+    "distractorWords": [
+      "captivity",
+      "capital",
+      "captain"
+    ]
+  },
+  {
+    "id": 144,
+    "word": "catastrophic",
+    "meaning": "adj. 灾难性的；极其严重的",
+    "example": "The oil spill caused catastrophic damage to local wildlife.",
+    "translation": "这次石油泄漏给当地野生动植物造成了灾难性破坏。",
+    "note": "catastrophic damage：灾难性的损害。",
+    "distractorWords": [
+      "categorical",
+      "geographic",
+      "apostrophe"
+    ]
+  },
+  {
+    "id": 145,
+    "word": "cater",
+    "meaning": "v. 提供餐饮；满足需求",
+    "example": "These classes cater for students with little free time.",
+    "translation": "这些课程满足了空闲时间较少的学生的需求。",
+    "note": "cater for：满足……的需要；cater to：迎合。",
+    "distractorWords": [
+      "crater",
+      "caterpillar",
+      "canter"
+    ]
+  },
+  {
+    "id": 146,
+    "word": "certify",
+    "meaning": "v. 证明；认证",
+    "example": "A qualified inspector must certify that the lift is safe.",
+    "translation": "必须由合格的检查员证明这部电梯安全。",
+    "note": "certify that：证明……；certify someone as：认定某人为……。",
+    "distractorWords": [
+      "clarify",
+      "terrify",
+      "signify"
+    ]
+  },
+  {
+    "id": 147,
+    "word": "civic",
+    "meaning": "adj. 公民的；城市的",
+    "example": "Volunteers showed civic pride by cleaning the town square.",
+    "translation": "志愿者清扫城镇广场，展现了对家园的自豪感。",
+    "note": "civic duty：公民义务；原表“实名的”为错义。",
+    "distractorWords": [
+      "cyclic",
+      "cynic",
+      "comic"
+    ]
+  },
+  {
+    "id": 148,
+    "word": "comment",
+    "meaning": "n. 评论；意见；v. 评论",
+    "example": "Her comment raised a useful question about the design.",
+    "translation": "她的评论提出了一个关于设计的有价值的问题。",
+    "note": "comment on：对……评论。",
+    "distractorWords": [
+      "commend",
+      "command",
+      "commit"
+    ]
+  },
+  {
+    "id": 149,
+    "word": "commitment",
+    "meaning": "n. 承诺；投入；义务",
+    "example": "Learning a language takes commitment and regular practice.",
+    "translation": "学习一门语言需要投入和经常练习。",
+    "note": "commitment to 后接名词或动名词。",
+    "distractorWords": [
+      "committee",
+      "commencement",
+      "compartment"
+    ]
+  },
+  {
+    "id": 150,
+    "word": "communal",
+    "meaning": "adj. 公共的；共用的",
+    "example": "Residents share a communal kitchen on the ground floor.",
+    "translation": "住户们共用一楼的一间厨房。",
+    "note": "communal facilities：共用设施。",
+    "distractorWords": [
+      "communicable",
+      "commercial",
+      "colonial"
+    ]
+  },
+  {
+    "id": 151,
+    "word": "commute",
+    "meaning": "v. 通勤；减轻刑罚",
+    "example": "Many workers commute by train from nearby towns.",
+    "translation": "许多工人从附近城镇坐火车通勤。",
+    "note": "commute to work：通勤上班；不是一般的“交换”。",
+    "distractorWords": [
+      "compute",
+      "commune",
+      "commit"
+    ]
+  },
+  {
+    "id": 152,
+    "word": "compare",
+    "meaning": "v. 比较；把……比作",
+    "example": "We should compare prices before buying a new fridge.",
+    "translation": "买新冰箱前，我们应该比较价格。",
+    "note": "compare A with B：比较；compare A to B：把……比作。",
+    "distractorWords": [
+      "compile",
+      "compel",
+      "compere"
+    ]
+  },
+  {
+    "id": 153,
+    "word": "conceal",
+    "meaning": "v. 隐藏；隐瞒",
+    "example": "Thick curtains conceal the room from people outside.",
+    "translation": "厚窗帘挡住了室外的人们看向房间的视线。",
+    "note": "conceal something from someone：向某人隐藏某事。",
+    "distractorWords": [
+      "cancel",
+      "counsel",
+      "concede"
+    ]
+  },
+  {
+    "id": 154,
+    "word": "concentrate",
+    "meaning": "v. 集中注意力；集中",
+    "example": "I cannot concentrate when the music is too loud.",
+    "translation": "音乐太响时，我无法集中注意力。",
+    "note": "concentrate on：专注于。",
+    "distractorWords": [
+      "concrete",
+      "consecrate",
+      "contemplate"
+    ]
+  },
+  {
+    "id": 155,
+    "word": "concur",
+    "meaning": "v. 同意；意见一致",
+    "example": "The two doctors concur on the best treatment.",
+    "translation": "两位医生对最佳治疗方案意见一致。",
+    "note": "concur with someone：同意某人的看法。",
+    "distractorWords": [
+      "conquer",
+      "incur",
+      "occur"
+    ]
+  },
+  {
+    "id": 156,
+    "word": "confer",
+    "meaning": "v. 授予；商议",
+    "example": "The university can confer degrees on successful candidates.",
+    "translation": "大学可以向符合要求的学生授予学位。",
+    "note": "confer something on someone：授予某人某物。",
+    "distractorWords": [
+      "conifer",
+      "conserve",
+      "confirm"
+    ]
+  },
+  {
+    "id": 157,
+    "word": "conflict",
+    "meaning": "n. 冲突；矛盾；v. 相冲突",
+    "example": "The conflict between the neighbours began over a fence.",
+    "translation": "邻居之间的冲突是因一道围栏而起的。",
+    "note": "conflict with：与……冲突或不一致。",
+    "distractorWords": [
+      "convict",
+      "conflate",
+      "inflict"
+    ]
+  },
+  {
+    "id": 158,
+    "word": "confuse",
+    "meaning": "v. 使困惑；混淆",
+    "example": "Similar names can confuse people reading the station map.",
+    "translation": "相似的站名会让查看车站地图的人感到困惑。",
+    "note": "confuse A with B：把 A 和 B 混淆。",
+    "distractorWords": [
+      "confess",
+      "confer",
+      "conserve"
+    ]
+  },
+  {
+    "id": 159,
+    "word": "conservative",
+    "meaning": "adj. 保守的；谨慎的",
+    "example": "We made a conservative estimate of the total cost.",
+    "translation": "我们对总费用作了保守估计。",
+    "note": "a conservative estimate：保守的估计。",
+    "distractorWords": [
+      "conservation",
+      "consecutive",
+      "conversational"
+    ]
+  },
+  {
+    "id": 160,
+    "word": "considerable",
+    "meaning": "adj. 相当大的；相当多的",
+    "example": "The new bridge saved drivers a considerable amount of time.",
+    "translation": "新桥为司机们节省了相当多的时间。",
+    "note": "与 considerate（体贴的）区别。",
+    "distractorWords": [
+      "considerate",
+      "considered",
+      "consumable"
+    ]
+  },
+  {
+    "id": 161,
+    "word": "contingent",
+    "meaning": "adj. 取决于……的；有条件的",
+    "example": "Our trip is contingent on the weather staying fine.",
+    "translation": "我们的旅行取决于天气能否保持晴朗。",
+    "note": "be contingent on/upon：取决于。",
+    "distractorWords": [
+      "continent",
+      "content",
+      "contagious"
+    ]
+  },
+  {
+    "id": 162,
+    "word": "controversial",
+    "meaning": "adj. 有争议的",
+    "example": "The council's controversial plan divided the local community.",
+    "translation": "议会这项有争议的计划使当地社区产生了分歧。",
+    "note": "a controversial issue：有争议的问题。",
+    "distractorWords": [
+      "conversational",
+      "commercial",
+      "conventional"
+    ]
+  },
+  {
+    "id": 163,
+    "word": "correlation",
+    "meaning": "n. 相关；关联",
+    "example": "The study found a correlation between sleep and memory.",
+    "translation": "这项研究发现睡眠与记忆之间存在关联。",
+    "note": "correlation between：两者间的关联；相关不等于因果。",
+    "distractorWords": [
+      "coronation",
+      "collation",
+      "correction"
+    ]
+  },
+  {
+    "id": 164,
+    "word": "courtship",
+    "meaning": "n. 求爱；求偶期",
+    "example": "During courtship, the male bird displays its bright feathers.",
+    "translation": "求偶期间，雄鸟会展示鲜艳的羽毛。",
+    "note": "可指人类求爱，也可指动物求偶行为。",
+    "distractorWords": [
+      "courtroom",
+      "hardship",
+      "craftsmanship"
+    ]
+  },
+  {
+    "id": 165,
+    "word": "crash",
+    "meaning": "n. 碰撞；坠毁；v. 猛撞",
+    "example": "The driver escaped from the crash without serious injury.",
+    "translation": "司机在这次碰撞事故中逃过一劫，没有受重伤。",
+    "note": "a car crash：汽车碰撞事故；也可指电脑崩溃。",
+    "distractorWords": [
+      "crush",
+      "cash",
+      "crack"
+    ]
+  },
+  {
+    "id": 166,
+    "word": "credibility",
+    "meaning": "n. 可信性；信誉",
+    "example": "Clear evidence adds credibility to the scientist's claim.",
+    "translation": "明确的证据增强了这位科学家说法的可信性。",
+    "note": "give/add credibility to：增强……的可信性。",
+    "distractorWords": [
+      "creditor",
+      "credulity",
+      "creativity"
+    ]
+  },
+  {
+    "id": 167,
+    "word": "criminal",
+    "meaning": "n. 罪犯；adj. 犯罪的",
+    "example": "The police caught the criminal near the railway station.",
+    "translation": "警方在火车站附近抓住了这名罪犯。",
+    "note": "criminal law：刑法；criminal 可作名词或形容词。",
+    "distractorWords": [
+      "critical",
+      "crimson",
+      "clinical"
+    ]
+  },
+  {
+    "id": 168,
+    "word": "crisis",
+    "meaning": "n. 危机",
+    "example": "The hospital faced a crisis after the power failed.",
+    "translation": "停电后，这家医院面临了一场危机。",
+    "note": "复数为 crises；in a crisis：在危机中。",
+    "distractorWords": [
+      "cries",
+      "crystals",
+      "criteria"
+    ]
+  },
+  {
+    "id": 169,
+    "word": "criticism",
+    "meaning": "n. 批评；评论",
+    "example": "The new policy attracted strong criticism from local parents.",
+    "translation": "新政策遭到了当地家长的强烈批评。",
+    "note": "criticism of：对……的批评；constructive criticism：建设性批评。",
+    "distractorWords": [
+      "criterion",
+      "cynicism",
+      "critic"
+    ]
+  },
+  {
+    "id": 170,
+    "word": "curb",
+    "meaning": "v. 控制；抑制；n. 路缘",
+    "example": "Higher parking fees may curb traffic in the centre.",
+    "translation": "提高停车费或许能抑制市中心的车流量。",
+    "note": "curb spending：控制开支；名词也可指路缘。",
+    "distractorWords": [
+      "curve",
+      "herb",
+      "cub"
+    ]
+  },
+  {
+    "id": 171,
+    "word": "damp",
+    "meaning": "adj. 潮湿的",
+    "example": "The towels were still damp after a night indoors.",
+    "translation": "这些毛巾在室内放了一夜后仍然潮湿。",
+    "note": "damp 常指稍湿、令人不舒服；不是浸透。",
+    "distractorWords": [
+      "dump",
+      "lamp",
+      "clamp"
+    ]
+  },
+  {
+    "id": 172,
+    "word": "dazzle",
+    "meaning": "v. 使目眩；使惊叹",
+    "example": "Bright headlights can dazzle drivers on dark country roads.",
+    "translation": "明亮的车灯会使黑暗乡间道路上的司机眼花。",
+    "note": "be dazzled by：被……晃得目眩，也可指赞叹。",
+    "distractorWords": [
+      "drizzle",
+      "puzzle",
+      "doodle"
+    ]
+  },
+  {
+    "id": 173,
+    "word": "deadline",
+    "meaning": "n. 最后期限",
+    "example": "We must finish the report before Friday's deadline.",
+    "translation": "我们必须在周五的截止时间前完成报告。",
+    "note": "meet a deadline：赶上截止时间；miss：错过。",
+    "distractorWords": [
+      "headline",
+      "deadlock",
+      "baseline"
+    ]
+  },
+  {
+    "id": 174,
+    "word": "delay",
+    "meaning": "n. 延误；v. 推迟",
+    "example": "A short delay gave us time to buy lunch.",
+    "translation": "短暂的延误给了我们买午饭的时间。",
+    "note": "without delay：立即；动词 delay 后接动名词。",
+    "distractorWords": [
+      "relay",
+      "decay",
+      "display"
+    ]
+  },
+  {
+    "id": 175,
+    "word": "democratic",
+    "meaning": "adj. 民主的",
+    "example": "Students voted for a leader in a democratic election.",
+    "translation": "学生们通过民主选举选出了一位代表。",
+    "note": "democratic election：民主选举。",
+    "distractorWords": [
+      "demographic",
+      "domestic",
+      "dramatic"
+    ]
+  },
+  {
+    "id": 176,
+    "word": "demographic",
+    "meaning": "adj. 人口统计的",
+    "example": "The survey revealed major demographic changes in the town.",
+    "translation": "调查揭示了这个镇人口结构的重大变化。",
+    "note": "demographic changes：人口结构变化。",
+    "distractorWords": [
+      "democratic",
+      "geographic",
+      "demonstrative"
+    ]
+  },
+  {
+    "id": 177,
+    "word": "dental",
+    "meaning": "adj. 牙齿的；牙科的",
+    "example": "Regular dental checks can help prevent serious tooth problems.",
+    "translation": "定期牙科检查有助于预防严重的牙齿问题。",
+    "note": "dental care：牙齿保健。",
+    "distractorWords": [
+      "mental",
+      "rental",
+      "denial"
+    ]
+  },
+  {
+    "id": 178,
+    "word": "depression",
+    "meaning": "n. 抑郁；萧条；低洼地",
+    "example": "Many people with depression find daily tasks difficult.",
+    "translation": "许多抑郁症患者觉得日常事务很难完成。",
+    "note": "可指情绪低落或疾病；economic depression：经济萧条。",
+    "distractorWords": [
+      "deprivation",
+      "compression",
+      "expression"
+    ]
+  },
+  {
+    "id": 179,
+    "word": "designate",
+    "meaning": "v. 指定；指派；标明",
+    "example": "The council will designate this area as a public park.",
+    "translation": "议会将把这片区域指定为公园。",
+    "note": "designate A as B：指定 A 为 B；原表词性误标。",
+    "distractorWords": [
+      "design",
+      "desiccate",
+      "desperate"
+    ]
+  },
+  {
+    "id": 180,
+    "word": "detain",
+    "meaning": "v. 拘留；扣留；耽搁",
+    "example": "Police may detain a suspect for further questioning.",
+    "translation": "警方可能会拘留嫌疑人以进一步审问。",
+    "note": "detain someone：拘留或耽搁某人。",
+    "distractorWords": [
+      "detail",
+      "retain",
+      "obtain"
+    ]
+  },
+  {
+    "id": 181,
+    "word": "devastate",
+    "meaning": "v. 毁坏；重创",
+    "example": "A major flood could devastate the farms downstream.",
+    "translation": "一场大洪水可能摧毁下游的农场。",
+    "note": "be devastated by：因灾难或坏消息受到重创。",
+    "distractorWords": [
+      "deviate",
+      "decorate",
+      "devote"
+    ]
+  },
+  {
+    "id": 182,
+    "word": "disclose",
+    "meaning": "v. 透露；公开；揭露",
+    "example": "The company must disclose the full cost before payment.",
+    "translation": "付款前，公司必须公开全部费用。",
+    "note": "disclose something to someone：向某人透露某事。",
+    "distractorWords": [
+      "dispose",
+      "discourse",
+      "enclose"
+    ]
+  },
+  {
+    "id": 183,
+    "word": "disparate",
+    "meaning": "adj. 迥然不同的；异类的",
+    "example": "The project brought together people from disparate backgrounds.",
+    "translation": "这个项目把背景迥异的人聚集在一起。",
+    "note": "disparate 强调明显不同、难以归为一类。",
+    "distractorWords": [
+      "desperate",
+      "disperse",
+      "disparage"
+    ]
+  },
+  {
+    "id": 184,
+    "word": "display",
+    "meaning": "n. 展示；陈列；v. 展示",
+    "example": "The museum has a display of ancient farming tools.",
+    "translation": "这家博物馆陈列着古代农具。",
+    "note": "on display：展出；display 也可作动词。",
+    "distractorWords": [
+      "displace",
+      "deploy",
+      "delay"
+    ]
+  },
+  {
+    "id": 185,
+    "word": "disrupt",
+    "meaning": "v. 扰乱；中断",
+    "example": "Road repairs will disrupt bus services for two weeks.",
+    "translation": "道路维修将影响两周的公交服务。",
+    "note": "disrupt traffic/services：扰乱交通／服务。",
+    "distractorWords": [
+      "erupt",
+      "corrupt",
+      "dispute"
+    ]
+  },
+  {
+    "id": 186,
+    "word": "distract",
+    "meaning": "v. 分散注意力；使分心",
+    "example": "Loud conversations can distract students from their reading.",
+    "translation": "大声交谈会让学生读书时分心。",
+    "note": "distract someone from：使某人从……分心。",
+    "distractorWords": [
+      "detract",
+      "abstract",
+      "contract"
+    ]
+  },
+  {
+    "id": 187,
+    "word": "distribute",
+    "meaning": "v. 分发；分配；分布",
+    "example": "Volunteers distribute hot meals to people without homes.",
+    "translation": "志愿者给无家可归的人分发热饭。",
+    "note": "distribute something to/among：把某物分配给……。",
+    "distractorWords": [
+      "contribute",
+      "attribute",
+      "disturb"
+    ]
+  },
+  {
+    "id": 188,
+    "word": "documentation",
+    "meaning": "n. 文件资料；证明文件",
+    "example": "Bring all the required documentation to your appointment.",
+    "translation": "赴约时请带齐所有必需的证明文件。",
+    "note": "通常不可数；documentation for：……的文件资料。",
+    "distractorWords": [
+      "documentary",
+      "domestication",
+      "denomination"
+    ]
+  },
+  {
+    "id": 189,
+    "word": "domain",
+    "meaning": "n. 领域；范围；域名",
+    "example": "Water management is outside the domain of this office.",
+    "translation": "水资源管理不在这个办公室的职责范围内。",
+    "note": "in the public domain：公开可用；domain name：域名。",
+    "distractorWords": [
+      "dormant",
+      "domino",
+      "remain"
+    ]
+  },
+  {
+    "id": 190,
+    "word": "dominant",
+    "meaning": "adj. 占优势的；支配的",
+    "example": "Rice is the dominant crop in this region.",
+    "translation": "水稻是这个地区的主要农作物。",
+    "note": "the dominant role：主导地位；不一定表示蛮横。",
+    "distractorWords": [
+      "dormant",
+      "domestic",
+      "prominent"
+    ]
+  }
+]

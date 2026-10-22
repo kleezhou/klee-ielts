@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+**/.openai/hosting.json
+/dist/server/
+/dist/.openai/
+/checkin-status/dist/
+.wrangler/
+*.sqlite
+*.sqlite-*
+*.db
+*.tar.gz
+*.zip
+klee-ielts-backup-*.json
+.DS_Store

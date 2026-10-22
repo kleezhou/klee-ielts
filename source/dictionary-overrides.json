@@ -1,0 +1,178 @@
+{
+  "spend on": [
+    {
+      "pos": "phr. v.",
+      "meaning": "把时间或金钱花在……上"
+    }
+  ],
+  "passed on": [
+    {
+      "pos": "phr. v.",
+      "meaning": "传递；转告（pass on 的过去式或过去分词）"
+    }
+  ],
+  "backed up": [
+    {
+      "pos": "phr. v.",
+      "meaning": "备份；支持（back up 的过去式或过去分词）"
+    }
+  ],
+  "focused on": [
+    {
+      "pos": "phr. v.",
+      "meaning": "专注于；把注意力集中在……上"
+    }
+  ],
+  "prepare to": [
+    {
+      "pos": "phr. v.",
+      "meaning": "准备做某事"
+    }
+  ],
+  "be objected to": [
+    {
+      "pos": "phr. v.",
+      "meaning": "遭到反对"
+    }
+  ],
+  "be adjusted to": [
+    {
+      "pos": "phr. v.",
+      "meaning": "被调至；被调整到……"
+    }
+  ],
+  "mean to do": [
+    {
+      "pos": "phr. v.",
+      "meaning": "打算做某事"
+    }
+  ],
+  "used to do": [
+    {
+      "pos": "phr.",
+      "meaning": "过去常常做某事"
+    }
+  ],
+  "empathize": [
+    {
+      "pos": "v.",
+      "meaning": "产生共鸣；设身处地理解别人的感受"
+    }
+  ],
+  "iconic": [
+    {
+      "pos": "adj.",
+      "meaning": "标志性的；图标的；偶像般的"
+    }
+  ],
+  "pacific": [
+    {
+      "pos": "adj.",
+      "meaning": "太平洋的；和平的；温和的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "太平洋（通常首字母大写）"
+    }
+  ],
+  "co-option": [
+    {
+      "pos": "n.",
+      "meaning": "增选；吸纳；收编"
+    }
+  ],
+  "co-ordination": [
+    {
+      "pos": "n.",
+      "meaning": "协调；配合；配位"
+    }
+  ],
+  "online": [
+    {
+      "pos": "adj.",
+      "meaning": "在线的；联网的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在网上；在线地"
+    }
+  ],
+  "calamine": [
+    {
+      "pos": "n.",
+      "meaning": "炉甘石"
+    }
+  ],
+  "leading to": [
+    {
+      "pos": "phr. v.",
+      "meaning": "导致；通往"
+    }
+  ],
+  "thankful for": [
+    {
+      "pos": "adj. phr.",
+      "meaning": "因……而感激的"
+    }
+  ],
+  "virtual": [
+    {
+      "pos": "adj.",
+      "meaning": "虚拟的；实际上的；事实上的"
+    }
+  ],
+  "imaginative": [
+    {
+      "pos": "adj.",
+      "meaning": "富有想象力的；有创意的"
+    }
+  ],
+  "methodological": [
+    {
+      "pos": "adj.",
+      "meaning": "方法论的；研究方法的"
+    }
+  ],
+  "biological": [
+    {
+      "pos": "adj.",
+      "meaning": "生物的；生物学的"
+    }
+  ],
+  "geological": [
+    {
+      "pos": "adj.",
+      "meaning": "地质的；地质学的"
+    }
+  ],
+  "corporation": [
+    {
+      "pos": "n.",
+      "meaning": "公司；法人；法人团体"
+    }
+  ],
+  "comprehensive": [
+    {
+      "pos": "adj.",
+      "meaning": "全面的；综合的"
+    }
+  ],
+  "organic": [
+    {
+      "pos": "adj.",
+      "meaning": "有机的；生物的；有组织的"
+    }
+  ],
+  "officious": [
+    {
+      "pos": "adj.",
+      "meaning": "多管闲事的；好管闲事的"
+    }
+  ],
+  "syndrome": [
+    {
+      "pos": "n.",
+      "meaning": "综合征"
+    }
+  ]
+}
