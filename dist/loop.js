@@ -1,6 +1,6 @@
 // 每个词三轮回忆；答题与核对分开提交，支持刷新续学。
 (function(root) {
-  function create(kind, day) {return {version:1,recallGap:6,kind,day,turn:0,serial:0,lastId:null,items:[],current:null};}
+  function create(kind, day) {return {version:1,recallGap:6,spacingVersion:2,kind,day,turn:0,serial:0,lastId:null,items:[],current:null};}
   function restore(raw, validIds, kind) {
     if(!raw || raw.version!==1 || raw.kind!==kind || !Array.isArray(raw.items) || typeof raw.day!=='string')return null;
     const loop=create(kind,raw.day), seen=new Set();
@@ -15,6 +15,13 @@
       if(item.stage===2&&!item.done)item.readyAt+=Math.max(0,Math.min(6,loop.items.filter(i=>!i.done&&i.id!==item.id).length)-1);
     }
     const q=raw.current, item=loop.items.find(i=>i.id===q?.id&&!i.done);
+    // Extend waiting cards once without resetting stages, lapses or the visible question.
+    if(raw.spacingVersion!==2)for(const pending of loop.items){
+      if(pending.introduced&&!pending.done&&pending.id!==item?.id){
+        const gap=Math.min(kind==='new'&&pending.stage===2?6:5,loop.items.filter(i=>!i.done&&i.id!==pending.id).length);
+        pending.readyAt=Math.max(pending.readyAt,loop.turn+gap);
+      }
+    }
     if(item&&q.stage===item.stage&&['question','reveal'].includes(q.phase)&&Array.isArray(q.order)&&q.order.length===4&&new Set(q.order).size===4&&q.order.every(n=>[0,1,2,3].includes(n))&&(q.phase==='question'||typeof q.correct==='boolean')) {
       loop.current={id:q.id,stage:q.stage,phase:q.phase,serial:loop.serial,autoIntro:q.autoIntro===true,correct:q.correct===true,choice:[0,1,2,3].includes(q.choice)?q.choice:null,order:q.order,wrongChoices:q.stage===1&&Array.isArray(q.wrongChoices)?[...new Set(q.wrongChoices.filter(n=>[1,2,3].includes(n)))]:[]};
     }
@@ -35,7 +42,9 @@
     const others=pending.filter(i=>i.id!==loop.lastId);
     const candidates=others.length?others:pending;
     const ready=candidates.filter(i=>i.readyAt<=loop.turn);
-    const pool=ready.length?ready:candidates;
+    // At the end of a short batch, use the longest-waiting card, not source order.
+    const earliest=Math.min(...candidates.map(i=>i.readyAt));
+    const pool=ready.length?ready:candidates.filter(i=>i.readyAt===earliest);
     const fresh=pool.filter(i=>!i.introduced), recall=pool.filter(i=>i.introduced);
     // 先按源顺序引入新词；到间隔后，再穿插回忆。
     const preferRecall=loop.turn>=2&&loop.turn%2===0;
@@ -69,7 +78,7 @@
     if(!q.correct){item.stage=1;item.lapses++;}
     else if(q.stage===3){item.done=true;completedId=item.id;}
     else item.stage++;
-    const gap=loop.kind==='new'&&q.stage===1?Math.min(6,loop.items.filter(i=>!i.done&&i.id!==q.id).length):1;
+    const gap=Math.min(loop.kind==='new'&&q.stage===1?6:5,loop.items.filter(i=>!i.done&&i.id!==q.id).length);
     loop.turn++;item.readyAt=loop.turn+gap;loop.lastId=item.id;loop.current=null;
     return {advanced:true,completedId};
   }

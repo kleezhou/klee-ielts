@@ -692,6 +692,44 @@ let migrated=Loop.restore(JSON.parse(JSON.stringify(legacy)),cards.map(c=>c.id),
 migrated=Loop.restore(JSON.parse(JSON.stringify(migrated)),cards.map(c=>c.id),'new');assert.equal(migrated.items[0].readyAt,7,'migration is not repeated on each refresh');
 console.log('PASS: six intervening cards before first new-word recall; 1–20-word batches finish; reload preserves spacing; old waiting queues migrate once.');
 
+// Every recall round and lapse uses the longer interval, including saved queues.
+for(const kind of ['new','review'])for(const size of [1,2,4,5,6,7,10,20,200]){
+ const ids=Array.from({length:size},(_,i)=>i+1),lastSeen=new Map(),mistakes=new Set(),seen=[];
+ let spaced=Loop.create(kind,day);Loop.sync(spaced,ids,day);
+ for(let turn=0;turn<size*20;turn++){
+  const q=Loop.next(spaced,()=>.4);if(!q)break;
+  if(lastSeen.has(q.id)){
+   const between=seen.slice(lastSeen.get(q.id)+1),available=spaced.items.filter(i=>!i.done&&i.id!==q.id).length;
+   assert.ok(new Set(between).size>=Math.min(5,available),`${kind}/${size}: card ${q.id} repeats too soon at stage ${q.stage}`);
+  }
+  lastSeen.set(q.id,seen.length);seen.push(q.id);
+  const key=`${q.id}:${q.stage}`,wrong=!mistakes.has(key);mistakes.add(key);
+  if(wrong&&q.stage===1)Loop.answer(spaced,false,1);
+  Loop.answer(spaced,!(wrong&&q.stage===2),0);
+  if(wrong&&q.stage===3)Loop.mistake(spaced);
+  Loop.advance(spaced);spaced=Loop.restore(JSON.parse(JSON.stringify(spaced)),ids,kind);
+ }
+ assert.equal(Loop.next(spaced),null,`${kind}/${size}: all cards finish despite errors`);
+ assert.equal(spaced.items.filter(i=>i.done).length,size);
+ assert.equal(spaced.items.every(i=>i.lapses===3),true,'all three kinds of mistake stay recorded');
+}
+for(const kind of ['new','review']){
+ const ids=[1,2,3,4,5,6,7],old=Loop.create(kind,day);Loop.sync(old,ids,day);
+ old.turn=12;old.lastId=1;delete old.spacingVersion;
+ Object.assign(old.items[0],{stage:3,introduced:true,readyAt:13,lapses:2});
+ Object.assign(old.items[1],{stage:2,introduced:true,readyAt:13});
+ Object.assign(old.items[6],{stage:3,introduced:true,done:true,spelled:true,lapses:1});
+ Loop.next(old,()=>.4);Loop.answer(old,true,0);
+ const before=JSON.stringify(old),restored=Loop.restore(old,ids,kind);
+ assert.equal(JSON.stringify(old),before,'migration never mutates the saved input');
+ assert.deepEqual(restored.current,old.current,'the visible reveal, answer and choice order survive');
+ assert.equal(restored.items[0].readyAt,17,'waiting later rounds gain five intervening cards');
+ assert.equal(restored.items[0].stage,3);assert.equal(restored.items[0].lapses,2);
+ assert.deepEqual(restored.items[6],old.items[6],'completed/spelled evidence is unchanged');
+ assert.deepEqual(Loop.restore(JSON.parse(JSON.stringify(restored)),ids,kind),restored,'refresh never extends the wait twice');
+}
+console.log('PASS: all new/review rounds and three mistake paths space repeats across five other words; 1–200-word batches finish; legacy queues migrate once with current cards, errors and completion evidence preserved.');
+
 for(const [typed,expected,distance] of [['resmble','resemble',1],['reseemble','resemble',1],['resembel','resemble',2],['relyon','rely on',1],["isnt","isn't",1],['ecofriendly','eco-friendly',1],['RESEMBLE','resemble',0],['','resemble',8]]){
  const diff=Loop.compareSpelling(typed,[expected]);
  assert.equal(diff.distance,distance,typed);assert.equal(diff.cells.map(c=>c.answer).join(''),Loop.normalizeSpelling(typed));assert.equal(diff.cells.map(c=>c.expected).join(''),expected);
